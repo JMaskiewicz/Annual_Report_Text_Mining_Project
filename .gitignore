@@ -1,4 +1,6 @@
 discussion/*
+!discussion/__init__.py
 !discussion/.gitkeep
 reports/*
 !reports/.gitkeep
+!reports/__init__.py
