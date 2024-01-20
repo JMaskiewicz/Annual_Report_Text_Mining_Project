@@ -1,2 +1,4 @@
-/discussion/
-/reports/
+discussion/*
+!discussion/.gitkeep
+reports/*
+!reports/.gitkeep
