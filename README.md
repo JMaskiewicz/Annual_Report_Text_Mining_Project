@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository hosts a Python-based project aimed at conducting an in-depth analysis of corporate annual reports from various companies spanning multiple years. The primary goal is to extract, process, and analyze the textual content of these reports to gain insights into corporate strategies, performance, and market positioning.
+This repository hosts a Python-based project aimed at conducting an in-depth analysis of Discussion and Analysis part of corporate annual reports from various companies spanning multiple years. The primary goal is to extract, process, and analyze the textual content of these reports to gain insights into corporate strategies, performance, and market positioning.
 
 ## Main Project File
 
@@ -11,7 +11,7 @@ The core analysis and demonstrations of this project are encapsulated in the Jup
 ## Key Features
 
 - **Textual Data Extraction**: Automated extraction of text from PDF-formatted annual reports, enabling the analysis of unstructured data.
-- **R&D Analysis**: Focused examination of Research & Development sections to assess companies' innovation efforts and strategic commitments.
+- **D&A Analysis**: Focused examination of Discussion and Analysis sections to assess companies' innovation efforts and strategic commitments.
 - **Sentiment Analysis**: Utilizes both NLTK and advanced transformer models to evaluate the sentiment conveyed in the reports, capturing a range of expressions from explicit to subtle.
 - **Keyword Analysis**: Detailed analysis to identify and count specific positive and negative keywords, providing insights into the tonality of the reports.
 - **Topic Modeling**: Employs Latent Dirichlet Allocation (LDA) to uncover the main themes within the reports, revealing strategic and operational focuses.
