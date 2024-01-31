@@ -1,0 +1,438 @@
+“TARGET2” means the Trans-European Automated Real-time Gross Settlement Express Transfer payment system
+which utilizes a single shared platform and which was launched on November 19, 2007.
+“TARGET Day” means any day on which TARGET2 (or, if such payment system ceases to be operative, such other
+payment system, if any, determined by the Administrative Agent to be a suitable replacement) is open for the settlement of
+payments in Euro.
+“Taxes” means any and all present or future taxes, levies, imposts, duties, deductions, charges or withholdings
+(including backup withholdings) imposed by any Governmental Authority, including any interest, additions to tax or penalties
+applicable thereto.
+“TEO” means Tesla Energy Operations, Inc., a Delaware corporation.
+“Term Benchmark” when used in reference to any Loan or Borrowing, refers to whether such Loan, or the Loans
+comprising such Borrowing, are bearing interest at a rate determined by reference to the Adjusted Term SOFR Rate or the Adjusted
+EURIBOR Rate.
+“Term SOFR” means:
+(a) for any calculation with respect to a SOFR Loan, the Term SOFR Reference Rate for a tenor comparable to the
+applicable Interest Period on the day (such day, the “Periodic Term SOFR Determination Day”) that is two (2) U.S. Government
+Securities Business Days prior to the first day of such Interest Period, as such rate is published by the Term SOFR Administrator;
+provided, however, that if as of 5:00 p.m. (New York City time) on any Periodic Term SOFR Determination Day the Term SOFR
+Reference Rate for the applicable tenor has not been published by the Term SOFR Administrator and a Benchmark Replacement
+Date with respect to the Term SOFR Reference Rate has not occurred, then Term SOFR will be the Term SOFR Reference Rate for
+such tenor as published by the Term SOFR Administrator on the first (1st) preceding U.S. Government Securities Business Day for
+which such Term SOFR Reference Rate for such tenor was published by the Term SOFR Administrator so long as such first (1st)
+preceding U.S. Government Securities Business Day is not more than three (3) U.S. Government Securities Business Days prior to
+such Periodic Term SOFR Determination Day, and
+(b) for any calculation with respect to an ABR Loan on any day, the Term SOFR Reference Rate for a tenor of one
+month on the day (such day, the “ABR Term SOFR Determination Day”) that is two (2) U.S. Government Securities Business Days
+prior to such day, as such rate is published by the Term SOFR Administrator; provided, however, that if as of 5:00 p.m. (New York
+City time) on any ABR Term SOFR Determination Day the Term SOFR Reference Rate for the applicable tenor has not been
+published by the Term SOFR Administrator and a Benchmark Replacement Date with respect to the Term SOFR Reference Rate has
+not occurred, then Term SOFR will be the Term SOFR Reference Rate for such tenor as published by the Term SOFR Administrator
+on the first (1st) preceding U.S. Government Securities Business Day for which such Term SOFR Reference Rate for such tenor was
+published by the Term SOFR Administrator so long as such first (1st) preceding U.S. Government Securities Business Day is not
+more than three (3) U.S. Government Securities Business Days prior to such ABR Term SOFR Determination Day.
+“Term SOFR Administrator” means CME Group Benchmark Administration Limited (CBA) (or a successor
+administrator of the Term SOFR Reference Rate selected by the Administrative Agent in its reasonable discretion).
+“Term SOFR Reference Rate” means the forward-looking term rate based on SOFR.
+32
+“Tesla Finance Subsidiaries” means (i) Tesla Finance, LLC and its subsidiaries and (ii) Tesla Financial Services
+Holdings B.V. and its subsidiaries, including Tesla Financial Services Limited and Tesla Financial Services GmbH.
+“Total Available Commitments” means, at any time, an amount equal to the excess, if any, of (a) the total
+Commitments then in effect, over (b) the Total Credit Exposure.
+“Total Credit Exposure” means, the sum of the Dollar Amount of the outstanding principal amount of all Lenders’
+Loans and their LC Exposure at such time.
+“Transactions” means the (a) execution, delivery and performance by the (i) Borrower of this Agreement and (ii)
+Guarantors of the Guarantee Agreement, (b) borrowing of Loans and the use of the proceeds thereof and (c) the issuance of Letters
+of Credit hereunder.
+“Treaty” means the Treaty establishing the European Economic Community, being the Treaty of Rome of March
+25, 1957, as amended by the Single European Act 1987, the Maastricht Treaty (which was signed at Maastricht on February 7,
+1992 and came into force on November 1, 1993), the Amsterdam Treaty (which was signed at Amsterdam on October 2, 1997 and
+came into force on May 1, 1999) and the Nice Treaty (which was signed on February 26, 2001), each as may be further amended,
+supplemented or otherwise modified from time to time and as referred to in legislative measures of the European Union for the
+introduction of, changeover to or operating of the Euro in one or more member states.
+“Type”, when used in reference to any Loan or Borrowing, refers to whether the rate of interest on such Loan, or
+on the Loans comprising such Borrowing, is determined by reference to the Adjusted Term SOFR Rate, the Adjusted EURIBOR
+Rate, the Daily Simple SONIA or the Alternate Base Rate.
+“UK Financial Institutions” means any BRRD Undertaking (as such term is defined under the PRA Rulebook (as
+amended from time to time) promulgated by the United Kingdom Prudential Regulation Authority) or any person falling within
+IFPRU 11.6 of the FCA Handbook (as amended from time to time) promulgated by the United Kingdom Financial Conduct
+Authority, which includes certain credit institutions and investment firms, and certain affiliates of such credit institutions or
+investment firms.
+“UK Resolution Authority” means the Bank of England or any other public administrative authority having
+responsibility for the resolution of any UK Financial Institution.
+“Unadjusted Benchmark Replacement” means the applicable Benchmark Replacement excluding the related
+Benchmark Replacement Adjustment.
+33
+“Unrestricted Subsidiary” means any Subsidiary that (a) is existing as of the Effective Date, (b) is a Securitization
+Subsidiary or (c) is not a Significant Subsidiary and, in each case, is designated as an Unrestricted Subsidiary by the Borrower by
+delivery to the Administrative Agent after the date hereof of a certificate of an Authorized Officer of the Borrower (substantially in
+the form of Exhibit H hereto); provided that in each such case, such Subsidiary shall satisfy the following conditions:
+(1) no portion of the Indebtedness or any other obligations (contingent or otherwise) of the Subsidiary,
+(a) is guaranteed by the Borrower or any Restricted Subsidiary (excluding in the case of a
+Securitization Subsidiary, pursuant to Standard Securitization Undertakings),
+(b) is recourse to the Borrower or any Restricted Subsidiary, other than (to the extent applicable)
+pursuant to Standard Securitization Undertaking, or
+(c) subjects any property or asset of the Borrower or any Restricted Subsidiary, directly or
+indirectly, contingently or otherwise, to the satisfaction thereof, other than Liens satisfying the
+requirements of paragraph (k) of the definition of “Permitted Encumbrances” or, in the case of a
+Securitization Subsidiary, pursuant to Standard Securitization Undertakings;
+(2) neither the Borrower nor any Restricted Subsidiary has any material contract, agreement, arrangement or
+understanding with the Subsidiary, other than (x) Standard Securitization Undertakings or (y) on terms
+(taken as a whole) no less favorable to the Borrower or such Restricted Subsidiary than those that might
+be obtained at the time from Persons that are not Affiliates of the Borrower; and
+(3) neither the Borrower nor any Restricted Subsidiary has any obligation to maintain or preserve the Subsidiary’s
+financial condition or cause the Subsidiary to achieve certain levels of operating results.
+“U.S. Government Securities Business Day” means any day except for (i) a Saturday, (ii) a Sunday or (iii) a day on
+which the Securities Industry and Financial Markets Association recommends that the fixed income departments of its members be
+closed for the entire day for purposes of trading in United States government securities.
+“U.S. Special Resolution Regimes” has the meaning assigned to it in Section 9.18.
+“U.S. Tax Compliance Certificate” means a certificate substantially in the form of Exhibits I-1 through I-4 hereto,
+as applicable.
+“Used” shall mean, with respect to any inventory, that such inventory was previously sold (other than to a Loan
+Party), excluding remanufactured items.
+“Used Motor Vehicles” means all Used motor vehicles owned by the Borrower or any of its Subsidiaries.
+“Vehicle Environmental Attribute” means any credit, benefit, reduction, offset or allowance, howsoever entitled or
+named, relating to the emissions or environmental impacts that result
+34
+from, are attributable to, or are associated with a vehicle, a vehicle’s use, or a vehicle charging station that is capable of being
+measured, verified or calculated and in any case may be lawfully marketed to third parties. By way of illustration, Vehicle
+Environmental Attributes may result from: new energy vehicles; zero emission vehicles; fuel economy; avoided criteria air
+pollutants, CO2 or greenhouse gas emissions; low carbon, renewable or clean fuel; and other credits and offsets defined under any
+applicable vehicle and charging-related private or governmental program, including, without limitation, the following credits:
+California LEV III NMOG +NOx, US CAFE, US GHG, US Tier 3 NMOG + NOx, Canada GHG, Quebec ZEV, EU CO2 Pooling, and
+Switzerland GHG Credits and Low Carbon Fuel Standards credits. Notwithstanding any of the foregoing in this definition or any
+other provision of this Agreement, Vehicle Environmental Attributes shall not include: (i) any of the foregoing obtained by, provided
+to, used by or necessary for the Borrower or any of its Subsidiaries to conduct any of its operations at any location; or (ii) any
+automotive tax credits.
+“Withdrawal Liability” means liability to a Multiemployer Plan as a result of a complete or partial withdrawal from
+such Multiemployer Plan, as such terms are defined in Part I of Subtitle E of Title IV of ERISA.
+“Withholding Agent” means the Borrower and the Administrative Agent.
+“Write-Down and Conversion Powers” means, (a) with respect to any EEA Resolution Authority, the write-down
+and conversion powers of such EEA Resolution Authority from time to time under the Bail-In Legislation for the applicable EEA
+Member Country, which write-down and conversion powers are described in the EU Bail-In Legislation Schedule and (b) with
+respect to the United Kingdom, any powers of the applicable Resolution Authority under the Bail-In Legislation to cancel, reduce,
+modify or change the form of a liability of any UK Financial Institution or any contract or instrument under which that liability
+arises, to convert all or part of that liability into shares, securities or obligations of that person or any other person, to provide that
+any such contract or instrument is to have effect as if a right had been exercised under it or to suspend any obligation in respect of
+that liability or any of the powers under that Bail-In Legislation that are related to or ancillary to any of those powers.
+SECTION 1.02. Classification of Loans and Borrowings. For purposes of this Agreement, Loans may be classified
+and referred to by Type (e.g., a “Term Benchmark Loan”, “SONIA Loan” or “ABR Loan”). Borrowings also may be classified and
+referred to by Type (e.g., a “Term Benchmark Borrowing”, “SONIA Borrowing” or “ABR Borrowing”).
+SECTION 1.03. Terms Generally. The definitions of terms herein shall apply equally to the singular and plural
+forms of the terms defined. Whenever the context may require, any pronoun shall include the corresponding masculine, feminine
+and neuter forms. The words “include”, “includes” and “including” shall be deemed to be followed by the phrase “without
+limitation.” The word “will” shall be construed to have the same meaning and effect as the word “shall.” Unless the context
+requires otherwise (a) any definition of or reference to any agreement, instrument or other document herein shall be construed as
+referring to such agreement, instrument or other document as from time to time amended, amended and restated, supplemented or
+otherwise modified (subject to any restrictions on such amendments, supplements or modifications set forth herein) and any
+definition of or reference to any law, statute, regulation, rule or other legislative action shall mean such law, statute, regulation,
+rule or other legislative action as amended, supplemented or otherwise modified from time to time, (b) any reference herein to any
+Person shall be construed to include such Person’s successors and assigns, (c) the words “herein”, “hereof” and “hereunder”, and
+words of similar import, shall be construed to refer to this Agreement in its entirety and not to any particular provision hereof, (d)
+all references herein to Articles, Sections, Exhibits and Schedules shall be construed to refer to Articles and Sections of, and
+Exhibits and Schedules to, this Agreement, (e) any reference to any law, rule or regulation herein shall, unless
+35
+otherwise specified, refer to such law, rule or regulation as amended, modified or supplemented from time to time and (f) the words
+“asset” and “property” shall be construed to have the same meaning and effect and to refer to any and all tangible and intangible
+assets and properties, including cash, securities, accounts and contract rights.
+SECTION 1.04. Accounting Terms; GAAP. Except as otherwise expressly provided herein, all terms of an
+accounting or financial nature shall be construed in accordance with GAAP, as in effect from time to time; provided that, if the
+Borrower notifies the Administrative Agent that the Borrower requests an amendment to any provision hereof to eliminate the
+effect of any change occurring after the date hereof in GAAP or in the application thereof on the operation of such provision (or if
+the Administrative Agent notifies the Borrower that the Required Lenders request an amendment to any provision hereof for such
+purpose), regardless of whether any such notice is given before or after such change in GAAP or in the application thereof, then
+such provision shall be interpreted on the basis of GAAP as in effect and applied immediately before such change shall have become
+effective until such notice shall have been withdrawn or such provision amended in accordance herewith. Notwithstanding any
+other provision contained herein, (a) any election under Financial Accounting Standards Board Accounting Standards Codification
+825 (or any other Financial Accounting Standard having a similar result or effect) to value any Indebtedness or other liabilities of
+the Borrower or any Subsidiary at “fair value”, as defined therein and (b) any treatment of Indebtedness under Accounting
+Standards Codification 470-20 or 2015-03 (or any other Accounting Standards Codification or Financial Accounting Standard
+having a similar result or effect) to value any such Indebtedness in a reduced or bifurcated manner as described therein, and such
+Indebtedness shall at all times be valued at the full stated principal amount thereof.
+SECTION 1.05. Currency Equivalents Generally. (a) If more than one currency or currency unit are at the same
+time recognized by the central bank of any country as the lawful currency of that country, then (i) any reference in this Agreement
+to, and any obligations arising under this Agreement in, the currency of that country shall be translated into or paid in the currency
+or currency unit of that country designated by the Administrative Agent and (ii) any translation from one currency or currency unit
+to another shall be at the official rate of exchange recognized by the central bank for conversion of that currency or currency unit
+into the other, rounded to the nearest thousandth by the Administrative Agent as it reasonably deems appropriate.
+(b) If a change in any currency of a country occurs, this Agreement shall be amended (and each party hereto
+agrees to enter into any supplemental agreements necessary to effect any such amendment) to the extent that the Administrative
+Agent and the Borrower reasonably determine such amendment to be necessary to reflect the change in currency and to put the
+Lenders in the same position, so far as possible, that they would have been in if no change in currency had occurred.
+SECTION 1.06. Interest Rates. The Administrative Agent does not warrant or accept any responsibility for, and
+shall not have any liability with respect to (a) the continuation of, administration of, submission of, calculation of or any other
+matter related to ABR, the Term SOFR Reference Rate, Adjusted Term SOFR Rate, Term SOFR, Adjusted EURIBOR Rate,
+EURIBOR, the Daily Simple SONIA, SONIA or any component definition thereof or rates referred to in the definition thereof, or any
+alternative, successor or replacement rate thereto (including any Benchmark Replacement), including whether the composition or
+characteristics of any such alternative, successor or replacement rate (including any Benchmark Replacement) will be similar to, or
+produce the same value or economic equivalence of, or have the same volume or liquidity as, ABR, the Term SOFR Reference Rate,
+Adjusted Term SOFR Rate, Term SOFR, Adjusted EURIBOR Rate, EURIBOR, the Daily Simple SONIA, SONIA or any other
+Benchmark prior to its discontinuance or unavailability or (b) the effect, implementation or composition of any Conforming
+Changes. The Administrative Agent and its affiliates
+36
+or other related entities may engage in transactions that affect the calculation of ABR, the Term SOFR Reference Rate, Term SOFR,
+Adjusted Term SOFR Rate, Adjusted EURIBOR Rate, EURIBOR, the Daily Simple SONIA, SONIA any alternative, successor or
+replacement rate (including any Benchmark Replacement) or any relevant adjustments thereto, in each case, in a manner adverse
+to the Borrower. The Administrative Agent may select information sources or services in its reasonable discretion to ascertain ABR,
+the Term SOFR Reference Rate, Term SOFR, Adjusted Term SOFR Rate, Adjusted EURIBOR Rate, EURIBOR, the Daily Simple
+SONIA, SONIA or any other Benchmark, any component definition thereof or rates referred to in the definition thereof, in each case
+pursuant to the terms of this Agreement, and shall have no liability to the Borrower, any Lender or any other person or entity for
+damages of any kind, including direct or indirect, special, punitive, incidental or consequential damages, costs, losses or expenses
+(whether in tort, contract or otherwise and whether at law or in equity), for any error or calculation of any such rate (or component
+thereof) provided by any such information source or service.
+SECTION 1.07. Divisions. For all purposes under this Agreement, in connection with any division or plan of
+division under Delaware law (or any comparable event under a different jurisdiction’s laws): (a) if any asset, right, obligation or
+liability of any Person becomes the asset, right, obligation or liability of a different Person, then it shall be deemed to have been
+transferred from the original Person to the subsequent Person and (b) if any new Person comes into existence, such new Person
+shall be deemed to have been organized and acquired on the first date of its existence by the holders of its Equity Interests at such
+time.
+Article II
+The Credits
+SECTION 2.01. Commitments. Subject to the terms and conditions set forth herein, each Lender severally and
+not jointly agrees to make revolving loans denominated in Dollars, Euros and Pounds Sterling (the “Loans”) to the Borrower from
+time to time during the Availability Period in an aggregate principal amount that will not result in (x) such Lender’s Credit
+Exposure exceeding such Lender’s Commitment or (y) the Total Credit Exposure exceeding the total Commitments. Within the
+foregoing limits and subject to the terms and conditions set forth herein, the Borrower may borrow, prepay and reborrow Loans.
+No portion of the Loan will be funded (initially or through participation, assignment, transfer or securitization) with plan assets of
+any Benefit Plan if it would cause the Borrower to incur any prohibited transaction excise tax penalties under Section 4975 of the
+Code or otherwise result in a non-exempt prohibited transaction.
+SECTION 2.02. Loans and Borrowings. (a) Each Loan shall be made as part of a Borrowing consisting of Loans
+made by the Lenders ratably in accordance with their respective Commitments. The failure of any Lender under the Facility to
+make any Loan required to be made by it shall not relieve any other Lender under the Facility of its obligations hereunder; provided
+that the Commitments of the Lenders are several and no Lender shall be responsible for any other Lender’s failure to make Loans
+as required.
+37
+(b) Subject to Section 2.13 and Section 2.21, (i) each Borrowing denominated in Dollars shall be available in the
+Funding Office and consist entirely of ABR Loans or Term Benchmark Loans bearing interest at the Adjusted Term SOFR Rate, (ii)
+each Borrowing denominated in Pounds Sterling shall be available in the Funding Office and consist entirely of SONIA Loans and
+(iii) each Borrowing denominated in Euros shall be available in the Funding Office and consist entirely of Term Benchmark Loans
+bearing interest at the Adjusted EURIBOR Rate. Each Lender at its option may make any Loan by causing any domestic or foreign
+branch or Affiliate of such Lender to make such Loan; provided that (i) any exercise of such option shall not affect the obligation of
+the Borrower to repay such Loan in accordance with the terms of this Agreement and (ii) any such domestic or foreign branch or
+Affiliate of such Lender shall not be entitled to request compensation under Section 2.14 at the time such Loan is made.
+(c) At the commencement of each Interest Period for any Term Benchmark Borrowing, such Borrowing shall be
+in an aggregate amount that is an integral multiple of $1,000,000 (and not less than $10,000,000) (in the case of Euros, an integral
+multiple of €1,000,000 and not less than €10,000,000). At the time that each ABR Borrowing is made, such Borrowing shall be in
+an aggregate amount that is an integral multiple of $1,000,000 and not less than $1,000,000; provided that an ABR Borrowing may
+be in an aggregate amount that is equal to the entire unused balance of the total Commitments. At the time that each SONIA
+Borrowing is made, such Borrowing shall be in an aggregate amount that is an integral multiple of £1,000,000 and not less than
+£10,000,000. Borrowings of more than one Type may be outstanding at the same time; provided that there shall not at any time be
+more than a total of 10 Borrowings.
+(d) Notwithstanding any other provision of this Agreement, the Borrower shall not be entitled to request, or to
+elect to convert or continue, any Borrowing if the Interest Period requested with respect thereto would end after the Maturity Date.
+(e) The Borrower may from time to time elect to increase the Commitments of the Facility in a minimum amount
+of $25,000,000 in respect of the Facility so long as, after giving effect thereto, the aggregate amount of the Commitments of the
+Facility does not exceed $7,000,000,000. The Borrower may arrange for any such increase to be provided by one or more Lenders
+with a Commitment in the Facility (each Lender so agreeing to an increase in its Commitment, an “Increasing Lender”; it being
+understood and agreed that each Lender of the Facility approached to provide any such increase shall have the right, but not the
+obligation, to provide such increase), or by one or more banks, financial institutions or other entities (each such bank, financial
+institution or other entity, an “Augmenting Lender”), to increase their existing Commitments in respect of the Facility, or extend
+Commitments in respect of the Facility, as the case may be; provided that (i) each Augmenting Lender, shall be subject to the
+approval of the Borrower and the Administrative Agent (not to be unreasonably withheld or delayed) and (ii) (x) in the case of an
+Increasing Lender, the Borrower and such Increasing Lender execute an agreement substantially in the form of Exhibit C hereto
+and (y) in the case of an Augmenting Lender, the Borrower and such Augmenting Lender execute an agreement substantially in the
+form of Exhibit D hereto. Increases and new Commitments created pursuant to this paragraph (e) shall become effective on the
+date agreed by the Borrower, the Administrative Agent and the relevant Lenders with a Commitment in the Facility and the
+Administrative Agent shall notify each affected Lender thereof; provided that no increase in the Commitments created pursuant to
+this paragraph (e) shall become effective less than three (3) Business Days prior to the Maturity Date. Notwithstanding the
+foregoing, no increase in the Commitments (or in the Commitment of any Lender), shall become effective under this paragraph (e)
+unless, (i) on the proposed date of the effectiveness of such increase, the conditions set forth in Sections 4.02(a) and (b) shall be
+satisfied or waived by the Required Lenders with a Commitment in the Facility and the Administrative Agent shall have received a
+certificate to that effect dated such date and executed by an Authorized Officer of the Borrower and (ii) the Administrative Agent
+shall have received
+38
+documents consistent with those delivered on the Effective Date under Section 4.01 as to the corporate power and authority of the
+Borrower to borrow hereunder after giving effect to such increase. On the effective date of any increase in the Commitments of the
+Facility, (i) each relevant Increasing Lender with a Commitment in the Facility and Augmenting Lender with a Commitment in the
+Facility shall make available to the Administrative Agent such amounts in immediately available funds as the Administrative Agent
+shall determine, for the benefit of the other relevant Lenders in the Facility, as being required in order to cause, after giving effect
+to such increase and the use of such amounts to make payments to such other relevant Lenders in the Facility, each Lender’s
+portion of the outstanding Loans under the Facility of all the Lenders with Commitments in the Facility to equal its Applicable
+Percentage of such outstanding Loans under the Facility, (ii) the Lenders shall purchase and assume (without recourse or warranty)
+from the Lenders undivided participation interests in any outstanding LC Exposure to the extent necessary to ensure that after
+giving effect to any such increase in the Commitments of the Facility, each Lender has outstanding Loans and participation
+interests in outstanding LC Exposure equal to its Applicable Percentage and (iii) the Borrower shall be deemed to have repaid and
+re-borrowed all outstanding Loans of the Facility as of the date of any increase in the Commitments of the Facility (with such re-
+borrowing to consist of the Types of Loans, with related Interest Periods if applicable, specified in a notice delivered by the
+Borrower in accordance with the requirements of Section 2.03). The deemed payments made pursuant to clause (iii) of the
+immediately preceding sentence in respect of any Term Benchmark Loan or SONIA Loan shall be subject to indemnification by the
+Borrower pursuant to the provisions of Section 2.15 if the deemed payment occurs other than on the last day of the related Interest
+Periods.
+SECTION 2.03. Requests for Borrowings. To request a Borrowing, the Borrower shall notify the Administrative
+Agent of such request by telephone (a) in the case of an ABR Borrowing, not later than 11:00 a.m., New York City time, on the
+Business Day of the proposed ABR Borrowing, (b) in the case of a Term Benchmark Borrowing denominated in Dollars, not later
+than 1:00 p.m., New York City time, three (3) Business Days before the date of the proposed Term Benchmark Borrowing, (c) in the
+case of a SONIA Borrowing, not later than 1:00 p.m., London time, five (5) Business Days before the date of the proposed SONIA
+Borrowing and (d) in the case of a Term Benchmark Borrowing denominated in Euros, not later than 1:00 p.m., London time, three
+(3) Business Days before the date of the proposed Term Benchmark Borrowing. Each such telephonic Borrowing Request shall be
+irrevocable and shall be confirmed promptly by hand delivery or facsimile (or in any other manner approved pursuant to Section
+9.01(b)) to the Administrative Agent in the Funding Office of a written Borrowing Request in the form of Exhibit E hereto (except as
+otherwise agreed by the Administrative Agent and the Borrower) signed by the Borrower. Each such telephonic and written
+Borrowing Request shall specify the following information in compliance with Section 2.02:
+(i) the aggregate amount of the requested Borrowing;
+(ii) the date of such Borrowing, which shall be a Business Day;
+(iii) the Agreed Currency of the requested Borrowing;
+(iv) whether such Borrowing is to be an ABR Borrowing, a Term Benchmark Borrowing or a SONIA Borrowing;
+(v) in the case of a Term Benchmark Borrowing, the initial Interest Period to be applicable thereto, which shall be
+a period contemplated by the definition of the term “Interest Period”; and
+(vi) the location and number of the Borrower’s account to which funds are to be disbursed, which shall comply with
+the requirements of Section 2.06.
+39
+If no election as to the Type of any Borrowing denominated in Dollars in the Funding Office is specified, then the requested
+Borrowing shall be an ABR Borrowing. If no Interest Period is specified with respect to any requested Term Benchmark Borrowing,
+then the Borrower shall be deemed to have selected an Interest Period of one month’s duration. Promptly following receipt of a
+Borrowing Request in accordance with this Section 2.03, the Administrative Agent shall advise each Lender of the details thereof
+and of the amount of such Lender’s Loan to be made as part of the requested Borrowing.
+SECTION 2.04. Letters of Credit.
+(a) General. Subject to the terms and conditions set forth herein, the Borrower may request the issuance of
+Letters of Credit denominated in Dollars as the applicant thereof for the support of its or its Subsidiaries’ obligations, in a form
+reasonably acceptable to the Administrative Agent and each relevant Issuing Bank, at any time and from time to time during the
+Availability Period. In the event of any inconsistency between the terms and conditions of this Agreement and the terms and
+conditions of any Letter of Credit Agreement, the terms and conditions of this Agreement shall control. Notwithstanding anything
+herein to the contrary, no Issuing Bank shall have any obligation hereunder to issue, and shall not issue, any Letter of Credit the
+proceeds of which would be made available to any Person (i) to fund any activity or business of or with any Sanctioned Person, or in
+any Sanctioned Country, (ii) in any manner that would result in a violation of any Sanctions by any party to this Agreement or (iii) in
+any manner that would result in a violation of one or more policies of such Issuing Bank applicable to letters of credit generally. An
+Issuing Bank shall be under no obligation to issue any Letter of Credit if any order, judgment or decree of any Governmental
+Authority or arbitrator shall by its terms purport to enjoin or restrain such Issuing Bank from issuing such Letter of Credit, or any
+law applicable to such Issuing Bank or any directive (whether or not having the force of law) from any Governmental Authority with
+jurisdiction over such Issuing Bank shall prohibit, or direct that such Issuing Bank refrain from, the issuance of letters of credit
+generally or such Letter of Credit in particular or shall impose upon such Issuing Bank with respect to such Letter of Credit any
+restriction, reserve or capital requirement (for which such Issuing Bank is not otherwise compensated hereunder) not in effect on
+the Effective Date, or shall impose upon such Issuing Bank any unreimbursed loss, cost or expense which was not applicable on the
+Effective Date (for which such Issuing Bank is not otherwise compensated hereunder). No Issuing Bank shall have any obligation
+hereunder to issue any Letter of Credit other than a standby Letter of Credit, unless such Issuing Bank shall so agree.
+(b) Notice of Issuance, Amendment, Renewal, Extension; Certain Conditions. To request the issuance of a Letter
+of Credit (or the amendment, renewal or extension of an outstanding Letter of Credit), the Borrower shall hand deliver or telecopy
+(or transmit by electronic communication, if arrangements for doing so have been approved by the applicable Issuing Bank) to any
+Issuing Bank and the Administrative Agent (reasonably in advance of the requested date of issuance, amendment, renewal or
+extension, but in any event no less than three (3) Business Days) a notice requesting the issuance of a Letter of Credit, or
+identifying the Letter of Credit to be amended, renewed or extended, and specifying (A) the date of issuance, amendment, renewal
+or extension (which shall be a Business Day), (B) the date on which such Letter of Credit is to expire (which shall comply with
+Section 2.04(c)), (C) the Stated Amount of such Letter of Credit, (D) the Borrower as the account party and, if desired by the
+Borrower, one or more Subsidiaries as additional account parties and (E) the name and address of the beneficiary thereof and such
+other information as shall be necessary to prepare, amend, renew or extend such Letter of Credit. In addition, as a condition to any
+such Letter of Credit issuance, the Borrower shall have entered into a continuing agreement (or other letter of credit agreement)
+for the issuance of letters of credit and/or shall submit a letter of credit application, in each case, as required by the applicable
+Issuing Bank and using such bank’s standard form (each, a “Letter of Credit Agreement”). A Letter of Credit shall be issued,
+amended, renewed or extended only if (and upon issuance, amendment, renewal or extension of each Letter of Credit the Borrower
+shall be deemed to represent and warrant that), after
+40
+giving effect to such issuance, amendment, renewal or extension (i) (x) the aggregate undrawn amount of all outstanding Letters of
+Credit issued by an Issuing Bank at such time, plus (y) the aggregate amount of all LC Disbursements made by such Issuing Bank
+that have not yet been reimbursed by or on behalf of the Borrower at such time shall not exceed its Letter of Credit Commitment,
+(ii) the LC Exposure shall not exceed the total Letter of Credit Commitments, (iii) no Lender’s Credit Exposure shall exceed its
+Commitment and (iv) the Total Credit Exposure shall not exceed the total Commitments. The Borrower may, at any time and from
+time to time, reduce the Letter of Credit Commitment of any Issuing Bank with the consent of such Issuing Bank; provided that the
+Borrower shall not reduce the Letter of Credit Commitment of any Issuing Bank if, after giving effect of such reduction, the
+conditions set forth in clauses (i) through (iv) above shall not be satisfied.
+(c) Expiration Date. Each Letter of Credit shall expire (or be subject to termination by notice from an Issuing
+Bank to the beneficiary thereof) at or prior to the close of business on the earlier of (i) the date one (1) year after the date of the
+issuance of such Letter of Credit (or, in the case of any renewal or extension thereof, one year after the then-current expiration date
+at the time of such renewal or extension) and (ii) the date that is five (5) Business Days prior to the Maturity Date; provided that
+any Letter of Credit with a one-year tenor may provide for the renewal thereof for additional one-year periods (which shall in no
+event extend beyond the date referred to in clause (ii)).
+(d) Participations. By the issuance of a Letter of Credit (or an amendment to a Letter of Credit increasing the
+amount thereof) and without any further action on the part of the applicable Issuing Bank or the Lenders, such Issuing Bank hereby
+grants to each Lender, and each Lender hereby acquires from such Issuing Bank, a participation in such Letter of Credit equal to
+such Lender’s Applicable Percentage of the aggregate amount available to be drawn under such Letter of Credit. In consideration
+and in furtherance of the foregoing, each Lender hereby absolutely and unconditionally agrees to pay to the Administrative Agent,
+for the account of the applicable Issuing Bank, such Lender’s Applicable Percentage of each LC Disbursement made by such Issuing
+Bank and not reimbursed by the Borrower on the date due as provided in Section 2.04(e), or of any reimbursement payment
+required to be refunded to the Borrower for any reason. Each Lender acknowledges and agrees that its obligation to acquire
+participations pursuant to this paragraph (d) in respect of Letters of Credit is absolute and unconditional and shall not be affected
+by any circumstance whatsoever, including any amendment, renewal or extension of any Letter of Credit or the occurrence and
+continuance of a Default or reduction or termination of the Commitments, and that each such payment shall be made without any
+offset, abatement, withholding or reduction whatsoever.
+(e) Reimbursement. If an Issuing Bank shall make any LC Disbursement in respect of a Letter of Credit, the
+Borrower shall reimburse such LC Disbursement by paying to the Administrative Agent in Dollars such LC Disbursement, calculated
+as of the date the Issuing Bank made such LC Disbursement not later than 12:00 noon, New York City time, on the first (1st)
+Business Day immediately following the date that such LC Disbursement is made; provided that, if such LC Disbursement is not less
+than $1,000,000, the Borrower may, subject to the conditions to borrowing set forth herein, request in accordance with Section
+2.03 that such payment be financed with a Dollar denominated ABR Loan on the date on which such drawing is honored and in an
+amount equal to the amount of such drawing and, to the extent so financed, the Borrower’s obligation to make such payment shall
+be discharged and replaced by the resulting ABR Borrowing. If the Borrower fails to make such payment when due, the
+Administrative Agent shall notify each Lender of the applicable LC Disbursement, the payment then due from the Borrower in
+respect thereof and such Lender’s Applicable Percentage thereof. Promptly following receipt of such notice, each Lender shall pay
+to the Administrative Agent its Applicable Percentage of the payment then due from the Borrower, in the same manner as provided
+in Section 2.06 with respect to Loans made by such Lender (and Section 2.06 shall apply, mutatis mutandis, to the payment
+obligations of the Lenders), and the Administrative Agent shall promptly pay to the applicable Issuing Bank the
+41
+amounts so received by it from the Lenders. Promptly following receipt by the Administrative Agent of any payment from the
+Borrower pursuant to this paragraph (e), the Administrative Agent shall distribute such payment to the applicable Issuing Bank or,
+to the extent that Lenders have made payments pursuant to this paragraph (e) to reimburse the applicable Issuing Bank, then to
+such Lenders and the applicable Issuing Bank as their interests may appear. Any payment made by a Lender pursuant to this
+paragraph (e) to reimburse an Issuing Bank for any LC Disbursement (other than the funding of ABR Loans as contemplated above)
+shall not constitute a Loan and shall not relieve the Borrower of its obligation to reimburse such LC Disbursement.
+(f) Obligations Absolute. The Borrower’s obligation to reimburse LC Disbursements as provided in Section
+2.04(e) shall be absolute, unconditional and irrevocable, and shall be performed strictly in accordance with the terms of this
+Agreement under any and all circumstances whatsoever and irrespective of (i) any lack of validity or enforceability of any Letter of
+Credit, any Letter of Credit Agreement or this Agreement, or any term or provision therein, (ii) any draft or other document
+presented under a Letter of Credit proving to be forged, fraudulent or invalid in any respect or any statement therein being untrue
+or inaccurate in any respect, (iii) payment by an Issuing Bank under a Letter of Credit against presentation of a draft or other
+document that does not comply with the terms of such Letter of Credit or (iv) any other event or circumstance whatsoever, whether
+or not similar to any of the foregoing, that might, but for the provisions of this Section 2.04, constitute a legal or equitable
+discharge of, or provide a right of setoff against, the Borrower’s obligations hereunder. Neither the Administrative Agent, the
+Lenders nor the Issuing Banks, nor any of their Related Parties, shall have any liability or responsibility by reason of or in
+connection with the issuance or transfer of any Letter of Credit or any payment or failure to make any payment thereunder
+(irrespective of any of the circumstances referred to in the preceding sentence), or any error, omission, interruption, loss or delay
+in transmission or delivery of any draft, notice or other communication under or relating to any Letter of Credit (including any
+document required to make a drawing thereunder), any error in interpretation of technical terms or any consequence arising from
+causes beyond the control of the Issuing Banks. The parties hereto expressly agree that, in the absence of gross negligence or
+willful misconduct on the part of an Issuing Bank (as finally determined by a court of competent jurisdiction in a final non-
+appealable ruling), such Issuing Bank shall be deemed to have exercised care in each such determination. In furtherance of the
+foregoing and without limiting the generality thereof, the parties agree that, with respect to documents presented which appear on
+their face to be in substantial compliance with the terms of a Letter of Credit, each Issuing Bank may, in its sole discretion, either
+accept and make payment upon such documents without responsibility for further investigation, regardless of any notice or
+information to the contrary, or refuse to accept and make payment upon such documents if such documents are not in strict
+compliance with the terms of such Letter of Credit.
+(g) Disbursement Procedures. Each Issuing Bank shall, within the period stipulated by terms and conditions of
+the applicable Letter of Credit, examine all documents purporting to represent a demand for payment under such Letter of Credit.
+The applicable Issuing Bank shall promptly notify the Administrative Agent and the Borrower by telecopy or electronic mail of such
+demand for payment and whether such Issuing Bank has made or will make an LC Disbursement thereunder; provided that any
+failure to give or delay in giving such notice shall not relieve the Borrower of its obligation to reimburse such Issuing Bank and the
+Lenders with respect to any such LC Disbursement.
+(h) Interim Interest. If an Issuing Bank shall make any LC Disbursement, then, unless the Borrower shall
+reimburse such LC Disbursement in full on the date such LC Disbursement is made, the unpaid amount thereof shall bear interest,
+for each day from and including the date such LC Disbursement is made to but excluding the date that the reimbursement is due
+and payable at the rate per annum then applicable to ABR Loans; provided that, if the Borrower fails to reimburse such LC
+Disbursement when due pursuant to Section 2.04(e), then Section 2.12(e) shall apply. Interest accrued
+42
+pursuant to this paragraph (h) shall be for the account of the applicable Issuing Bank, except that interest accrued on and after the
+date of payment by any Lender pursuant to Section 2.04(e) to reimburse such Issuing Bank shall be for the account of such Lender
+to the extent of such payment.
+(i) Replacement of the Issuing Bank. (i) An Issuing Bank may be replaced at any time by written agreement
+among the Borrower, the Administrative Agent, the replaced Issuing Bank and the successor Issuing Bank. The Administrative
+Agent shall notify the Lenders of any such replacement of an Issuing Bank. At the time any such replacement shall become
+effective, the Borrower shall pay all unpaid fees accrued for the account of the replaced Issuing Bank pursuant to Section 2.11(b).
+From and after the effective date of any such replacement, (x) the successor Issuing Bank shall have all the rights and obligations of
+Issuing Banks under this Agreement with respect to Letters of Credit to be issued thereafter and (y) references herein to the term
+“Issuing Bank” shall be deemed to refer to such successor or to any previous Issuing Banks, or to such successor and all previous
+Issuing Banks, as the context shall require. After the replacement of an Issuing Bank hereunder, the replaced Issuing Bank shall
+remain a party hereto and shall continue to have all the rights and obligations of an Issuing Bank under this Agreement with
+respect to Letters of Credit issued by it prior to such replacement, but shall not be required to issue additional Letters of Credit.
+(ii) Subject to the appointment and acceptance of a successor Issuing Bank, any Issuing Bank may resign as an
+Issuing Bank at any time upon thirty (30) days’ prior written notice to the Administrative Agent, the Borrower and the
+Lenders, in which case, such Issuing Bank shall be replaced in accordance with Section 2.06(i) above.
+(j) Cash Collateralization. If any Event of Default shall occur and be continuing, on the Business Day that the
+Borrower receives notice from the Administrative Agent or the Required Lenders (or, if the maturity of the Loans has been
+accelerated, Lenders with LC Exposure representing greater than 50% of the total LC Exposure) demanding the deposit of cash
+collateral pursuant to this paragraph (j), the Borrower shall deposit in an account with the Administrative Agent, in the name of the
+Administrative Agent and for the benefit of the Lenders, an amount in cash equal to the LC Exposure as of such date, plus any
+accrued and unpaid interest thereon; provided that the obligation to deposit such cash collateral shall become effective
+immediately, and such deposit shall become immediately due and payable, without demand or other notice of any kind, upon the
+occurrence of any Event of Default with respect to the Borrower described in Section 7.01(h) or (i). Such deposit shall be held by
+the Administrative Agent as collateral for the payment and performance of the obligations of the Borrower under this Agreement.
+The Administrative Agent shall have exclusive dominion and control, including the exclusive right of withdrawal, over such account.
+Other than any interest earned on the investment of such deposits, which investments shall be made at the option and sole
+discretion of the Administrative Agent and at the Borrower’s risk and expense, such deposits shall not bear interest. Interest or
+profits, if any, on such investments shall accumulate in such account. Moneys in such account shall be applied by the
+Administrative Agent to reimburse any Issuing Bank for LC Disbursements for which it has not been reimbursed and, to the extent
+not so applied, shall be held for the satisfaction of the reimbursement obligations of the Borrower for the LC Exposure at such time
+or, if the maturity of the Loans has been accelerated (but subject to the consent of Lenders with LC Exposure representing greater
+than 50% of the total LC Exposure), be applied to satisfy other Obligations. If the Borrower is required to provide an amount of
+cash collateral hereunder as a result of the occurrence of an Event of Default, such amount (to the extent not applied as aforesaid)
+shall be returned to the Borrower within three (3) Business Days after all Events of Default have been cured or waived.
+(k) Letters of Credit Issued for Account of Subsidiaries. Notwithstanding that a Letter of Credit issued or
+outstanding hereunder supports any obligations of, or is for the account of, a Subsidiary, or states that a Subsidiary is the “account
+party,” “applicant,” “customer,” “instructing party,”
+43

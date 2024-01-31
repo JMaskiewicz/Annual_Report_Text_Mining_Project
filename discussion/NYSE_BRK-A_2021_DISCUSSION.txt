@@ -1,0 +1,1540 @@
+Item7.Management’sDiscussionandAnalysisofFinancialConditionandResultsofOperations
+ResultsofOperations
+Net earnings attributable to Berkshire Hathaway shareholders for each of the past three years are disaggregated in the
+tablethatfollows.Amountsareafterdeductingincometaxesandexcludeearningsattributabletononcontrollinginterests(in
+millions).
+2021 2020 2019
+Insurance–underwriting $ 728 $ 657 $ 325
+Insurance–investmentincome 4,807 5,039 5,530
+Railroad 5,990 5,161 5,481
+Utilitiesandenergy 3,495 3,091 2,840
+Manufacturing,serviceandretailing 11,120 8,300 9,372
+Investmentandderivativegains/losses 62,340 31,591 57,445
+Other* 1,315 (11,318) 424
+NetearningsattributabletoBerkshireHathawayshareholders $ 89,795 $ 42,521 $ 81,417
+∗ Includes goodwill and indefinite-lived intangible asset impairment charges of $259 million in 2021, $11.0 billion in
+2020and$435millionin2019,whichincludesourshareofchargesrecordedbyKraftHeinz.
+Throughoursubsidiaries,weengageinnumerousdiversebusinessactivities.Wemanageouroperatingbusinesseson
+an unusually decentralized basis. There are few centralized or integrated business functions. Our senior corporate
+management team participates in and is ultimately responsible for significant capital allocation decisions, investment
+activitiesandtheselectionoftheChiefExecutivetoheadeachoftheoperatingbusinesses.Thebusinesssegmentdata(Note
+25totheaccompanyingConsolidatedFinancialStatements)shouldbereadinconjunctionwiththisdiscussion.
+The COVID-19 pandemic negatively affected most of our businesses beginning in March of 2020, with the effects to
+date ranging from relatively minor to severe. Earnings of most of our manufacturing, service and retailing businesses
+declined considerably, and in certain instances severely, in the second quarter of 2020. Over the second half of 2020 and
+continuingin2021,manyofthesebusinessesexperiencedsignificantrecoveriesinrevenuesandearnings,insomeinstances
+exceeding pre-pandemic levels. However, many of our businesses were negatively affected by ongoing global supply chain
+disruptions, including those attributable to major winter storms and a hurricane in North America, which contributed to
+higher input costs. We cannot reliably predict future economic effects of the pandemic or when business activities at our
+operations will completely normalize. Nor can we predict how these events will alter the future consumption patterns of
+consumersandbusinessesweserve.
+Ourinsurancebusinessesgeneratedafter-taxearningsfromunderwritingof$728millionin2021,$657millionin2020
+and$325millionin2019.Ineachyear,wegeneratedunderwritingearningsfromprimaryinsuranceandunderwritinglosses
+from reinsurance. Insurance underwriting results included after-tax losses from significant catastrophe events of
+approximately $2.3 billion in 2021, $750 million in 2020 and $800 million in 2019. Underwriting results in 2021 were
+favorably impacted by reductions in incurred losses for prior accident years under property and casualty contracts.
+Underwriting results in 2021 were negatively impacted by reductions in earned premium from the GEICO Giveback
+program, higher private passenger auto claims frequencies and severities estimates and higher losses in the life reinsurance
+business. Underwriting results in 2020 included the effects of the pandemic, arising from premium reductions from the
+GEICO Giveback program, reduced claims frequencies for private passenger automobile insurance and increased loss
+estimatesforcertaincommercialinsuranceandpropertyandcasualtyreinsurancebusiness.
+After-taxearningsfrominsuranceinvestmentincomein2021decreased4.6%comparedto2020anddeclined8.9%in
+2020 versus 2019. Earnings in 2021 and 2020 were negatively affected by declines in interest rates on our substantial
+holdingsofcashandU.S.TreasuryBills.
+K-32
+Management’sDiscussionandAnalysis(Continued)
+ResultsofOperations(Continued)
+After-tax earnings of our railroad business in 2021 rose 16.1% compared to 2020 and decreased 5.8% in 2020
+compared to 2019. The earnings increase in 2021 reflected overall higher freight volumes, higher average revenue per
+car/unit and improved productivity, partly offset by higher average fuel prices and volume related costs. Earnings in 2020
+reflectedlowerrailroadoperatingrevenuesfromlowershippingvolumes,attributabletothenegativeeffectsoftheCOVID-
+19 pandemic, partly offset by lower operating costs and the effects of productivity improvements. After-tax earnings of our
+utilities and energy business in 2021 increased 13.1% versus 2020 and increased 8.8% in 2020 compared to 2019. The
+increase in 2021 included higher earnings from the utilities and natural gas pipelines businesses, including the effects of a
+businessacquisition,andfromtherealestatebrokeragebusiness,whiletheearningsincreasein2020reflectedincreasedtax
+benefitsfromrenewableenergyandincreasedearningsfromtherealestatebrokeragebusiness.
+Earnings in 2021 from our manufacturing, service and retailing businesses increased 34.0% versus 2020 and declined
+11.4% in 2020 versus 2019. Many of our businesses generated significantly higher earnings in 2021 compared to 2020.
+While customer demand for products was relatively high during the year, several of our businesses experienced higher
+materials,freightandotherinputcostsattributabletoongoingdisruptionsinglobalsupplychains.TheeffectsoftheCOVID-
+19pandemichavevariedamongourbusinessesrelativetosignificanceandduration.
+Otherearningsincludedafter-taxgoodwillandindefinite-livedintangibleassetimpairmentchargesof$259millionin
+2021, $11.0 billion in 2020 and $435 million in 2019. Such amounts included our share of impairment charges recorded by
+KraftHeinz.Approximately$9.8billionofthechargesin2020wereattributabletoimpairmentsofgoodwillandindefinite-
+lived intangible assets recorded in connection with Berkshire’s acquisition of Precision Castparts in 2016. Other earnings in
+2021alsoincludedafter-taxforeignexchangerategainsof$955millionandafter-taxlossesof$764millionin2020related
+tonon-U.S.DollardenominateddebtissuedbyBerkshireanditsU.S.-basedfinancesubsidiary,BerkshireHathawayFinance
+Corporation(“BHFC”).
+Investment and derivative gains/losses in each of the three years presented predominantly derived from our
+investments in equity securities and included significant net unrealized gains from market price changes. We believe that
+investment and derivative gains/losses, whether realized from dispositions or unrealized from changes in market prices of
+equity securities, are generally meaningless in understanding our reported quarterly or annual results or evaluating the
+economicperformanceofouroperatingbusinesses.Thesegainsandlosseshavecausedandwillcontinuetocausesignificant
+volatilityinourperiodicearnings.
+Insurance—Underwriting
+Our management views our insurance businesses as possessing two distinct activities – underwriting and investing.
+Underwriting decisions are the responsibility of the unit managers, while investing decisions are the responsibility of
+Berkshire’s Chairman and CEO, Warren E. Buffett and Berkshire’s corporate investment managers. Accordingly, we
+evaluateperformanceofunderwritingoperationswithoutanyallocationofinvestmentincomeorinvestmentgainsandlosses.
+Weconsiderinvestmentincomeasanintegralcomponentofouraggregateinsuranceoperatingresults.However,weconsider
+investment gains and losses, whether realized or unrealized, as non-operating. We believe that such gains and losses are not
+meaningfulinunderstandingtheperiodicoperatingresultsofourinsurancebusinesses.
+Thetimingandmagnitudeofcatastrophelossescanproducesignificantvolatilityinourperiodicunderwritingresults,
+particularlywithrespecttoourreinsurancebusinesses.Generally,weconsiderincurredlossesexceeding$100millionfroma
+currentyearcatastrophiceventtobesignificant.Thesignificantcatastropheeventsin2021includedHurricaneIdaandfloods
+inEuropeinthethirdquarter,aswellasWinterStormUriinthefirstquarter.
+Changesinestimatesforunpaidlossesandlossadjustmentexpenses,includingamountsestablishedforoccurrencesin
+prior years, can also significantly affect our periodic underwriting results. Unpaid loss estimates, including estimates under
+retroactive reinsurance contracts, were approximately $125 billion as of December31, 2021. Our periodic underwriting
+resultsmayalsoincludesignificantforeigncurrencytransactiongainsandlossesarisingfromthechangesinthevaluationof
+non-U.S. Dollar denominated liabilities of our U.S. based insurance subsidiaries due to foreign currency exchange rate
+fluctuations.
+K-33
+Management’sDiscussionandAnalysis(Continued)
+Insurance—Underwriting(Continued)
+Underwriting results of certain of our commercial insurance and reinsurance businesses were negatively affected in
+2021and2020byestimatedlossesandcostsassociatedwiththeCOVID-19pandemic,includingincrementalprovisionsfor
+claims and uncollectible premiums and incremental operating costs to maintain customer service levels. The effects of the
+pandemiconfutureperiodsmaybeaffectedbyjudicialrulingsandregulatoryandlegislativeactionspertainingtoinsurance
+coverageandclaimsandbyitseffectsongeneraleconomicactivity,whichwecannotreasonablyestimateatthistime.
+Weprovideprimaryinsuranceandreinsuranceproductscoveringpropertyandcasualtyrisks,aswellaslifeandhealth
+risks. Our insurance and reinsurance businesses are GEICO, Berkshire Hathaway Primary Group and Berkshire Hathaway
+ReinsuranceGroup.
+Underwritingresultsofourinsurancebusinessesaresummarizedbelow(dollarsinmillions).
+2021 2020 2019
+Pre-taxunderwritingearnings(loss):
+GEICO $ 1,259 $ 3,428 $ 1,506
+BerkshireHathawayPrimaryGroup 607 110 383
+BerkshireHathawayReinsuranceGroup (930) (2,700) (1,472)
+Pre-taxunderwritingearnings 936 838 417
+Incometaxesandnoncontrollinginterests 208 181 92
+Netunderwritingearnings $ 728 $ 657 $ 325
+Effectiveincometaxrate 22.2% 21.5% 24.2%
+GEICO
+GEICOwritesprivatepassengerautomobileinsurance,offeringcoveragestoinsuredsinall50statesandtheDistrictof
+Columbia.GEICOmarketsitspoliciesmainlybydirectresponsemethodswheremostcustomersapplyforcoveragedirectly
+to the company via the Internet or over the telephone. A summary of GEICO’s underwriting results follows (dollars in
+millions).
+2021 2020 2019
+Amount % Amount % Amount %
+Premiumswritten $ 38,395 $ 34,928 $ 36,016
+Premiumsearned $ 37,706 100.0 $ 35,093 100.0 $ 35,572 100.0
+Lossesandlossadjustmentexpenses 30,999 82.2 26,018 74.1 28,937 81.3
+Underwritingexpenses 5,448 14.5 5,647 16.1 5,129 14.5
+Totallossesandexpenses 36,447 96.7 31,665 90.2 34,066 95.8
+Pre-taxunderwritingearnings $ 1,259 $ 3,428 $ 1,506
+GEICO’s pre-tax underwriting earnings in 2021 and 2020 were significantly affected by changes in average claims
+frequencies. Beginning in the first quarter of 2020 and continuing through the first quarter of 2021, average claims
+frequenciesweresignificantlybelowhistoricallevelsfromtheeffectsoflessdrivingbypolicyholdersduringtheCOVID-19
+pandemic. These effects were partially offset by higher average claims severities and lower premiums earned from the
+GEICO Giveback program, which provided for a 15% premium credit to all voluntary auto and motorcycle new policies or
+policies renewing between April 8, 2020 and October 7, 2020. Starting in the second quarter of 2021, average claims
+frequenciesbegantoincreaseasdrivingbypolicyholdersincreased.Inaddition,averagepropertyclaimsseveritiesincreased
+duetoincreasesinusedvehiclevaluations.
+K-34
+Management’sDiscussionandAnalysis(Continued)
+Insurance—Underwriting(Continued)
+GEICO(Continued)
+2021versus2020
+Premiums written in 2021 increased $3.5 billion (9.9%) compared to 2020, which included a reduction of
+approximately $2.9 billion attributable to the GEICO Giveback program. Premiums earned in 2021 increased $2.6 billion
+(7.4%) compared to 2020. The GEICO Giveback Program reduced earned premiums by approximately $2.5 billion in 2020
+withtheremainderoftheimpactincludedin2021.Voluntaryautopolicies-in-forcein2021wereslightlyhighercomparedto
+2020.
+Losses and loss adjustment expenses increased $5.0 billion (19.1%) compared to 2020. GEICO’s ratio of losses and
+loss adjustment expenses to premiums earned (the “loss ratio”) increased 8.1 percentage points compared to 2020. The
+increaseinthelossratioreflectedanincreaseinaverageclaimsfrequenciesandseveritiesandhigherlossesfromsignificant
+catastropheevents,partiallyoffsetbyincreasedreductionsofultimateestimatedlossesforclaimsoccurringinprioryears.
+Claims frequencies in 2021 were higher for all coverages, including property damage and bodily injury (thirteen to
+fourteenpercentrange),personalinjury(sixteentoseventeenpercentrange)andcollision(twenty-onetotwenty-twopercent
+range). Average claims severities in 2021 were also higher for property damage coverage (two to three percent range),
+collision coverage (fifteen to sixteen percent range) and bodily injury coverage (eight to ten percent range). Ultimate claim
+lossestimatesforclaimsoccurringinprioryearswerereducedapproximately$1.8billionin2021and$253millionin2020,
+which produced corresponding reductions in losses and loss adjustment expenses. Losses incurred attributable to Hurricane
+Idain2021were$375million,whilelossesin2020included$81millionattributabletoHurricanesLauraandSallyandU.S.
+wildfires.
+Underwriting expenses decreased $199million (3.5%) compared to 2020, reflecting lower advertising expenses.
+GEICO’s expense ratio (underwriting expenses to premiums earned) decreased 1.6 percentage points in 2021, reflecting
+lowernominalexpensesandhigherpremiumsearned.
+2020versus2019
+Premiums written and earned in 2020 decreased $1.1 billion (3.0%) and $479 million (1.3%), respectively, compared
+to 2019. The GEICO Giveback program reduced premiums written $2.9 billion and premiums earned $2.5 billion in 2020.
+Voluntaryautopolicies-in-forceincreasedapproximately820,000during2020.
+Losses and loss adjustment expenses in 2020 decreased $2.9 billion (10.1%) compared to 2019. GEICO’s loss ratio
+was74.1%,adecreaseof7.2percentagepointscomparedto2019.Thedecreaseinthelossratioreflecteddeclinesinclaims
+frequencies, partly offset by increases in claims severities and the impact of lower premiums earned attributable to the
+GEICOGivebackprogram.
+Claims frequencies in 2020 were lower for property damage, bodily injury and personal injury protection coverages
+(twenty-eight to thirty percent range) and collision coverage (twenty-three to twenty-four percent range) compared to 2019.
+Average claims severities in 2020 were higher for property damage and collision coverages (eight to ten percent range) and
+bodily injury coverage (twelve to thirteen percent range). Losses and loss adjustment expenses included net reductions of
+$253millionin2020fordecreasesintheultimatelossestimatesforclaimsoccurringinprioryearscomparedtonetincreases
+of $42 million in 2019. Losses incurred included $81 million in 2020 from Hurricanes Laura and Sally and U.S. wildfires.
+Therewerenolossesfromsignificantcatastropheeventsin2019.
+Underwritingexpensesin2020increased$518million(10.1%)comparedto2019,reflectinghigheremployee-related,
+advertising and technology costs, partly offset by lower premium taxes. GEICO’s expense ratio in 2020 was 16.1%, an
+increase of 1.6 percentage points compared to 2019. The expense ratio increase was primarily attributable to the decline in
+earnedpremiumsfromtheGEICOGivebackprogram.
+K-35
+Management’sDiscussionandAnalysis(Continued)
+Insurance—Underwriting(Continued)
+BerkshireHathawayPrimaryGroup
+The Berkshire Hathaway Primary Group (“BH Primary”) provides a variety of commercial insurance solutions,
+including healthcare professional liability, workers’ compensation, automobile, general liability, property and specialty
+coveragesforsmall,mediumandlargeclients.BHPrimary’slargerinsurersincludeBerkshireHathawaySpecialtyInsurance
+(“BH Specialty”), Berkshire Hathaway Homestate Companies (“BHHC”), MedPro Group, Berkshire Hathaway GUARD
+InsuranceCompanies(“GUARD”),NationalIndemnityCompany(“NICOPrimary”)andU.S.LiabilityInsuranceCompany
+(“USLI”).AsummaryofBHPrimaryunderwritingresultsfollows(dollarsinmillions).
+2021 2020 2019
+Amount % Amount % Amount %
+Premiumswritten $ 12,595 $ 10,212 $ 9,843
+Premiumsearned $ 11,575 100.0 $ 9,615 100.0 $ 9,165 100.0
+Lossesandlossadjustmentexpenses 8,107 70.0 7,129 74.1 6,336 69.1
+Underwritingexpenses 2,861 24.8 2,376 24.7 2,446 26.7
+Totallossesandexpenses 10,968 94.8 9,505 98.8 8,782 95.8
+Pre-taxunderwritingearnings $ 607 $ 110 $ 383
+Premiums written increased $2.4 billion (23.3%) in 2021 compared to 2020, reflecting increases from BH Specialty
+(36%), MedPro Group (16%), NICO Primary (25%), GUARD (7%), BHHC (5%) and USLI (20%). The increases were
+acrossmultiplecoveragesandoccurredinseveralmarkets.
+Premiums written increased $369 million (3.7%) in 2020 compared to 2019, reflecting increased premiums written
+from BH Specialty (34%) and MedPro Group (9%), partially offset by a 13% decrease in premiums written by our other
+primaryinsurers.Thedeclineinvolumebyourotherprimaryinsurerswasprimarilyduetolowerworkers’compensationand
+commercialautomobilevolumesandtheeffectofthedivestitureofAppliedUnderwritersinOctober2019.
+BHPrimary’slossratioswere70.0%in2021,74.1%in2020and69.1%in2019.Lossesandlossadjustmentexpenses
+attributable to significant catastrophe events were $402 million in 2021 from Hurricane Ida and Winter Storm Uri and $207
+millionin2020fromHurricanesLauraandSallyandU.S.wildfires.Lossesandlossadjustmentexpenseswerereduced$631
+million in 2021, $265 million in 2020 and $499 million in 2019 for net reductions in estimated ultimate liabilities for prior
+years’lossevents.Lossesin2020alsoincludedincreasedliabilitiesof$167millionattributabletothepandemic.
+BH Primary insurers write significant levels of commercial and professional liability and workers’ compensation
+insuranceandtherelatedclaimcostsmaybesubjecttohighseverityandlongclaim-tails.Accordingly,wecouldexperience
+significantincreasesinclaimsliabilitiesinthefutureattributabletohigher-than-expectedclaimsettlements,adverselitigation
+outcomesorjudicialrulingsandotherfactorsnotcurrentlyanticipated.
+Underwritingexpensesincreased$485million(20.4%)in2021comparedto2020,reflectingtheincreaseinbusiness,
+changes in business mix and the costs associated with new product development. The expense ratio in 2021 was relatively
+unchangedversus2020.Theexpenseratioin2020declined2.0percentagepointscomparedto2019andreflectedchangesin
+businessmixandtheimpactoftheAppliedUnderwritersdivestiture.
+BerkshireHathawayReinsuranceGroup
+The Berkshire Hathaway Reinsurance Group (“BHRG”) offers excess-of-loss and quota-share reinsurance coverages
+on property and casualty risks to insurers and reinsurers worldwide through several subsidiaries, led by National Indemnity
+Company (“NICO”), General Reinsurance Corporation and General Reinsurance AG. We also write life and health
+reinsurance coverages through General Re Life Corporation, General Reinsurance AG and Berkshire Hathaway Life
+Insurance Company of Nebraska (“BHLN”). We periodically assume property and casualty risks under retroactive
+reinsurancecontractswrittenthroughNICO.Inaddition,wewriteperiodicpaymentannuitycontractsthroughBHLN.
+K-36
+Management’sDiscussionandAnalysis(Continued)
+Insurance—Underwriting(Continued)
+BerkshireHathawayReinsuranceGroup(Continued)
+Generally,westrivetogenerateunderwritingprofits.However,time-value-of-moneyconceptsareimportantelements
+inestablishingpricesforretroactivereinsuranceandperiodicpaymentannuitybusinessesduetotheexpectedlongdurations
+of the claim liabilities. We expect to incur pre-tax underwriting losses from such businesses, primarily through deferred
+chargeamortizationanddiscountaccretioncharges.Wereceivepremiumsattheinceptionofthesecontracts,whicharethen
+availableforinvestment.AsummaryofBHRG’spremiumsandpre-taxunderwritingresultsfollows(dollarsinmillions).
+Pre-taxunderwriting
+Premiumswritten Premiumsearned earnings(loss)
+2021 2020 2019 2021 2020 2019 2021 2020 2019
+Property/casualty $14,149 $13,295 $10,428 $13,740 $12,214 $ 9,911 $ 667 $ (799)$ 16
+Life/health 5,621 5,848 4,963 5,648 5,861 4,869 (421) (18) 159
+Retroactivereinsurance 136 38 684 136 38 684 (782) (1,248) (1,265)
+Periodicpaymentannuity 658 566 863 658 566 863 (508) (617) (549)
+Variableannuity 15 14 14 15 14 14 114 (18) 167
+$20,579 $19,761 $16,952 $20,197 $18,693 $16,341 $ (930)$(2,700)$(1,472)
+Property/casualty
+Asummaryofproperty/casualtyreinsuranceunderwritingresultsfollows(dollarsinmillions).
+2021 2020 2019
+Amount % Amount % Amount %
+Premiumswritten $ 14,149 $ 13,295 $ 10,428
+Premiumsearned $ 13,740 100.0 $ 12,214 100.0 $ 9,911 100.0
+Lossesandlossadjustmentexpenses 9,878 71.9 9,898 81.0 7,313 73.8
+Underwritingexpenses 3,195 23.2 3,115 25.5 2,582 26.0
+Totallossesandexpenses 13,073 95.1 13,013 106.5 9,895 99.8
+Pre-taxunderwritingearnings(loss) $ 667 $ (799) $ 16
+Premiumswrittenincreased$854million(6.4%)in2021comparedto2020,primarilyattributabletonetnewbusiness,
+increased participations and improved prices on renewals and favorable currency translation effects. The increase was
+primarilyattributabletopropertycoverages.Premiumswrittenincreased$2.9billion(27.5%)in2020comparedto2019.The
+increasewasprimarilyattributabletonetnewbusinessandincreasedparticipationsonrenewals.
+Losses and loss adjustment expenses were relatively unchanged in 2021 compared to 2020, while the loss ratio
+decreased 9.1 percentage points. The loss ratio was 71.9% in 2021, 81.0% in 2020 and 73.8% in 2019. Losses incurred
+arising from significant catastrophe events in 2021 (Hurricane Ida, flooding in Europe and Winter Storm Uri) were $2.1
+billion, which were partially offset by reductions in estimated ultimate liabilities for losses occurring in prior years of $718
+million. Losses incurred in 2020 included $667 million from significant catastrophe events (Hurricanes Laura and Sally and
+U.S.wildfires),lossesattributabletotheCOVID-19pandemicof$964millionandincreasesinestimatedultimateliabilities
+forlossesoccurringinprioryearsof$162million.Incurredlossesfromsignificantcatastropheeventsduring2019were$1.0
+billionandderivedfromTyphoonsFaxaiandHagibisandvariousU.S.andnon-U.S.wildfires,whichwerepartiallyoffsetby
+reductionsinestimatedultimateliabilitiesforlossesoccurringinprioryearsof$295million.
+Underwriting expenses are primarily commissions and brokerage costs. The expense ratio in 2021 decreased 2.3
+percentage points compared to 2020, primarily attributable to changes in business mix and foreign currency effects.
+Underwriting expenses increased $533 million (20.6%) in 2020 compared to 2019, reflecting the increase in premiums
+earned.
+K-37
+Management’sDiscussionandAnalysis(Continued)
+Insurance—Underwriting(Continued)
+BerkshireHathawayReinsuranceGroup(Continued)
+Life/health
+Asummaryofourlife/healthreinsuranceunderwritingresultsfollows(dollarsinmillions).
+2021 2020 2019
+Amount % Amount % Amount %
+Premiumswritten $ 5,621 $ 5,848 $ 4,963
+Premiumsearned $ 5,648 100.0 $ 5,861 100.0 $ 4,869 100.0
+Lifeandhealthinsurancebenefits 4,933 87.3 4,883 83.3 3,800 78.0
+Underwritingexpenses 1,136 20.2 996 17.0 910 18.7
+Totalbenefitsandexpenses 6,069 107.5 5,879 100.3 4,710 96.7
+Pre-taxunderwritingearnings(loss) $ (421) $ (18) $ 159
+Life/health premiums written decreased $227 million (3.9%) in 2021 compared to 2020. Premiums written in 2020
+included $710 million from a contract that covered U.S. health risks that incepted in the fourth quarter of 2019 and did not
+renew in 2021. Otherwise, premiums written in 2021 increased 9.4% versus 2020, primarily due to volume growth in the
+AsiaPacificregionandfavorableforeigncurrencytranslationeffects.Underwritingresultsin2021werenegativelyaffected
+bysignificantincreasesinmortalityintheU.S.,SouthAfrica,IndiaandLatinAmerica,attributabletothepandemic.
+Life/healthpremiumswrittenincreased$885million(17.8%)in2020comparedto2019.Approximately$480million
+of the increase was attributable to the contract covering U.S. health insurance risks, and the remainder of the increase was
+primarilyfromvolumegrowthinAsiaandEurope.Underwritingearningsin2020werenegativelyaffectedbyincreasedlife
+benefitsfromCOVID-19-relatedclaimsandfromincreasedliabilitiesfromchangesinunderlyingassumptionsinestimating
+disability benefit liabilities in Australia, which were mostly offset by lower other life claims and reduced losses from U.S.
+long-term care business that is in run-off. Results in 2019 included a one-time pre-tax underwriting gain of $163million
+attributabletoanamendmentofayearlyrenewabletermlifecontract.
+Retroactivereinsurance
+Pre-tax underwriting losses in each year derived from the amortization of deferred charges and changes in the
+estimated timing and amounts of future claim payments. Underwriting results also include foreign currency exchange gains
+and losses from the effects of changes in foreign currency exchange rates on non-U.S. Dollar denominated liabilities of our
+U.S. subsidiaries. Underwriting results included pre-tax foreign currency gains of $56 million in 2021 and losses of $139
+millionin2020and$76millionin2019.
+Pre-tax underwriting losses before foreign currency gains/losses were $838 million in 2021, $1.1 billion in 2020 and
+$1.2 billion in 2019. Estimated ultimate claim liabilities for contracts written in prior years were reduced $974 million in
+2021and$399millionin2020.Afteradjustmentstotherelatedunamortizeddeferredchargesfromchangesintheestimated
+timingandamountofthefutureclaimpayments,suchreductionsproducedpre-taxunderwritingearningsof$142millionin
+2021and$230millionin2020.
+Gross unpaid losses assumed under retroactive reinsurance contracts were $38.3 billion at December 31, 2021, a
+declineof$2.7billionsinceDecember31,2020.Thedeclinewasprimarilyattributabletopaidclaimsofapproximately$1.9
+billion and the reduction in estimated ultimate claim liabilities. Unamortized deferred charges related to retroactive
+reinsurance contracts were $10.6 billion at December 31, 2021, a decline of $1.8 billion since December 31, 2020,
+attributable to the effects of the changes in the estimated timing and amount of the future claim payments and periodic
+amortization. Deferred charge amortization will be included in underwriting earnings over the expected remaining claims
+settlementperiods.
+K-38
+Management’sDiscussionandAnalysis(Continued)
+Insurance—Underwriting(Continued)
+BerkshireHathawayReinsuranceGroup(Continued)
+Periodicpaymentannuity
+Periodicpaymentannuitypremiumsearnedincreased$92million(16.3%)in2021comparedto2020,whichdecreased
+$297 million (34.4%) versus 2019. Periodic payment annuity business is both price and demand sensitive. Our premium
+volumes in 2021 and 2020 were affected by pandemic-related delays in underlying claim settlements, which reduced the
+supply of available business. Our volumes written may also change rapidly due to changes in prices, which are affected by
+prevailinginterestrates,theperceivedrisksanddurationsassociatedwiththeexpectedannuitypayments,aswellasthelevel
+ofcompetition.
+Periodicpaymentannuitycontractsnormallyproducepre-taxunderwritinglossesderivingfromtherecurringdiscount
+accretionofannuityliabilities.Underwritingresultsalsoincludegainsorlossesfromtheeffectsofchangesinmortalityand
+interest rates and from foreign currency exchange rate changes on non-U.S. Dollar denominated liabilities of our U.S.
+subsidiaries.Pre-taxunderwritingresultsincludedforeigncurrencygainsof$18millionin2021andlossesof$67millionin
+2020and$40millionin2019.
+Excluding foreign currency gains/losses, pre-tax underwriting losses from periodic payment annuity contracts were
+$526 million in 2021, $550 million in 2020 and $509 million in 2019. Pre-tax losses in 2021 were partially offset by the
+effects of higher mortality and by higher interest rates applicable to settlements under certain contracts. Discounted annuity
+liabilitieswere$15.1billionatDecember31,2021andhadaweightedaveragediscountrateofapproximately3.9%.
+Variableannuity
+Variable annuity guarantee reinsurance contracts produced pre-tax earnings of $114 million in 2021, losses of $18
+million in 2020 and earnings of $167 million in 2019. The results from these contracts are affected by changes in securities
+markets, interest rates and foreign currency exchange rates, which can be volatile, and from the periodic amortization of
+expected profit margins. The comparative increase in underwriting earnings in 2021 was primarily attributable to the net
+effectsofinterestratechangesand,toalesserextent,changesinsecuritiesmarkets.
+Insurance—InvestmentIncome
+Asummaryofnetinvestmentincomeattributabletoourinsuranceoperationsfollows(dollarsinmillions).
+Percentagechange
+2021 2020 2019 2021vs2020 2020vs2019
+Interestandotherinvestmentincome $ 589 $ 1,059 $ 2,075 (44.4)% (49.0)%
+Dividendincome 5,060 4,890 4,525 3.5 8.1
+Pre-taxnetinvestmentincome 5,649 5,949 6,600 (5.0) (9.9)
+Incometaxesandnoncontrollinginterests 842 910 1,070
+Netinvestmentincome $ 4,807 $ 5,039 $ 5,530
+Effectiveincometaxrate 14.9% 15.3% 16.1%
+Interestandotherinvestmentincomedeclined$470million(44.4%)in2021comparedto2020,whichinturn,declined
+$1.0billion(49.0%)comparedto2019.Thesedeclineswereprimarilyduetolowerincomefromshort-terminvestmentsand
+fixed maturity securities. We continue to hold substantial balances of cash, cash equivalents and short-term U.S. Treasury
+Bills.Short-terminterestratesdeclinedoverthesecondhalfof2019andthroughout2020.Lowratesprevailedthrough2021,
+whichresultedinsignificantlylowerinterestincome.Nevertheless,webelievethatmaintainingampleliquidityisparamount
+andweinsistonsafetyoveryieldwithrespecttoshort-terminvestments.
+K-39
+Management’sDiscussionandAnalysis(Continued)
+Insurance—InvestmentIncome(Continued)
+Dividend income included $121 million in 2021 and $26 million in 2020 from investments in preferred stock of
+BerkshireHathawayEnergy.Suchamountsaredeductedfromearningsoftheutilitiesandenergysegment.Dividendincome
+may vary from period to period due to changes in the investment portfolio and the frequency and timing of dividends from
+certain investees. Dividend income increased $365 million (8.1%) in 2020 compared to 2019. The increase was primarily
+attributabletodividendsfromtheinvestmentin$10billionliquidationvalueof8%cumulativepreferredstockofOccidental
+PetroleumCorporation(“Occidental”)onAugust8,2019,partlyoffsetbylowerdividendsfromcommonstockinvestments.
+Investedassetsofourinsurancebusinessesderivefromshareholdercapitalandfromnetliabilitiesunderinsuranceand
+reinsurance contracts or “float.” The major components of float are unpaid losses and loss adjustment expenses, including
+liabilitiesunderretroactivereinsurancecontracts,life,annuityandhealthinsurancebenefitliabilities,unearnedpremiumsand
+otherliabilitiesduetopolicyholders,reducedbyinsurancepremiumsandreinsurancereceivables,deferredchargesassumed
+under retroactive reinsurance contracts and deferred policy acquisition costs. Float approximated $147 billion at December
+31, 2021, $138 billion at December 31, 2020 and $129 billion at December 31, 2019. Our combined insurance operations
+generated pre-tax underwriting earnings in each of the past three years, and consequently, the average cost of float for each
+yearwasnegative.
+A summary of cash and investments held in our insurance businesses as of December31, 2021 and 2020 follows (in
+millions).
+December31,
+2021 2020
+Cash,cashequivalentsandU.S.TreasuryBills $ 90,688 $ 67,082
+Equitysecurities 334,907 269,498
+Fixedmaturitysecurities 16,386 20,317
+Other 4,296 6,220
+$ 446,277 $ 363,117
+FixedmaturityinvestmentsasofDecember31,2021wereasfollows(inmillions).
+Amortized Unrealized Carrying
+cost gains/losses value
+U.S.Treasury,U.S.governmentcorporationsandagencies $ 3,278 $ 17 $ 3,295
+Foreigngovernments 10,997 (4) 10,993
+Corporatebonds 1,350 411 1,761
+Other 292 45 337
+$ 15,917 $ 469 $ 16,386
+U.S. government obligations are rated AA+ or Aaa by the major rating agencies. Approximately 93% of all foreign
+governmentobligationswereratedAAorhigherbyatleastoneofthemajorratingagencies.Foreigngovernmentsecurities
+includeobligationsissuedorunconditionallyguaranteedbynationalorprovincialgovernmententities.
+K-40
+Management’sDiscussionandAnalysis(Continued)
+Railroad
+BurlingtonNorthernSantaFe,LLC(“BNSF”)operatesoneofthelargestrailroadsystemsinNorthAmerica,withover
+32,500routemilesoftrackin28states.BNSFalsooperatesinthreeCanadianprovinces.BNSFclassifiesitsmajorbusiness
+groups by type of product shipped including consumer products, industrial products, agricultural products and coal. A
+summaryofBNSF’searningsfollows(dollarsinmillions).
+Percentagechange
+2021 2020 2019 2021vs2020 2020vs2019
+Railroadoperatingrevenues $ 22,513 $ 20,181 $ 22,745 11.6% (11.3)%
+Railroadoperatingexpenses:
+Compensationandbenefits 4,696 4,542 5,270 3.4 (13.8)
+Fuel 2,766 1,789 2,944 54.6 (39.2)
+Purchasedservices 2,033 1,954 2,049 4.0 (4.6)
+Depreciationandamortization 2,444 2,460 2,389 (0.7) 3.0
+Equipmentrents,materialsandother 1,763 1,684 2,028 4.7 (17.0)
+Total 13,702 12,429 14,680 10.2 (15.3)
+Railroadoperatingearnings 8,811 7,752 8,065 13.7 (3.9)
+Otherrevenues(expenses):
+Otherrevenues 769 688 770 11.8 (10.6)
+Otherexpenses,net (687) (611) (515) 12.4 18.6
+Interestexpense (1,032) (1,037) (1,070) (0.5) (3.1)
+Pre-taxearnings 7,861 6,792 7,250 15.7 (6.3)
+Incometaxes 1,871 1,631 1,769 14.7 (7.8)
+Netearnings $ 5,990 $ 5,161 $ 5,481 16.1 (5.8)
+Effectiveincometaxrate 23.8% 24.0% 24.4%
+ThefollowingtablesummarizesBNSF’srailroadfreightvolumesbybusinessgroup(cars/unitsinthousands).
+Cars/Units Percentagechange
+2021 2020 2019 2021vs2020 2020vs2019
+Consumerproducts 5,673 5,266 5,342 7.7% (1.4)%
+Industrialproducts 1,709 1,622 1,931 5.4 (16.0)
+Agriculturalproducts 1,224 1,189 1,146 2.9 3.8
+Coal 1,529 1,404 1,802 8.9 (22.1)
+Totalcars/units 10,135 9,481 10,221 6.9 (7.2)
+2021versus2020
+Railroadoperatingrevenuesincreased11.6%in2021comparedto2020,reflectinghighervolumesof6.9%,aswellas
+a 3.5% increase in average revenue per car/unit resulting from business mix changes and higher fuel surcharge revenue
+attributabletohigherfuelprices.Pre-taxearningswere$7.9billionin2021,anincreaseof15.7%from2020.TheCOVID-19
+pandemic caused a significant economic slowdown that adversely affected our volumes in 2020. Revenue changes in 2021
+were driven by continued improvements from the 2020 effects of the COVID-19 pandemic, partially offset by the ongoing
+disruptionsintheglobalsupplychain.
+K-41
+Management’sDiscussionandAnalysis(Continued)
+Railroad(Continued)
+Operating revenues from consumer products increased 13.7% in 2021 to $8.3 billion compared to 2020, reflecting
+increased volumes of 7.7% and higher average revenue per car/unit. The volume increase was primarily due to growth in
+intermodal in both international and domestic shipments driven by increased retail sales, inventory replenishments by
+retailersandincreasede-commerceactivity.
+Operating revenues from industrial products were $5.3 billion in 2021, an increase of 5.0% from 2020. Volumes
+increased5.4%whileaveragerevenuepercar/unitwasnearlyunchangedfrom2020.Thevolumeincreasewasprimarilydue
+to improvement in the U.S. industrial economy, driving higher volumes in the construction and building sectors, partially
+offsetbylowerpetroleumvolumesduetounfavorablemarketconditionsintheenergysector.
+Operating revenues from agricultural products increased 5.8% to $5.1 billion in 2021 compared to 2020. The revenue
+change reflected a volume increase of 2.9% due to higher domestic grain shipments and higher volumes of ethanol and
+relatedcommodities,aswellashigherrevenuepercar/unit.
+Operatingrevenuesfromcoalincreased21.5%to$3.2billionin2021comparedto2020attributabletohighervolumes
+of 8.9% in 2021, as well as higher average revenue per car/unit. The volume increase in 2021 was attributable to increased
+electricitygeneration,highernaturalgaspricesandimprovedexportdemand.
+Railroad operating expenses were $13.7 billion in 2021, an increase of $1.3 billion (10.2%) compared to 2020. The
+ratio of railroad operating expenses to railroad operating revenues decreased 0.7 percentage points to 60.9% in 2021 versus
+2020.Theincreaseinrailroadoperatingexpensesreflectedhighervolumesandhigheraveragefuelprices,partiallyoffsetby
+thefavorableimpactofproductivityimprovements.
+Compensation and benefits expenses increased $154 million (3.4%) in 2021 compared to 2020, primarily due to
+increasedvolumes,wageinflationandhealthandwelfarecosts,partiallyoffsetbyproductivityimprovements.Fuelexpenses
+increased $977 million (54.6%) compared to 2020, primarily due to higher average fuel prices. Purchased service expenses
+increased $79million (4.0%) compared to 2020, primarily due to higher volumes and the effects of insurance recoveries in
+2020 related to 2019 flooding, partially offset by improved productivity. Equipment rents, materials and other expenses
+increased$79million(4.7%)comparedto2020,duetohighervolume-relatedcosts.
+2020versus2019
+Railroad operating revenues declined 11.3% in 2020 versus 2019, reflecting a 7.2% decrease in volume and a 4.5%
+decrease in average revenue per car/unit. The decrease in revenue per car/unit was attributable to lower fuel surcharge
+revenue driven by lower fuel prices and business mix changes. The overall volume decrease was primarily due to the
+COVID-19 pandemic, which severely impacted volumes through the first half of 2020 and caused significant economic
+disruptionsthatadverselyaffectedthedemandfortransportationservices.Volumessequentiallyimprovedduringthesecond
+halfof2020fromearlierperiodsandrecoveredoveralltopre-pandemiclevelsbytheendoftheyear.
+Pre-taxearnings were$6.8billion in 2020, a decrease of 6.3% from 2019, principally due to the negative impacts of
+the pandemic on volumes. In addition, pre-tax earnings in 2019 included an operating revenue increase related to the
+favorable outcome of an arbitration hearing and a retirement plan curtailment gain that is included in other expenses, net in
+the preceding table. These effects were partially offset by significant improvements in 2020 in service, system velocity and
+cost performance compared to 2019, along with lower costs related to severe winter weather and flooding on parts of the
+network,whichnegativelyaffectedexpensesandservicelevelsin2019.
+Operatingrevenuesfromconsumerproductsof$7.3billionin2020declined7.6%comparedto2019,primarilydueto
+a 6.3% decrease in average revenue per car/unit along with lower volumes. The volume decrease was primarily due to the
+impact of the pandemic. Lower international and automotive volumes were offset by higher domestic intermodal volumes.
+Increased retail sales, inventory replenishments by retailers and e-commerce activity produced recovery of intermodal
+volumesinthesecondhalfof2020.
+K-42
+Management’sDiscussionandAnalysis(Continued)
+Railroad(Continued)
+Operating revenues from industrial products were $5.0 billion in 2020, a decrease of 17.0% from 2019. The decrease
+was primarily attributable to the decline in volume and to a lesser extent lower average revenue per car/unit. Volumes
+decreased primarily due to lower U.S. industrial production driven by the pandemic, including reduced production and
+demandintheenergysector,whichloweredsandandpetroleumproductsvolume,andreducedsteeldemand,whichlowered
+taconitevolume.
+Operatingrevenuesfromagriculturalproductsincreased2.9%to$4.8billionin2020comparedto2019.Theincrease
+wasduetohighervolumes,partiallyoffsetbyslightlyloweraveragerevenuepercar/unit.Thevolumeincreasewasprimarily
+duetohighergrainandmealexports,partiallyoffsetbylowerethanolandsweetenersshipments.
+Operatingrevenuesfromcoaldecreased28.5%to$2.7billionin2020comparedto2019.Thisdecreasewasprimarily
+due to lower volumes, as well as lower revenues per car/unit. Volumes decreased primarily due to lower natural gas prices,
+lowerelectricitydemanddrivenbythepandemic,utilitycoalplantretirementsandmildtemperatures.
+Railroad operating expenses declined 15.3% to $12.4 billion in 2020 as compared to 2019. The ratio of railroad
+operating expenses to railroad operating revenues declined 2.9 percentage points to 61.6% in 2020 versus 2019. Railroad
+operating expenses in 2020 reflected lower volume-related costs, productivity improvements, the effects of cost control
+initiativesandimprovedweatherconditionscomparedto2019.
+Compensation and benefits expenses decreased $728 million (13.8%) in 2020 compared to 2019, primarily due to
+lower employee counts associated with lower volume and improved workforce productivity. Fuel expenses decreased $1.2
+billion (39.2%) compared to 2019, primarily due to lower average fuel prices, lower volumes and improved fuel efficiency.
+Purchasedservicesexpensedeclined$95million(4.6%)comparedto2019.Thedecreasewasprimarilyduetolowervolume,
+improved productivity and higher insurance recoveries in 2020 related to network flooding in 2019. Equipment rents,
+materialsandotherexpensedecreased$344million(17.0%)comparedto2019,primarilyduetolowervolume-relatedcosts,
+theeffectsofcostcontrolsandlowerpersonalinjuryandderailmentexpenses.
+UtilitiesandEnergy
+We currently own a 91.1% ownership interest in Berkshire Hathaway Energy Company (“BHE”), which operates a
+global energy business. BHE’s domestic regulated utility interests include PacifiCorp, MidAmerican Energy Company
+(“MEC”) and NV Energy. BHE subsidiaries also operate two regulated electricity distribution businesses referred to as
+Northern Powergrid in Great Britain. BHE’s natural gas pipelines consist of five domestic regulated interstate natural gas
+pipeline systems and a 25% interest in a liquefied natural gas export, import and storage facility (“LNG interest”), which
+BHE operates and consolidates for financial reporting purposes. Three of the natural gas pipeline systems and the LNG
+interestwereacquiredonNovember1,2020fromDominionEnergy,Inc.(“BHEGT&S”).Otherenergybusinessesincludea
+regulated electricity transmission-only business in Alberta, Canada (“AltaLink, L.P.”) and a diversified portfolio of mostly
+renewable independent power projects and investments. BHE also operates the largest residential real estate brokerage firm
+andoneofthelargestresidentialrealestatebrokeragefranchisenetworksintheUnitedStates.
+K-43
+Management’sDiscussionandAnalysis(Continued)
+UtilitiesandEnergy(Continued)
+The rates our regulated businesses charge customers for energy and services are based in large part on the costs of
+businessoperations,includingincometaxesandareturnoncapital,andaresubjecttoregulatoryapproval.Totheextentsuch
+costs are not allowed in the approved rates, operating results will be adversely affected. A summary of BHE’s net earnings
+follows(dollarsinmillions).
+2021 2020 2019
+Revenues:
+Energyoperatingrevenue $ 18,935 $ 15,556 $ 15,371
+Realestateoperatingrevenue 6,215 5,396 4,473
+Otherincome(loss) (163) 79 270
+Totalrevenue 24,987 21,031 20,114
+Costsandexpense:
+Energycostofsales 5,504 4,187 4,586
+Energyoperatingexpense 8,535 7,539 6,824
+Realestateoperatingcostsandexpense 5,710 4,885 4,251
+Interestexpense 2,054 1,941 1,835
+Totalcostsandexpense 21,803 18,552 17,496
+Pre-taxearnings 3,184 2,479 2,618
+Incometaxexpense(benefit)* (1,177) (1,010) (526)
+Netearningsafterincometaxes 4,361 3,489 3,144
+NoncontrollinginterestsofBHEsubsidiaries 399 71 18
+NetearningsattributabletoBHE 3,962 3,418 3,126
+Noncontrollinginterestsandpreferredstockdividends 467 327 286
+NetearningsattributabletoBerkshireHathawayshareholders $ 3,495 $ 3,091 $ 2,840
+Effectiveincometaxrate (37.0)% (40.7)% (20.1)%
+* Includessignificantproductiontaxcreditsfromwind-poweredelectricitygeneration.
+The discussion of BHE’s operating results that follows is based on after-tax earnings, reflecting how the energy
+businessesaremanagedandevaluated.AsummaryofnetearningsattributabletoBHEfollows(dollarsinmillions).
+Percentagechange
+2021 2020 2019 2021vs2020 2020vs2019
+PacifiCorp $ 889 $ 741 $ 773 20.0% (4.1)%
+MidAmericanEnergyCompany 883 818 781 7.9 4.7
+NVEnergy 439 410 365 7.1 12.3
+NorthernPowergrid 247 201 256 22.9 (21.5)
+Naturalgaspipelines 774 528 422 46.6 25.1
+Otherenergybusinesses 680 697 608 (2.4) 14.6
+Realestatebrokerage 387 375 160 3.2 134.4
+Corporateinterestandother (337) (352) (239) (4.3) 47.3
+$ 3,962 $ 3,418 $ 3,126 15.9 9.3
+2021versus2020
+PacifiCorp operates a regulated electric utility in portions of several Western states, including Utah, Oregon and
+Wyoming.After-taxearningsincreased$148millionin2021comparedto2020.Theincreasereflectedhigherutilitymargin
+(operating revenue less cost of sales) and increased income tax benefits from the impacts of ratemaking as well as higher
+production tax credits recognized on new wind-powered generating facilities placed in-service. The earnings increase was
+partially offset by lower allowances for equity and borrowed funds used during construction and higher operating expenses.
+Operating expenses in 2021 reflected increased depreciation expense from the impacts of a deprecation study effective
+January1,2021,andincrementalcostsassociatedwithwind-poweredgeneratingfacilitiesplacedin-service,offsetbylower
+costsassociatedwithwildfiresandasettlementagreement.
+K-44
+Management’sDiscussionandAnalysis(Continued)
+UtilitiesandEnergy(Continued)
+PacifiCorp utility margin was $3.5 billion in 2021, an increase of $145 million compared to 2020. The increase
+reflected higher retail revenue from increases in customer volumes and higher wholesale and other revenue, partially offset
+by higher thermal generation and purchased power costs. Retail customer volumes increased 3.1% in 2021 as compared to
+2020, primarily due to higher customer usage, an increase in the average number of customers and the favorable impacts of
+weather.
+MEC operates a regulated electric and natural gas utility primarily in Iowa and Illinois. After-tax earnings increased
+$65 million in 2021 compared to 2020. The increase reflected higher electric utility margin and increased income tax
+benefits,partlyoffsetbyhigheroperatingexpenses.Theincreaseinoperatingexpensesincludedincrementalcostsassociated
+with wind-powered generating facilities placed in-service and higher natural gas distribution costs, partially offset by lower
+stormrestorationcosts.Theincometaxbenefitincreasesweremainlyduetohigherproductiontaxcreditsrecognizedonnew
+wind-poweredgeneratingfacilitiesplacedin-service,partiallyoffsetbytheimpactsofratemaking.
+MEC electric utility margin increased $190 million to $2.0 billion in 2021 compared to 2020. The electric utility
+margin increase was attributable to higher operating revenue from increases in retail and wholesale customer volumes, as
+well as favorable wholesale prices, partially offset by higher thermal generation and purchased power costs. Electric retail
+customer volumes increased 5.8% in 2021 as compared to 2020, primarily due to increased usage by certain industrial
+customersandthefavorableimpactsofweather.
+NV Energy operates regulated electric and natural gas utilities in Nevada. After-tax earnings increased $29 million in
+2021 compared to 2020. The increase reflected lower operating expenses, lower net interest and finance expense and lower
+income tax expense from the impacts of ratemaking, partially offset by lower electric utility margin. The decreases in
+operating expenses were mainly due to lower earnings sharing, partially offset by higher depreciation expense from
+additionalassetsplacedin-service.
+NVEnergy’selectricutilitymargindecreased$97millionto$1.6billionin2021comparedto2020.Thedecreasewas
+primarilyduetorevenuereductionsfromlowerbasetariffgeneralratesin2021andafavorableregulatorydecisionin2020,
+partially offset by a 3.3% increase in electric retail customer volumes. The increase in electric retail customer volumes was
+primarily due to an increase in the average number of customers, higher customer usage and the favorable impacts of
+weather.
+NorthernPowergrid’safter-taxearningsincreased$46millionin2021comparedto2020.Theincreasereflectedhigher
+tariff rates and units distributed, lower write-offs of gas exploration costs, lower pension expense and favorable foreign
+currency exchange rate movements in 2021, partially offset by the impact of increases in the United Kingdom corporate
+income tax rate. Earnings in 2021 included deferred income tax expense of $109 million related to the enactment in June
+2021 of an increase in the income tax rate from 19% to 25%, effective April 1, 2023. Earnings in 2020 included deferred
+income tax expense of $35 million related to the enactment in July 2020 of an increase in the income tax rate from 17% to
+19%,effectiveApril1,2020.
+Naturalgaspipelines’after-taxearningsincreased$246millionin2021comparedto2020.Earningsin2021included
+BHE GT&S for the full year compared to two months in 2020. The incremental earnings in 2021 from BHE GT&S were
+$211 million. In addition, earnings in 2021 reflected the effects of higher margins on natural gas sales and higher
+transportation revenue at Northern Natural Gas due to increased demand from the February 2021 winter storms, partially
+offsetbylowertransportationrevenueprimarilyduetolowervolumesfortheremainderoftheyear.
+Otherenergybusinesses’after-taxearningsin2021decreased$17millioncomparedto2020.Thedecreasewasmainly
+duetoadeclineinwindtaxequityinvestmentearningsof$56million,whichincludedincreasedlossesfrompre-existingtax
+equity investments of $165 million, largely attributable to the February 2021 winter storms, partially offset by increased
+income tax benefits from projects reaching commercial operation over the past twelve months. Earnings in 2021 from other
+energy projects increased due to higher operating revenue from owned renewable energy projects and a transmission
+investment,aswellasfavorableforeigncurrencyexchangeratemovementsin2021.
+Real estate brokerage after-tax earnings increased $12 million in 2021 compared to 2020. The increase was due to a
+comparativeincreaseinclosedbrokeragetransactionvolumesin2021,partiallyoffsetbylowerfundedmortgagevolumedue
+toadecreaseinrefinanceactivity.
+Corporate interest and other after-tax earnings increased $15 million in 2021 compared to 2020. The increase was
+primarily due to favorable comparative state income tax benefits and higher earnings from non-regulated energy services,
+offsetbyhigheroperatingexpensesandhigherinterestexpensefromcorporatedebtissuedin2020.
+K-45
+Management’sDiscussionandAnalysis(Continued)
+UtilitiesandEnergy(Continued)
+2020versus2019
+PacifiCorpafter-taxearningsdecreased$32millionin2020comparedto2019.Thedecreasereflectedhigheroperating
+expenses and net interest expense, partially offset by increased production tax credit benefits driven by repowered wind
+projectsplacedin-service,higherutilitymarginandhigherotherincome.Theincreaseinoperatingexpenseswaslargelydue
+tocostsassociatedwithwildfires,asettlementagreementandpensionbenefits.
+PacifiCorputilitymarginwas$3.3billionin2020,anincreaseof$47millioncomparedto2019.Theincreasereflected
+higheroperatingrevenuefromanincreaseinaverageretailpricesandlowergenerationandpurchasedpowercosts,partially
+offsetbyloweroperatingrevenuefromadeclineinretailcustomervolumes.Thedeclineinretailcustomervolumeswasdue
+totheimpactsofthepandemic,partlyoffsetbyanincreaseintheaveragenumberofcustomersandthefavorableimpactsof
+weather.
+MECafter-taxearningsincreased$37millionin2020comparedto2019.Theincreasereflectedincreasedincometax
+benefits,primarilyfromproductiontaxcredits,drivenbyrepoweredandnewwindprojectsplacedin-service,andtheeffects
+of ratemaking. These effects were partially offset by higher depreciation expense from additional assets placed in-service,
+highernetinterestexpense,lowerotherincomeandlowerelectricandnaturalgasutilitymargins.
+MECelectricutilitymargindecreased$10millionto$1.8billionin2020comparedto2019.Theelectricutilitymargin
+decrease was attributable to lower operating revenue from unfavorable wholesale prices and price impacts from changes in
+retail sales mix. These effects were mostly offset by lower generation and purchased power costs and higher operating
+revenuefroma1.2%increaseinretailcustomervolumes.Theincreaseinelectricretailcustomervolumeswasprimarilydue
+toincreasedusagebycertainindustrialcustomers,partiallyoffsetbytheimpactsofthepandemic.Naturalgasutilitymargin
+decreased$9millionin2020comparedto2019,duetotheunfavorableimpactsofweather.
+NV Energy after-tax earnings increased $45 million in 2020 compared to 2019. The increase reflected higher electric
+utility margin and lower income tax expense from the favorable impacts of ratemaking, partially offset by higher operating
+expenses. The increase in operating expenses was mainly due to higher earnings sharing accruals for customers at Nevada
+PowerCompanyandhigherdepreciationexpensefromadditionalassetsplacedin-service.
+NV Energy electric utility margin increased $100 million to $1.7 billion in 2020 compared to 2019. The increase was
+primarily due to higher operating revenue from a 1.5% increase in electric retail customer volumes, including distribution-
+only service customers and price impacts from changes in retail sales mix. The increase in electric retail customer volumes
+wasprimarilyduetothefavorableimpactsofweather,partiallyoffsetbytheimpactsofthepandemic.
+Northern Powergrid after-tax earnings decreased $55 million in 2020 compared to 2019. The earnings decrease
+reflected write-offs of gas exploration costs and higher income tax expense, in large part from a change in the United
+Kingdomcorporateincometaxrate,partiallyoffsetbylowerpensioncostsandinterestexpense.
+Naturalgaspipelinesafter-taxearningsincreased$106millionin2020comparedto2019.Theincreasewasprimarily
+dueto$73millionofearningsfromBHEGT&S,thefavorableimpactofaratecasesettlementatNorthernNaturalGasand
+highertransportationvolumeandrates,partiallyoffsetbyhigherdepreciation,operatingexpensesandinterestexpenses.
+Otherenergybusinessafter-taxearningsin2020increased$89millioncomparedto2019.Theincreasewasprimarily
+duetoincreasedincometaxbenefitsfromrenewablewindtaxequityinvestments,largelyfromprojectsreachingcommercial
+operation,partiallyoffsetbyloweroperatingrevenueandhigheroperatingexpensesfromgeothermalandnaturalgasunits.
+Real estate brokerage after-tax earnings increased $215 million in 2020 compared to 2019. The increase reflected
+higher earnings from mortgage and brokerage services. The increase in earnings from mortgage services was attributable to
+higherrefinanceactivityfromthefavorableinterestrateenvironmentandtheearningsincreasefrombrokerageserviceswas
+duetoanincreaseof13.1%inclosedtransactiondollarvolume.
+Corporate interest and other after-tax earnings decreased $113 million in 2020 compared to 2019. The decline was
+primarilyduetohigherinterestexpenseandlowerstateincometaxbenefits.
+K-46
+Management’sDiscussionandAnalysis(Continued)
+Manufacturing,ServiceandRetailing
+A summary of revenues and earnings of our manufacturing, service and retailing businesses follows (dollars in
+millions).
+Percentagechange
+2021 2020 2019 2021vs2020 2020vs2019
+Revenues
+Manufacturing $ 68,730 $ 59,079 $ 62,730 16.3% (5.8)%
+Serviceandretailing 84,282 75,018 79,945 12.3 (6.2)
+$ 153,012 $ 134,097 $ 142,675 14.1 (6.0)
+Pre-taxearnings
+Manufacturing $ 9,841 $ 8,010 $ 9,522 22.9% (15.9)%
+Serviceandretailing 4,711 2,879 2,843 63.6 1.3
+14,552 10,889 12,365 33.6 (11.9)
+Incometaxesandnoncontrollinginterests 3,432 2,589 2,993
+Netearnings* $ 11,120 $ 8,300 $ 9,372
+Effectiveincometaxrate 23.0% 23.3% 23.7%
+Pre-taxearningsasapercentageofrevenues 9.5% 8.1% 8.7%
+* Excludes certain acquisition accounting expenses, which primarily related to the amortization of identified intangible
+assets recorded in connection with our business acquisitions. The after-tax acquisition accounting expenses excluded
+fromearningsabovewere$690millionin2021,$783millionin2020and$788millionin2019.In2020,netearnings
+also excluded after-tax goodwill and indefinite-lived intangible asset impairment charges of $10.4 billion. These
+expenses are included in “Other” in the summary of earnings on page K-32 and in the “Other Berkshire corporate”
+earningssectiononpageK-56.
+Manufacturing
+Our manufacturing group includes a variety of industrial, building and consumer products businesses. A summary of
+revenuesandpre-taxearningsofourmanufacturingoperationsfollows(dollarsinmillions).
+Percentagechange
+2021 2020 2019 2021vs2020 2020vs2019
+Revenues
+Industrialproducts $ 28,176 $ 25,667 $ 30,594 9.8% (16.1)%
+Buildingproducts 24,974 21,244 20,327 17.6 4.5
+Consumerproducts 15,580 12,168 11,809 28.0 3.0
+$ 68,730 $ 59,079 $ 62,730
+Pretaxearnings
+Industrialproducts $ 4,469 $ 3,755 $ 5,635 19.0% (33.4)%
+Buildingproducts 3,390 2,858 2,636 18.6 8.4
+Consumerproducts 1,982 1,397 1,251 41.9 11.7
+$ 9,841 $ 8,010 $ 9,522
+Pre-taxearningsasapercentageofrevenues
+Industrialproducts 15.9% 14.6% 18.4%
+Buildingproducts 13.6% 13.5% 13.0%
+Consumerproducts 12.7% 11.5% 10.6%
+K-47
+Management’sDiscussionandAnalysis(Continued)
+Manufacturing,ServiceandRetailing(Continued)
+Industrialproducts
+The industrial products group includes metal products for aerospace, power and general industrial markets (Precision
+Castparts Corp. (“PCC”)), specialty chemicals (The Lubrizol Corporation (“Lubrizol”)), metal cutting tools/systems (IMC
+InternationalMetalworkingCompanies(“IMC”)),andMarmon,whichconsistsofmorethan100autonomousmanufacturing
+andservicebusinesses,internallyaggregatedintoelevengroups,andincludesequipmentleasingfortherail,intermodaltank
+container and mobile crane industries. The industrial products group also includes equipment and systems for the livestock
+and agricultural industries (CTB International) and a variety of industrial products for diverse markets (Scott Fetzer and
+LiquidPowerSpecialtyProducts).
+2021versus2020
+Revenuesoftheindustrialproductsgroupin2021increased$2.5billion(9.8%)from2020.Pre-taxearningsincreased
+$714million(19.0%)comparedto2020andpre-taxearningsasapercentageofrevenuesin2021was15.9%,anincreaseof
+1.3percentagepointscompared2020.
+PCC’s revenues were $6.5 billion in 2021, a decrease of $853 million (11.6%) compared to 2020. Historically, PCC
+has derived significant revenues and earnings from aerospace products. The COVID-19 pandemic contributed to material
+declines in commercial air travel and original equipment manufacturing (“OEM”) aircraft production in 2021 and 2020.
+WhilecommercialairtravelincreasedinboththeU.S.andinternationalmarketsin2021versus2020,demandremainswell
+below pre-pandemic levels, especially for international routes. Long-term industry forecasts continue to show growth and
+strong demand for travel, however, the recovery has been uneven between domestic and international markets. Air traffic
+recoverywillcontinuetobeimpactedbythepandemic,thoughlikelymoreonaseasonalorlocalizedbasisasthepandemic
+shifts to an endemic phase. Near term recovery in build rates will lag recovery in air travel due to the significant finished
+goodsinventoryfollowingqualityissueswiththeBoeing737andBoeing787planesandindustrysupplychainissues.
+PCC’s pre-tax earnings in 2021 were $1.2 billion, an increase of 78.8% compared to 2020. The increase reflects the
+actions taken by management to resize, restructure and improve operations and to prepare for more normalized demand for
+PCC’s products, as well as from a decline in restructuring costs. We do not expect significant increases in PCC’s aerospace
+revenues or earnings to occur in the near term, primarily due to the relatively low aircraft build rates related to Boeing’s
+significantinventorylevelsandtheongoingimpactoftheCOVID-19pandemiconcommercialairtravel.
+Lubrizol’s revenues were $6.5 billion in 2021, an increase of 8.6% compared to 2020. The increase reflects higher
+average selling prices, driven by significant increases in materials and other manufacturing costs, as well as slightly higher
+volumes. Sales volumes in the Additives product lines were negatively affected by severe winter storms in February 2021,
+which caused the temporary shut-down of several U.S. facilities, as well as other temporary production shut-downs in the
+secondhalfof2021.
+Lubrizol’s pre-tax earnings in 2021 decreased 50.8% compared to 2020. Earnings in 2021 included significant losses
+related to a fire in June 2021 at a facility of Chemtool Incorporated, a Lubrizol subsidiary, located in Rockton, Illinois and
+impairment charges in the second half of 2021 related to an underperforming business in the Advanced Materials product
+lines. These losses and charges aggregated $257 million in 2021. Earnings in 2021 were also negatively impacted by the
+effects of accelerating raw material costs and the previously mentioned temporary shut-down of Additives production
+facilities,whichresultedinlostsalesandincrementalmanufacturingcosts.
+Marmon’srevenueswere$9.8billionin2021,anincreaseof$2.1billion(27.9%)comparedto2020.Revenuesin2021
+fromtheElectrical,MetalServicesandPlumbing&Refrigerationgroupsincreased54%over2020,accountingforoverhalf
+of the aggregate increase in Marmon’s revenues. These increases were attributable to higher volumes and prices, including
+theimpactofsignificantlyhigheraveragecopperandmetalprices.RevenuesofmostofMarmon’sothergroups,particularly
+thoseservingtheconstruction,automotive,heavy-dutytruckandrestaurantmarkets,alsoincreasedin2021,reflectinghigher
+volumesandfavorableforeigncurrencytranslationeffects.Theseincreaseswerepartiallyoffsetbytheimpactofdivestitures
+andbusinessclosuresintheWaterTechnologiesandRetailSolutionsgroupsandlowerleaserevenuesintheRail&Leasing
+group,reflectingfewerrailcarsonleaseandchangesinleasemix.
+Marmon’s pre-tax earnings in 2021 increased 40.3% compared to 2020. The increase was primarily due to earnings
+increasesintheElectrical,MetalServicesandPlumbing&Refrigerationgroupsduetohighervolumesandaveragemargins.
+Earnings of several other business groups also increased attributable to higher sales volumes, sales mix changes and lower
+restructuringcharges,whichwerepartiallyoffsetbylowerearningsfromtheRail&LeasingandWaterTechnologiesgroups.
+K-48
+Management’sDiscussionandAnalysis(Continued)
+Manufacturing,ServiceandRetailing(Continued)
+Industrialproducts(Continued)
+IMC’s revenues increased 19.5% in 2021 compared to 2020, reflecting improving business conditions in most
+geographicregionsandfavorableforeigncurrencytranslationeffects.IMC’spre-taxearningsincreased47.7%in2021versus
+2020, primarily attributable to higher customer demand, improved manufacturing efficiencies, operating cost management
+savinginitiativesandfavorableforeigncurrencytranslationeffects.
+2020versus2019
+Revenues of the industrial products group in 2020 declined $4.9 billion (16.1%) from 2019, while pre-tax earnings
+declined $1.9 billion (33.4%). Pre-tax earnings as a percentage of revenues for the group was 14.6% in 2020 compared to
+18.4%in2019.
+PCC’s revenues were $7.3 billion in 2020, a decrease of $3.0 billion (28.9%) compared to 2019. The COVID-19
+pandemic contributed to material declines in commercial air travel and aircraft production. Airlines responded to the
+pandemic by delaying delivery of aircraft orders or, in some cases, cancelling aircraft orders, resulting in significant
+reductions in build rates by aircraft manufacturers and significant inventory reduction initiatives by PCC’s customers.
+Further, Boeing’s 737 MAX aircraft production issues contributed to the declines in aerospace product sales across the
+industryin2020.ThesefactorsresultedinsignificantdeclinesindemandforPCC’saerospaceproductsin2020.PCC’ssales
+ofproductsforpowermarketsincreased2.2%in2020,primarilydrivenbyincreasesinindustrialgasturbineproducts,offset
+byreductionsinoilandgasproducts.
+PCC’spre-taxearningswere$650millionin2020,adecreaseof64.5%comparedto2019,whichreflectedthedecline
+inaerospaceproductsalesaswellasincreasedmanufacturinginefficienciesattributabletolowervolumes.Inresponsetothe
+effects of the pandemic, PCC took aggressive restructuring actions to resize operations in response to reduced expected
+volumesinaerospacemarkets.PCC’sworldwideworkforcewasreducedbyabout40%fromtheendof2019.PCCrecorded
+restructuring,inventoryandfixedassetchargesofapproximately$295millionin2020.Earningsasapercentageofrevenues
+werenegativelyimpactedin2020duetoinefficienciesassociatedwithaligningoperationstoreducedaircraftbuildrates.
+Lubrizol’s revenues were $5.95 billion in 2020, a decrease of 8.0% compared to 2019. The decline was primarily
+attributabletolowervolumesfromeconomiceffectsofthepandemicandafireatanAdditivesmanufacturing,blendingand
+storage facility in Rouen, France at the end of the third quarter of 2019, which resulted in the temporary suspension of
+operations. Revenues in 2020 also reflected lower selling prices, partly offset by favorable changes in sales mix. Lubrizol’s
+consolidated volume for the year declined 9% in 2020 compared to 2019 due to declines in the Additives and Engineered
+Materialsproductlines,partlyoffsetbyhighervolumesinLifeScienceproducts.
+Lubrizol’s pre-tax earnings in 2020 were approximately $1.0 billion, essentially unchanged compared to 2019. The
+effects of lower sales volumes, including the effects from the Rouen fire, and lower average selling prices were offset by
+loweraveragerawmaterialcosts,loweroperatingexpensesandinsurancerecoveriesin2020associatedwiththeRouenfire.
+Marmon’s revenues were $7.6 billion in 2020, a decrease of $681 million (8.2%) compared to 2019. Excluding the
+effectsofbusinessacquisitions,revenuesdecreasedinessentiallyallgroups,primarilyattributabletolowerdemandfromthe
+effects of the pandemic. The largest effects were experienced in the Transportation Products and Foodservice Technologies
+groups. Additionally, revenues decreased due to lower metal prices in the Metal Services group and the effect of business
+divestitures in 2019. Declines in oil prices in 2020 also adversely affected demand and revenues in the Rail & Leasing and
+Crane Services groups. Marmon acquired the Colson Medical companies on October 31, 2019, which represents Marmon’s
+Medicalgroup.
+Marmon’s pre-tax earnings in 2020 decreased $312 million (24.3%) compared to 2019. The decrease reflected the
+declines in revenues and increased restructuring charges. Restructuring initiatives were initiated in response to the lower
+productdemand,particularlyinthesectorsmostimpactedbythepandemic.
+K-49
+Management’sDiscussionandAnalysis(Continued)
+Manufacturing,ServiceandRetailing(Continued)
+Industrialproducts(Continued)
+IMC’srevenuesdeclined13.2%in2020comparedto2019,reflectingnegativeeconomiceffectsfromthepandemicon
+demand for cutting tools in most geographic regions, partly offset by the effects of business acquisitions. IMC’s pre-tax
+earnings declined 26.6% in 2020 versus 2019, attributable to declines in sales and margins due to lower volumes and to
+changesinsalesmix.
+Buildingproducts
+Thebuildingproductsgroupincludesmanufacturedandsite-builthomeconstructionandrelatedlendingandfinancial
+services (Clayton Homes), flooring (Shaw), insulation, roofing and engineered products (Johns Manville), bricks and
+masonry products (Acme Building Brands), paint and coatings (Benjamin Moore) and residential and commercial
+constructionandengineeringproductsandsystems(MiTek).
+2021versus2020
+Revenues of the building products group increased $3.7 billion (17.6%) in 2021 and pre-tax earnings increased $532
+million (18.6%) compared to 2020. Pre-tax earnings as percentages of revenues were 13.6% in 2021 and 13.5% in 2020.
+During 2021, our businesses experienced strong customer demand and higher sales volumes. We also experienced various
+forms of supply chain disruptions, which affected the general economy, and contributed to considerable raw material and
+logisticscostinflationandsupplyconstraints.
+Clayton Homes’ revenues were approximately $10.5 billion in 2021, an increase of $1.9 billion (22.2%) over 2020.
+Revenuesfromhomesalesincreased$1.8billion(26.5%)in2021toapproximately$8.3billion,reflectingincreasedrevenue
+per home sold, changes in sales mix and a net increase in new units sold. Unit sales of site-built homes increased 15.8% in
+2021,whilefactory-builtmanufacturedhomeunitsalesincreased1.5%.Site-builthomeunitsaleswereconstrainedbylonger
+construction periods arising from supply chain constraints and labor shortages. Financial services revenues, which include
+mortgage origination and services, insurance and interest income from lending activities, increased 7.8% in 2021 compared
+to 2020. Loan balances, net of allowances for credit losses, were approximately $18.8 billion as of December 31, 2021, an
+increaseofapproximately$1.7billioncomparedtoDecember31,2020.
+Pre-tax earnings of Clayton Homes were approximately $1.7 billion in 2021, an increase of $440 million (35.3%)
+compared to 2020. Earnings in 2021 reflected higher earnings from home sales, mortgage originations, net interest income
+andlowerprovisionsforexpectedcreditlosses,partiallyoffsetbytheimpactofrisingmanufacturingandsupplychaincosts.
+The provision for expected credit losses in 2020 was unusually high and included provisions for the expected impact of the
+COVID-19 pandemic. The comparative decline in the provision for expected credit losses was due to fewer actual and
+anticipatedloanforeclosures.
+Aggregaterevenuesofourotherbuildingproductsbusinesseswereapproximately$14.5billionin2021,anincreaseof
+14.4%versus2020.Theincreasewasprimarilyduetohigheraveragesellingpricesdrivenbysignificantlyhigherinputand
+supply chain costs, as well as higher unit volumes for paint and coatings, flooring, insulation, roofing and other engineered
+products.
+Pre-taxearningsoftheotherbuildingproductsbusinesseswereapproximately$1.7billionin2021,anincreaseof5.7%
+over 2020. Pre-tax earnings as a percentage of revenues was 11.8% in 2021, a 1.0 percentage point decrease compared to
+2020.Whilecustomerdemandin2021wasgenerallystrong,reducedavailabilityofmaterialsandotherproductinputsfrom
+supplychaindisruptionsnegativelyaffectedsalesandoperatingresults.Inaddition,highercostsforrawmaterialsandfreight
+andhigherrestructuringandimpairmentchargescontributedtothereductioninourpre-taxmarginrates.
+2020versus2019
+Revenuesofthebuildingproductsgroupincreased$917million(4.5%)in2020comparedto2019andpre-taxearnings
+increased $222 million (8.4%) over 2019. Pre-tax earnings as percentages of revenues were 13.5% in 2020 and 13.0% in
+2019.
+K-50
+Management’sDiscussionandAnalysis(Continued)
+Manufacturing,ServiceandRetailing(Continued)
+Buildingproducts(Continued)
+ClaytonHomes’revenueswereapproximately$8.6billionin2020,anincreaseof$1.3billion(17.1%)over2019.The
+increase was primarily due to increases in home sales of $1.0 billion (18.4%), driven by increases in units sold and revenue
+perhomesoldandbychangesinsalesmix.Unitsalesofsite-builthomesincreased28.6%in2020over2019,whilerevenue
+per home increased slightly. Manufactured home unit sales increased 2.8% in 2020. Financial services revenues increased
+13.7% in 2020 compared to 2019, attributable to increased loan originations and average outstanding loan balances. Loan
+balances, net of allowances for credit losses, were approximately $17.1billion at December 31, 2020 compared to
+$15.9billionasofDecember31,2019.
+Pre-tax earnings of Clayton Homes were approximately $1.25 billion in 2020, an increase of $152 million (13.9%)
+compared to 2019. The earnings increase reflected higher earnings from home sales, partly offset by higher materials costs,
+which lowered manufactured housing gross margin rates. Earnings in 2020 also benefitted from increased interest income,
+lower interest expense and higher earnings from mortgage services, partly offset by increased provisions for credit and
+insurancelosses.
+Aggregaterevenuesofourotherbuildingproductsbusinesseswereapproximately$12.6billionin2020,adecreaseof
+2.6% versus 2019. The revenue decrease reflected lower flooring volumes, in part attributable to the negative effects of the
+COVID-19 pandemic, partially offset by increased paint and coatings volumes, including volumes from a new agreement
+withAceHardwareStores,andincreasedvolumesinresidentialmarkets.
+Pre-taxearningsoftheotherbuildingproductsbusinesseswereapproximately$1.6billionin2020,anincreaseof4.6%
+over 2019. The earnings increase reflected the effects of lower average input costs, operating cost containment efforts and
+lowerfacilitiesclosurecosts.
+Consumerproducts
+The consumer products group includes leisure vehicles (Forest River), several apparel and footwear operations
+(including Fruit of the Loom, Garan, H.H. Brown Shoe Group and Brooks Sports) and a manufacturer of high-performance
+alkaline batteries (Duracell). This group also includes custom picture framing products (Larson-Juhl) and jewelry products
+(Richline).
+2021versus2020
+Consumer products revenues increased $3.4 billion (28.0%) in 2021 versus 2020. Revenues from Forest River
+increased40.2%in2021comparedto2020,drivenbya27.6%increaseinrecreationalvehicleunitsalesandhigheraverage
+sellingprices,primarilyduetosignificantincreasesinmanufacturingcosts.
+Revenuesofseveralofourotherconsumerproductsbusinessesweresignificantlyhigherin2021ascomparedto2020.
+The initial impacts of the pandemic in the first half of 2020 from temporary retail store closures and reduced demand had a
+severe impact on most of these businesses. Apparel and footwear revenues increased 25.3% in 2021 compared to 2020,
+reflecting significant increases in unit sales, partly attributable to inventory restocking by certain customers, and from
+increasedconsumerdemand.RevenuesfromRichlineincreased39.9%,whilerevenuesfromDuracellincreased2.4%.
+Consumerproductspre-taxearningsincreased$585million(41.9%)in2021comparedto2020andasapercentageof
+revenues in 2021 increased 1.2 percentage points to 12.7%. The increase reflected significant earnings increases at many of
+our businesses, driven by Forest River, the apparel and footwear businesses, Richline and Larson-Juhl. However, our
+consumer products businesses, particularly the apparel and footwear businesses, also experienced significant cost increases
+andsupplychaindisruptions,causingpre-taxmarginsinthesecondhalfof2021tobe1.1percentagepointslowerthaninthe
+firsthalfoftheyear.
+2020versus2019
+Consumer products revenues increased $359 million (3.0%) in 2020 versus 2019, while pre-tax earnings increased
+$146million(11.7%).Pre-taxearningsasapercentageofrevenuesin2020increased0.9percentagepointsto11.5%.
+K-51
+Management’sDiscussionandAnalysis(Continued)
+Manufacturing,ServiceandRetailing(Continued)
+Consumerproducts(Continued)
+The comparative increase in revenues reflected increases from Forest River and Duracell, partially offset by lower
+apparelandfootwearrevenues.ForestRiverrevenuesincreased11.7%in2020comparedto2019,primarilyattributabletoa
+significantincreaseinrecreationalvehicleunitsalesoverthelasthalfoftheyearandchangesinsalesmix.Unitsalesinthe
+secondhalfof2020increased31%overthesecondhalfof2019.RevenuesfromDuracellincreased10.0%in2020compared
+to2019,reflectingtheeffectsofchangesinsalesmixandincreasedvolume.Apparelandfootwearrevenuesdeclined6.1%in
+2020comparedto2019.
+Apparel and footwear sales volumes in the first half of 2020, particularly in the second quarter, reflected the negative
+effectsofthepandemic,whichincludedretailstoreclosures,reducedorcancelledordersandpandemic-relateddisruptionsat
+certain manufacturing facilities. Sales recovered somewhat in the second half of 2020, attributable to higher consumer
+demand and inventory restocking by retailers. Brooks Sports revenues were higher, partly attributable to the effect of the
+reducedsalesin2019thatwerecausedbyshippingdelaysatanewdistributionfacility.
+Pre-tax earnings were $1.4 billion in 2020, an increase of $146 million (11.7%) compared to 2019. The increase was
+primarilyattributabletoForestRiverandDuracell,partiallyoffsetbylowerearningsfromapparelandfootwear.Theoverall
+increasereflectedtheeffectsofsalesvolumeschangesandongoingexpensemanagementefforts.
+Serviceandretailing
+Asummaryofrevenuesandpre-taxearningsofourserviceandretailingbusinessesfollows(dollarsinmillions).
+Percentagechange
+2021 2020 2019 2021vs2020 2020vs2019
+Revenues
+Service $ 15,872 $ 12,346 $ 13,496 28.6% (8.5)%
+Retailing 18,960 15,832 15,991 19.8 (1.0)
+McLane 49,450 46,840 50,458 5.6 (7.2)
+$ 84,282 $ 75,018 $ 79,945
+Pre-taxearnings
+Service $ 2,672 $ 1,600 $ 1,681 67.0% (4.8)%
+Retailing 1,809 1,028 874 76.0 17.6
+McLane 230 251 288 (8.4) (12.8)
+$ 4,711 $ 2,879 $ 2,843
+Pre-taxearningsasapercentageofrevenues
+Service 16.8% 13.0% 12.5%
+Retailing 9.5% 6.5% 5.5%
+McLane 0.5% 0.5% 0.6%
+Service
+Ourservicegroupconsistsofseveralbusinesses.ThelargestofthesebusinessesareNetJetsandFlightSafety(aviation
+services), which offer shared ownership programs for general aviation aircraft and high technology training products and
+servicestooperatorsofaircraft,andTTI,adistributorofelectronicscomponents.Ourotherservicebusinessesfranchiseand
+serviceanetworkofquickservicerestaurants(DairyQueen),leasetransportationequipment(XTRA)andfurniture(CORT),
+provide third party logistics services that primarily serve the petroleum and chemical industries (Charter Brokerage),
+distribute electronic news, multimedia and regulatory filings (Business Wire) and operate a television station in Miami,
+Florida(WPLG).
+K-52
+Management’sDiscussionandAnalysis(Continued)
+Manufacturing,ServiceandRetailing(Continued)
+Service(Continued)
+2021versus2020
+Service group revenues increased $3.5 billion (28.6%) in 2021 compared to 2020, primarily attributable to higher
+revenuesfromTTIandtheaviationservicesbusinesses.RevenuesfromTTIincreased37.4%in2021versus2020,primarily
+attributable to significantly higher volumes across all significant markets and product categories, and to a lesser extent,
+higher average prices and changes in sales mix. Customer demand accelerated throughout 2021, as customers attempted to
+maintain adequate inventories in response to high demand for components in end products and effects of supply chain
+disruptions.Revenuesfromaviationservicesincreased27.5%in2021overlow2020levels,primarilyduetohighertraining
+hours(24%)andcustomerflighthours(70%).
+Pre-tax earnings of our service business group increased $1.1 billion (67.0%) to $2.7 billion. Pre-tax earnings of the
+group as a percentage of revenues were 16.8% in 2021, an increase of 3.8 percentage points compared to 2020. Earnings at
+nearly all service businesses increased in 2021 compared to 2020, with the largest increases from TTI, the aviation services
+businesses and the XTRA leasing business. TTI’s earnings increase was primarily attributable to the increases in sales
+volumes,aswellasfromimprovedoperatingcostleverageandchangesinsalesmix.Theincreaseinearningsfromaviation
+serviceswasattributabletothefavorableeffectsofhighervolume,changesinbusinessmix,increasedoperatingefficiencies,
+lowerimpairmentchargesandtheeffectsofpastrestructuringefforts,partlyoffsetbyhighersubcontractorcostsattributable
+tothesignificantincreaseinflightdemand.
+2020versus2019
+Service group revenues declined $1.15 billion (8.5%) in 2020 compared to 2019 and pre-tax earnings decreased $81
+million(4.8%).Pre-taxearningsofthegroupasapercentageofrevenueswere13.0%in2020,anincreaseof0.5percentage
+pointscomparedto2019.
+The aggregate revenues of NetJets and FlightSafety in 2020 declined $816 million (13.5%) compared to 2019,
+reflecting lower demand for air travel and aviation services attributable to the COVID-19 pandemic. NetJets experienced a
+declineincustomerflighthoursof27%andFlightSafety’scommercialandcorporatesimulatortraininghoursdeclined30%
+from 2019. The comparative service group revenue decline also reflected the disposition of the newspaper operations in
+March of 2020 and lower revenues from CORT, which was driven by lower demand attributable to the pandemic. These
+declineswerepartiallyoffsetbyrevenueincreasesfromTTIandWPLG.
+The decline in earnings reflected lower earnings from NetJets, TTI and CORT and the divestiture of the newspaper
+operations, partly offset by higher earnings from XTRA, Business Wire, WPLG and FlightSafety. TTI’s earnings decline
+reflectedloweraveragegrossmarginrates,attributabletoproductmixchangesandsalespricepressuresderivingfromample
+inventory availability. The decline at NetJets was primarily attributable to increased asset impairment charges and
+restructuring costs, partly offset by lower general and administrative expenses and a slight net increase in margins. The
+decline at CORT was driven by lower revenues, partly offset by the effects of cost control initiatives. The increase at
+FlightSafetywasattributabletotheeffectsofcontractlossesofapproximately$165millionrecordedin2019withrespectto
+an existing government contract and cost control efforts in 2020, which more than offset significantly lower earnings from
+commercialandcorporatetrainingservices.
+Retailing
+Our largest retailing business is Berkshire Hathaway Automotive, Inc. (“BHA”), representing 62% of our combined
+retailingrevenuein2021.BHAconsistsofover80autodealershipsthatsellnewandpre-ownedautomobilesandofferrepair
+services and related products. BHA also operates two insurance businesses, two auto auctions and an automotive fluid
+maintenanceproductsdistributor.Ourretailingbusinessesalsoincludefourhomefurnishingsretailingbusinesses(Nebraska
+Furniture Mart, R.C. Willey, Star Furniture and Jordan’s), which sell furniture, appliances, flooring and electronics. The
+homefurnishingsgrouprepresented21%ofthecombinedretailingrevenuesin2021.
+Other retailing businesses include three jewelry retailing businesses (Borsheims, Helzberg and Ben Bridge), See’s
+Candies (confectionary products), Pampered Chef (high quality kitchen tools), Oriental Trading Company (party supplies,
+school supplies and toys and novelties) and Detlev Louis Motorrad (“Louis”), a retailer of motorcycle accessories based in
+Germany.
+K-53
+Management’sDiscussionandAnalysis(Continued)
+Manufacturing,ServiceandRetailing(Continued)
+Retailing(Continued)
+2021versus2020
+Retailinggrouprevenuesin2021increased$3.1billion(19.8%)comparedto2020.BHA’srevenuesincreased19.0%
+in 2021 compared to 2020, with vehicle sales, service and repair, and finance and service contract revenues each increasing
+versus 2020. Revenues from vehicle sales in 2021 increased $1.7 billion (20.7%) versus 2020, primarily due to higher
+average selling prices, as well as a 2.7% increase in units sold. However, new vehicle unit sales in the second half of 2021
+declined18%comparedtothesecondhalfof2020,reflectingsignificantnewvehiclesupplyshortagesatOEMsattributable
+totheglobalcomputerchipshortagesandothersupplychaindisruptions.Homefurnishingsgrouprevenuesincreased22.0%
+in 2021 as compared to 2020, attributable to higher consumer demand and higher average selling prices, driven by higher
+inventoryandfreightcosts.
+Pre-tax earnings in 2021 of the retailinggroup increased $781 million (76.0%) from 2020 and the pre-tax margin rate
+increased 3.0 percentage points to 9.5%. BHA’s pre-tax earnings increased 47.5% in 2021 compared to 2020, primarily due
+to increased vehicle sales margins and higher earnings from finance and service contract activities. In addition, earnings in
+2021 benefitted from lower floorplan interest expense, attributable to significant declines in inventory levels, and from
+ongoingoperatingcostcontrolefforts.
+Home furnishings group pre-tax earnings increased 67.6% in 2021 versus 2020, reflecting generally higher average
+grossmarginratesandsalesmixchangesandcostcontrolefforts,partlyoffsetbyhigherpersonnelcosts.Aggregatepre-tax
+earningsfortheremainderofourretailinggroupincreased$321millionin2021comparedto2020.Theinitialeffectsofthe
+pandemic in 2020 were severe for most of our other retailers due to the restricted operations at many of those businesses.
+Resultsin2021alsobenefittedfromrelativelystrongconsumerdemandandtheeffectsofrestructuringeffortsin2020.
+2020versus2019
+Retailing group revenues in 2020 declined $159 million (1.0%) compared to 2019. The spread of COVID-19 resulted
+in the temporary closures or restricted operations at several of our retailing businesses and effected consumer spending
+patternsduring2020.Theseverityanddurationoftheeffectsfromthepandemicvariedwidelyatourretailoperations.
+BHA’s revenues decreased 2.9% in 2020 compared to 2019. BHA’s revenues in 2020 reflected decreases in new and
+pre-owned vehicle sales of 2.6%, as well as lower vehicle service and repair revenues. Home furnishings revenues were
+essentially unchanged in 2020 compared to 2019. The retailing group experienced lower revenues in the first half of 2020,
+attributable to restricted store hours, which were substantially offset by increased revenues over the second half of the year.
+However, supply chain disruptions had a negative effect on obtaining product at certain times, which negatively affected
+saleslevels.
+The effects of the pandemic contributed to significantly lower sales in 2020 for our jewelry stores, See’s Candies and
+Oriental Trading Company, which were more than offset by significant revenue increases from Pampered Chef and Louis.
+Sales volumes generally increased and operating results improved beginning in the latter part of the second quarter as our
+operationsslowlyreopened.
+Retail group pre-tax earnings increased $154 million (17.6%) in 2020 from 2019. BHA’s pre-tax earnings increased
+37.7%, primarily due to lower selling, general and administrative expenses, lower floorplan interest expense and higher
+averagegrosssalesmarginrates.Aggregatepre-taxearningsfortheremainderofourretailinggroupincreased1.1%in2020
+compared to 2019, reflecting higher earnings from the home furnishings businesses and from Pampered Chef, which were
+substantiallyoffsetbylowerearningsfromourotherretailingoperations.
+Homefurnishingsgrouppre-taxearningsincreased$79million(36%)in2020versus2019,reflectinggenerallyhigher
+average gross margin rates, sales mix changes and fewer sales promotions and lower advertising and other operating
+expenses. Certain of our other operations, including Pampered Chef and Louis experienced significant earnings increases in
+2020, while others, including See’s Candies and Oriental Trading Company, experienced significant declines driven by the
+negativeeffectsofthepandemic.
+K-54
+Management’sDiscussionandAnalysis(Continued)
+Manufacturing,ServiceandRetailing(Continued)
+Retailing(Continued)
+McLane
+McLane Company, Inc. (“McLane”) operates a wholesale distribution business that provides grocery and non-food
+consumer products to retailers and convenience stores (“grocery”) and to restaurants (“foodservice”). McLane also operates
+businesses that are wholesale distributors of distilled spirits, wine and beer (“beverage”). The grocery and foodservice
+businesses generate high sales and very low profit margins. These businesses have several significant customers, including
+Walmart, 7-Eleven, Yum! Brands and others. Grocery sales comprised about 63% of McLane’s consolidated sales in 2021
+with food service comprising most of the remainder. A curtailment of purchasing by any of its significant customers could
+haveanadverseimpactonperiodicrevenuesandearnings.
+2021versus2020
+Revenuesincreased$2.6billion(5.6%)in2021comparedto2020.Revenuesfromthegrocerybusinessincreased1.5%
+compared to 2020, while revenues from the foodservice and beverage businesses increased 13.1% and 17.8%, respectively.
+Thefoodservicebusinesswassignificantlyimpactedbypandemic-relatedrestaurantclosuresin2020.
+Pre-tax earnings decreased $21 million (8.4%) in 2021 as compared to 2020. The decrease reflected significant
+increasesinpersonnel,contracttransportationandfuelcosts,whichmorethanoffsetthefavorableimpactofhighersalesand
+slightly higher gross sales margins. McLane’s grocery and food service operations were significantly affected in 2021 by
+upstream supply chain constraints, including the effects of labor and truck driver shortages, which contributed to higher
+inventory costs reflected in a LIFO inventory reserve increase of $130 million, and disruptions in inventory availability.
+These upstream supply chain effects, together with the truck driver and warehouse personnel shortages that we are
+experiencing, adversely affected our customer service levels and reduced our operating efficiencies. In response, our hiring
+and wage and benefits costs increased significantly in 2021. The increase in fuel expense was primarily attributable to
+significantincreasesinpetroleumprices.Weexpectthecurrentdifficultoperatingenvironmenttocontinuethrough2022.
+2020versus2019
+Revenues declined $3.6 billion (7.2%) in 2020 compared to 2019. The decline was attributable to COVID-19-related
+restaurant closures (particularly in the casual dining category) in the foodservice business and lower sales in certain product
+categorieswithinthegrocerybusiness.McLaneoperatesona52/53-weekfiscalyearand2020included52weekscompared
+to 53 weeks in 2019. Otherwise, revenues declined 5.2% in the grocery business and 7.7% in the foodservice business in
+2020ascomparedto2019.
+Pre-tax earnings decreased $37 million (12.8%) in 2020 as compared to 2019. The earnings decrease included the
+effects of increased LIFO inventory reserves of $22 million, credit and inventory losses of $12 million in the foodservice
+operationsandtheimpactoflowersales.
+InvestmentandDerivativeContractGains/Losses
+Asummaryofinvestmentandderivativecontractgains/lossesfollows(dollarsinmillions).
+2021 2020 2019
+Investmentgains/losses $ 77,576 $ 40,905 $ 71,123
+Derivativecontractgains/losses 966 (159) 1,484
+Gains/lossesbeforeincometaxesandnoncontrollinginterests 78,542 40,746 72,607
+Incometaxesandnoncontrollinginterests 16,202 9,155 15,162
+Netearnings $ 62,340 $ 31,591 $ 57,445
+Effectiveincometaxrate 20.4% 21.7% 20.9%
+K-55
+Management’sDiscussionandAnalysis(Continued)
+InvestmentandDerivativeContractGains/Losses(Continued)
+Investmentgains/losses
+Unrealizedgainsandlossesarisingfromchangesinmarketpricesofourinvestmentsinequitysecuritiesareincluded
+inourreportedearnings,whichsignificantlyincreasesthevolatilityofourperiodicnetearningsduetothemagnitudeofour
+equity securities portfolio and the inherent volatility of equity securities prices. Pre-tax investment gains/losses included net
+unrealized gains of approximately $76.4 billion in 2021, $55.0 billion in 2020 and $69.6 billion in 2019 attributable to
+changesinmarketpricesofequitysecuritiesweheldattheendofeachyear.Ineachyear,wealsorecordedpre-taxgainsand
+lossesfrommarketvaluechangesduringeachyearonequitysecuritiessoldduringsuchyear,includinggainsof$1.0billion
+in2021,lossesof$14.0billionin2020andgainsof$1.6billionin2019.Taxableinvestmentgainsonequitysecuritiessold,
+whichisgenerallythedifferencebetweensalesproceedsandtheoriginalcostbasisofthesecuritiessold,were$3.6billionin
+2021,$6.2billionin2020and$3.2billionin2019.
+We believe that investment gains/losses, whether realized from sales or unrealized from changes in market prices, are
+often meaningless in terms of understanding our periodic consolidated earnings or evaluating our periodic economic
+performance.Wecontinuetobelievetheinvestmentgains/lossesrecordedinearnings,includingthechangesinmarketprices
+forequitysecurities,inanygivenperiodhaslittleanalyticalorpredictivevalue.
+Derivativecontractgains/losses
+Derivative contract gains/losses include the changes in fair value of our equity index put option contract liabilities,
+which relate to contracts that were originated prior to March 2008. A vast majority of these contracts have since expired.
+Contracts comprising 63% of the remaining notional value as of December 31, 2021 will expire in the first quarter of 2022.
+The periodic changes in the fair values of these liabilities are recorded in earnings and, historically, were significant,
+primarilyduetothevolatilityofunderlyingequitymarkets.AsofDecember31,2021,theintrinsicvalueofourequityindex
+put option contracts was near zero and our recorded liability at fair value was approximately $99 million. Our ultimate
+payment obligations, if any, under our contracts will be determined as of the contract expiration dates based on the intrinsic
+value as defined under the contracts. The pre-tax gains and losses in each of the past three years reflected changes in the
+equityindexvaluesandshorterremainingcontractdurations.Settlementpaymentstocounterpartiesoverthepastthreeyears
+wereinsignificant.
+Other
+Asummaryofafter-taxotherearnings/lossesfollows(inmillions).
+2021 2020 2019
+Equitymethodearnings $ 881 $ 665 $ 1,023
+Acquisitionaccountingexpenses (690) (783) (788)
+Goodwillandintangibleassetimpairments — (10,381) (96)
+Corporateinterestexpense,beforeforeigncurrencyeffects (305) (334) (280)
+Foreigncurrencyexchangerategains(losses)onBerkshire
+andBHFCnon-U.S.Dollarseniornotes 955 (764) 58
+OtherBerkshirecorporate 474 279 507
+$ 1,315 $ (11,318) $ 424
+After-tax equity method earnings include our proportionate share of earnings attributable to our investments in Kraft
+Heinz,Pilot,Berkadia,ElectricTransmissionofTexasandIroquoisGasTransmissionSystems.Ourafter-taxearningsfrom
+Kraft Heinz were $317 million in 2021, $170million in 2020 and $488 million in 2019. Our earnings from Kraft Heinz
+includedourafter-taxshareofgoodwillandotherintangibleassetimpairmentchargesrecordedbyKraftHeinzineachyear.
+Ourafter-taxshareofsuchchargeswas$259millionin2021,$611millionin2020and$339millionin2019.
+K-56
+Management’sDiscussionandAnalysis(Continued)
+Other(Continued)
+After-tax acquisition accounting expenses include charges arising from the application of the acquisition method in
+connection with certain of Berkshire’s past business acquisitions. Such charges arise primarily from the amortization or
+impairment of intangible assets recorded in connection with those business acquisitions. Goodwill and intangible asset
+impairmentsin2020includedafter-taxchargesof$9.8billionattributabletoimpairmentsofgoodwillandcertainidentifiable
+intangible assets that were recorded in connection with our acquisition of PCC in 2016. See Other Critical Accounting
+PoliciesonpageK-62foradditionaldetails.
+Foreign currency exchange rate gains and losses pertain to Berkshire’s Euro and Japanese Yen denominated debt and
+BHFC’s Great Britain Pound denominated debt. Changes in foreign currency exchange rates produce unrealized gains and
+losses from the periodic revaluation of these liabilities into U.S. Dollars. The gains and losses recorded in any given period
+can be significant due to the magnitude of the borrowings and the inherent volatility in foreign currency exchange rates.
+Berkshire corporate items consist primarily of Berkshire parent company investment income and corporate expenses, other
+intercompanyinterestincomewhere theinterestexpenseisincluded inearnings oftheoperatingbusinesses andunallocated
+incometaxes.
+FinancialCondition
+Our consolidated balance sheet continues to reflect very significant liquidity and a very strong capital base.
+Consolidatedshareholders’equityatDecember31,2021was$506.2billion,anincreaseof$63.0billionsinceDecember31,
+2020.NetearningsattributabletoBerkshireshareholderswas$89.8billionandincludedafter-taxgainsonourinvestmentsof
+approximately$61.6billion.Overeachofthelastthreeyears,investmentgainsandlossesfromchangesinthemarketprices
+ofourinvestmentsinequitysecuritiesproducedexceptionalvolatilityinourperiodicearnings.
+Berkshire’s common stock repurchase program, as amended, permits Berkshire to repurchase its ClassA and ClassB
+sharesatpricesbelowBerkshire’sintrinsicvalue,asconservativelydeterminedbyWarrenBuffett,Berkshire’sChairmanof
+the Board and Chief Executive Officer, and Charlie Munger, Vice Chairman of the Board. The program does not specify a
+maximum number of shares to be repurchased and does not require any specified repurchase amount. The program is
+expectedtocontinueindefinitely.WewillnotrepurchaseourstockifitreducesthetotalamountofBerkshire’sconsolidated
+cash, cash equivalents and U.S. Treasury Bill holdings below $30billion. Financial strength and redundant liquidity will
+alwaysbeofparamountimportanceatBerkshire.Berkshirepaid$27.1billionin2021torepurchasesharesofitsClassAand
+Bcommonstock.
+At December 31, 2021, our insurance and other businesses held cash, cash equivalents and U.S. Treasury Bills of
+$143.9 billion, which included $119.6billion in U.S. Treasury Bills. Investments in equity and fixed maturity securities
+(excludingourinvestmentinKraftHeinz)were$367.2billion.OurfixedmaturitysecuritiesatDecember31,2021included
+approximately$14.4billionofinvestmentsthatmaturein2022and2023.
+Our consolidated borrowings at December 31, 2021 were $114.3 billion, of which over 95% were by the Berkshire
+parent company, BHFC, BNSF and BHE and its subsidiaries. Expected principal and interest payments related to our
+consolidated borrowings in each of the next five years are (in billions): $10.2 in 2022; $14.6 in 2023; $9.7 in 2024; $9.9 in
+2025;and$8.7in2026.
+Berkshire parent company debt outstanding at December 31, 2021 was $21.4 billion, a decrease of $1.3 billion since
+December31,2020,whichwasprimarilyduetotheeffectsofforeigncurrencyexchangeratechangesonEuroandJapanese
+Yen denominated debt. In 2021, Berkshire repaid Euro and U.S. Dollar denominated debt aggregating approximately $2.2
+billion of maturing senior notes and issued Euro and Yen denominated senior notes aggregating approximately $2.2 billion
+with maturity dates ranging from 2026 to 2041 and a weighted average interest rate of 0.5%. In January 2022, Berkshire
+repaid $600 million of maturing senior notes and issued ¥128.5 billion (approximately $1.1 billion) of senior notes with
+maturitydatesrangingfrom2027to2052andaweightedaverageinterestrateof0.5%.
+Berkshire’s insurance and other subsidiary outstanding borrowings were approximately $17.9billion at December 31,
+2021,whichincludedseniornoteborrowingsofBHFC,awholly-ownedfinancingsubsidiary,ofapproximately$13.1billion.
+BHFC’s borrowings are used to fund a portion of loans originated and acquired by Clayton Homes and equipment held for
+leasebyourrailcarleasingbusiness.In2021,BHFCrepaid$750millionofmaturingseniornotesandissued$750millionof
+2.5% senior notes due in 2051. Berkshire guarantees BHFC’s senior notes for the full and timely payment of principal and
+interest.
+K-57
+Management’sDiscussionandAnalysis(Continued)
+FinancialCondition(Continued)
+BNSF’s outstanding debt was $23.2billion as of December 31, 2021, relatively unchanged from December 31, 2020.
+During2021,BNSFrepaid$1.54billionofdebtandissued$1.55billionofdebentureswithaweightedaverageinterestrate
+of 3.1% with maturity dates in 2051 and 2052. Outstanding borrowings of BHE and its subsidiaries were $51.8billion at
+December31,2021,adecreaseof$382millionsinceDecember31,2020.In2021,BHEanditssubsidiariesissuednewterm
+debt of approximately $2.2billion with maturity dates ranging from 2028 to 2052 and repaid term debt of approximately
+$2.5billion.BerkshiredoesnotguaranteetherepaymentofdebtissuedbyBNSF,BHEoranyoftheirsubsidiaries.
+In each of the past three years, our diverse group of businesses generated net operating cash flows of approximately
+$39billion.Ourconsolidatedcapitalexpendituresforproperty,plantandequipmentandequipmentheldforleasewere$13.3
+billionin2021,whichincludedcapitalexpendituresbyourrailroad,utilitiesandenergybusinesses(BNSFandBHE)of$9.5
+billion. BNSF and BHE maintain very large investments in capital assets (property, plant and equipment) and will regularly
+make significant capital expenditures in the normal course of business. We forecast capital expenditures of these two
+operationswillapproximate$11.1billionin2022.
+ContractualObligations
+We are party to other contracts associated with ongoing business activities, which will result in cash payments to
+counterpartiesinfutureperiods.CertainobligationsareincludedinourConsolidatedBalanceSheets,suchasoperatinglease
+liabilitiesandsharedaircraftrepurchaseliabilitiesofNetJets.Estimatedpaymentsoftheseliabilitiesineachofthenextfive
+yearsare(inbillions):$1.6in2022;$1.5in2023;$1.4in2024;$1.2in2025;and$1.2in2026.
+Wearealsoobligatedtopayclaimsarisingfrompropertyandcasualtyinsurancecompanies.Suchliabilities,including
+amounts from retroactive reinsurance, were approximately $125 billion at December 31, 2021. We currently forecast claim
+paymentsin2022ofapproximately$29billionwithrespecttoclaimsoccurringpriorto2022.Additionally,weestimatenet
+payments of approximately $3 billion in 2022 for life, health and annuity benefits under contracts. However, the timing and
+amountofthepaymentsunderinsuranceandreinsurancecontractsarecontingentupontheoutcomeoffutureevents.Actual
+paymentswilllikelyvary,perhapsmaterially,fromtheforecastedpayments,aswellasfromtheliabilitiescurrentlyrecorded
+inourConsolidatedBalanceSheet.Weanticipatethatthesepaymentswillbefundedbyoperatingcashflows.
+Other obligations pertaining to the acquisition of goods or services in the future, such as certain purchase obligations,
+arenotcurrentlyreflectedintheConsolidatedFinancialStatementsandwillberecognizedinfutureperiodsasthegoodsare
+deliveredor servicesareprovided. As of December 31, 2021, thelargest categoriesof our long-termcontractual obligations
+primarilyrelatedtofuel,capacity,transmissionandmaintenancecontractsandcapitalexpenditurecommitmentsofBHEand
+BNSF and aircraft purchase commitments of NetJets. We estimate future payments associated with these contracts over the
+next five years of approximately $19 billion, including $8 billion in 2022. We also have an agreement to acquire an
+additional 41.4% of Pilot in 2023 and agreements to acquire certain non-controlling interests of consolidated subsidiaries.
+Reference is made to Note 26 to the Consolidated Financial Statements for additional information regarding these
+commitments.
+CriticalAccountingPolicies
+Certain accounting policies require us to make estimates and judgments in determining the amounts reflected in our
+Consolidated Financial Statements. Such estimates and judgments necessarily involve varying and possibly significant
+degreesofuncertainty.Accordingly,certainamountscurrentlyrecordedinourConsolidatedFinancialStatementswilllikely
+be adjusted in the future based on new available information and changes in other facts and circumstances. A discussion of
+ourprincipalaccountingpoliciesthatrequiredtheapplicationofsignificantjudgmentsasofDecember31,2021follows.
+Propertyandcasualtyinsuranceunpaidlosses
+Werecordliabilitiesforunpaidlossesandlossadjustmentexpenses(alsoreferredtoas“grossunpaidlosses”or“claim
+liabilities”) based upon estimates of the ultimate amounts payable for loss events occurring on or before the balance sheet
+date. The timing and amount of ultimate loss payments are contingent upon, among other things, the timing of claim
+reportingfrominsuredsandcedingcompaniesandthefinaldeterminationofthelossamountthroughthelossadjustmentand
+settlement process. We use a variety of techniques in establishing claim liabilities, which may require significant judgments
+andassumptions.
+As of the balance sheet date, recorded claim liabilities include estimates for reported claims and for claims not yet
+reported. The period between the loss occurrence date and loss settlement date is the “claim-tail.” Property claims usually
+haverelativelyshortclaim-tails,absentlitigation.Casualtyclaimsusuallyhavelongerclaim-tails,occasionallyextendingfor
+decades.Casualtyclaimsmaybemoresusceptibletolitigationandtheimpactofchangingcontractinterpretations.Thelegal
+environmentandjudicialprocessfurthercontributetoextendingclaim-tails.
+K-58
+Management’sDiscussionandAnalysis(Continued)
+Propertyandcasualtylosses(Continued)
+Ourconsolidatedclaimliabilities,includingliabilitiesfromretroactivereinsurancecontracts,asofDecember31,2021
+were approximately $125 billion, of which 80% related to GEICO and the Berkshire Hathaway Reinsurance Group.
+Additional information regarding significant uncertainties inherent in the processes and techniques for estimating unpaid
+lossesofthesebusinessesfollows.
+GEICO
+GEICO predominantly writes private passenger auto insurance. As of December31, 2021, GEICO’s gross unpaid
+losses were $23.9 billion and claim liabilities, net of reinsurance recoverable, were $22.7 billion. GEICO’s claim reserving
+methodologies produce liability estimates based upon the individual claims. The key assumptions affecting our liability
+estimates include projections of ultimate claim counts (“frequency”) and average loss per claim (“severity”). We utilize a
+combinationofseveralactuarialestimationmethods,includingBornhuetter-Fergusonandchain-laddermethodologies.
+Claim liability estimates for automobile liability coverages (such as bodily injury (“BI”), uninsured motorists, and
+personal injury protection) are more uncertain due to the longer claim-tails, so we establish additional case development
+estimates. As of December31, 2021, case development liabilities averaged approximately 34% of the case reserves. We
+selectcasedevelopmentfactorsthroughanalysisoftheoveralladequacyofhistoricalcaseliabilities.
+Incurred-but-not-reported (“IBNR”) claim liabilities are based on projections of the ultimate number of claims
+expected (reported and unreported) for each significant coverage. We use historical claim count data to develop age-to-age
+projectionsoftheultimatecountsbyquarterlyaccidentperiod,fromwhichwedeductreportedclaimstoproducethenumber
+of unreported claims. We estimate the average costs per unreported claim and apply such estimates to the unreported claim
+counts, producing an IBNR liability estimate. We may record additional IBNR estimates when actuarial techniques are
+difficulttoapply.
+We test the adequacy of the aggregate claim liabilities using one or more actuarial projections based on claim closure
+models and paid and incurred loss triangles. Each type of projection analyzes loss occurrence data for claims occurring in a
+givenperiodandprojectstheultimatecost.
+Ourclaimliabilityestimatesrecordedattheendof2020werereducedby$1.8billionduring2021,whichproduceda
+corresponding increase to pre-tax earnings. The assumptions used to estimate liabilities at December31, 2021 reflect the
+most recent frequency and severity estimates. Future development of recorded liabilities will depend on whether actual
+frequencyandseverityofclaimsaremoreorlessthananticipated.
+WithrespecttoliabilitiesforBIclaims,webelieveitisreasonablypossiblethataverageclaimsseveritieswillchange
+by at least one percentage point from the projected severities used in establishing the recorded liabilities at December31,
+2021.WeestimatethataonepercentagepointincreaseordecreaseinBIseveritieswouldproducea$290millionincreaseor
+decrease in recorded liabilities, with a corresponding decrease or increase in pre-tax earnings. Many of the economic forces
+thatwouldlikelycauseBIseveritytodifferfromexpectationswouldlikelyalsocauseseveritiesforotherinjurycoveragesto
+differinthesamedirection.
+BerkshireHathawayReinsuranceGroup
+BHRG’s liabilities for unpaid losses and loss adjustment expenses derive primarily from reinsurance contracts issued
+through NICO and General Re. A summary of BHRG’s property and casualty unpaid losses and loss adjustment expenses,
+otherthanretroactivereinsurancelossesandlossadjustmentexpenses,asofDecember31,2021follows(inmillions).
+Property Casualty Total
+Reportedcaseliabilities $ 6,602 $ 9,630 $ 16,232
+IBNRliabilities 6,780 15,227 22,007
+Grossunpaidlossesandlossadjustmentexpenses 13,382 24,857 38,239
+Reinsurancerecoverable 181 892 1,073
+Netunpaidlossesandlossadjustmentexpenses $ 13,201 $ 23,965 $ 37,166
+K-59
+Management’sDiscussionandAnalysis(Continued)
+Propertyandcasualtylosses(Continued)
+BerkshireHathawayReinsuranceGroup(Continued)
+Gross unpaid losses and loss adjustment expenses consist primarily of traditional property and casualty coverages
+writtenprimarilyunderexcess-of-lossandquota-sharetreaties.Undercertaincontracts,coveragecanapplytomultiplelines
+of business written and the ceding company may not report loss data by such lines consistently, if at all. In those instances,
+weallocatelossestopropertyandcasualtycoveragesbasedoninternalestimates.
+In connection with reinsurance contracts, the nature, extent, timing and perceived reliability of loss information
+received from ceding companies varies widely depending on the type of coverage and the contractual reporting terms.
+Reinsurance contract terms, conditions and coverages also tend to lack standardization and may evolve more rapidly than
+primaryinsurancepolicies.
+The nature and extent of loss information provided under many facultative (individual risk) or per occurrence excess
+contractsmaybecomparabletotheinformationreceivedunderaprimaryinsurancecontract.However,lossinformationwith
+respecttoaggregateexcess-of-lossandquota-sharecontractsisofteninasummaryformatratherthanonanindividualclaim
+basis. Loss data includes recoverable paid losses, as well as case loss estimates. Ceding companies infrequently provide
+reliableIBNRlossestimates.
+Loss reporting to reinsurers is typically slower in comparison to primary insurers. In the U.S., such reporting is
+generallyrequiredatquarterlyintervalsrangingfrom30to90daysaftertheendofthequarterlyperiod,whileoutsideofthe
+U.S.,reinsurancereportingpracticesmayvaryfurther.Incertaincountries,clientsreportannuallyfrom90to180daysafter
+the end of the annual period. To the extent that reinsurers assume and cede underlying risks from other reinsurers, further
+delays in claims reporting may occur. The relative impact of reporting delays on the reinsurer may vary depending on the
+type of coverage, contractual reporting terms, the magnitude of the claim relative to the attachment point of the reinsurance
+coverage,andforotherreasons.
+As reinsurers, the premium and loss data we receive is at least one level removed from the underlying claimant, so
+there is a risk that the loss data reported is incomplete, inaccurate or the claim is outside the coverage terms. We maintain
+certain internal procedures to determine that the information is complete and in compliance with the contract terms.
+Generally, our reinsurance contracts permit us to access the ceding company’s records with respect to the subject business,
+thus providing the ability to audit the reported information. In the normal course of business, disputes occasionally arise
+concerning whether claims are covered by our reinsurance policies. We resolve most coverage disputes through negotiation
+with the client. If disputes cannot be resolved, our contracts generally provide arbitration or alternative dispute resolution
+processes.Therearenocoveragedisputesatthistimeforwhichanadverseresolutionwouldlikelyhaveamaterialimpacton
+ourconsolidatedresultsofoperationsorfinancialcondition.
+Establishingclaimliabilityestimatesforreinsuranceassumedrequiresevaluationoflossinformationreceivedfromour
+clients.Wegenerallyrelyonthecedingcompanies’reportedcaselossestimates.Weindependentlyevaluatecertainreported
+case losses and if appropriate, we use our own case liability estimate. For instance, as of December31, 2021, our case loss
+estimates exceeded ceding company estimates by approximately $700 million for certain legacy workers’ compensation
+claims occurring over 10 years ago. We also periodically conduct detailed reviews of individual client claims, which may
+causeustoadjustourcaseestimates.
+Although liabilities for losses are initially determined based on pricing and underwriting analysis, we use a variety of
+actuarial methodologies that place reliance on the extrapolation of actual historical data, loss development patterns, industry
+data and other benchmarks, as appropriate. The estimate of the IBNR liabilities also requires judgment by actuaries and
+management to reflect the impact of additional factors like change in business mix, volume, claim reporting and handling
+practices,inflation,socialandlegalenvironmentandthetermsandconditionsofthecontracts.Themethodologiesgenerally
+fallintooneofthefollowingcategoriesorarehybridsofoneormoreofthefollowingcategories:
+K-60
+Management’sDiscussionandAnalysis(Continued)
+Propertyandcasualtylosses(Continued)
+BerkshireHathawayReinsuranceGroup(Continued)
+Paidandincurredlossdevelopmentmethods–thesemethodsconsiderexpectedcaselossemergenceanddevelopment
+patterns, together with expected loss ratios by year. Factors affecting our loss development analysis include, but are not
+limitedto,changesin the following: clientclaimsreportingand settlement practices; the frequencyof clientcompany claim
+reviews;policytermsandcoverage(suchaslossretentionlevelsandoccurrenceandaggregatepolicylimits);losstrends;and
+legal trends that result in unanticipated losses. Collectively, these factors influence our selections of expected case loss
+emergencepatterns.
+Incurred and paid loss Bornhuetter-Ferguson methods – these methods consider actual paid and incurred losses and
+expectedpatternsofpaidandincurredlosses,takingtheinitialexpectedultimatelossesintoaccounttodetermineanestimate
+oftheexpectedunpaidorunreportedlosses.
+Frequencyandseveritymethods–thesemethodscommonlyfocusonareviewofthenumberofanticipatedclaimsand
+the anticipated claims severity and may also rely on development patterns to derive such estimates. However, our processes
+andtechniquesforestimatingliabilitiesinsuchanalysesgenerallyrelymoreonaper-policyassessmentoftheultimatecost
+associatedwiththeindividuallossratherthanwithananalysisofhistoricaldevelopmentpatternsofpastlosses.
+Additional analysis – in some cases we have established reinsurance claim liabilities on a contract-by-contract basis,
+determinedfromcaselossestimatesreportedbythecedingcompanyandIBNRliabilitiesthatareprimarilyafunctionofan
+anticipated loss ratio for the contract and the reported case loss estimate. Liabilities are adjusted upward or downward over
+timetoreflectcaselossesreportedversusexpectedcaselosses,whichweusetoformrevisedjudgementontheadequacyof
+theexpectedlossratioandthelevelofIBNRliabilitiesrequiredforunreportedclaims.Anticipatedlossratiosarealsorevised
+toincludeestimatesofknownmajorcatastropheevents.
+Our claim liability estimation process for short-tail lines, primarily property exposures, utilizes a combination of the
+paid and incurred loss development methods and the incurred and paid loss Bornhuetter-Ferguson methods. Certain
+catastrophe, individual risk and aviation excess-of-loss contracts tend to generate low frequency/high severity losses. Our
+processes and techniques for estimating liabilities under such contracts generally rely more on a per contract assessment of
+theultimatecostassociatedwiththeindividuallosseventratherthanwithananalysisofthehistoricaldevelopmentpatterns
+ofpastlosses.
+For our long-tail lines, primarily casualty exposures, we may rely on different methods depending on the maturity of
+the business, with estimates for the most recent years being based on priced loss expectations and more mature years
+reflectingthepaidorincurreddevelopmentpatternindications.
+In 2021, certain workers’ compensation claims reported losses were less than expected. As a result, we reduced
+estimatedultimatelossesforprioryears’losseventsby$136million.Weestimatethatincreasesoftenpercentinthetailof
+the expected loss emergence pattern and in the expected loss ratios would produce a net increase of approximately $1.0
+billion in IBNR liabilities, producing a corresponding decrease in pre-tax earnings. We believe it is reasonably possible for
+theseassumptionstoincreaseattheserates.
+For other casualty losses, excluding asbestos, environmental, and other latent injury claims, we reduced estimated
+ultimateliabilitiesforprioryears’eventsbyapproximately$375millionin2021.Forcertainsignificantcasualtyandgeneral
+liabilityportfolios,weestimatethatincreasesoffivepercentintheclaim-tailsoftheexpectedlossemergencepatternsandin
+the expected loss ratios would produce a net increase in our nominal IBNR liabilities and a corresponding reduction in pre-
+tax earnings of approximately $950 million, although outcomes of greater than or less than $950 million are possible given
+thediversificationinworldwidebusiness.
+The change in estimated ultimate liabilities for asbestos, environmental and other latent injury claims, excluding
+amounts assumed under retroactive reinsurance contracts was not significant in 2021. Net liabilities for such claims were
+approximately $2.1 billion at December31, 2021. Loss estimations for these exposures are difficult to determine due to the
+changing legal environment and increases may be required in the future if new exposures or claimants are identified, new
+claimsarereportedornewtheoriesofliabilityemerge.
+K-61
+Management’sDiscussionandAnalysis(Continued)
+Propertyandcasualtylosses(Continued)
+Retroactivereinsurance
+Our retroactive reinsurance contracts cover loss events occurring before the contract inception dates. Claim liabilities
+associated with our retroactive reinsurance contracts predominately pertain to casualty or liability exposures. We expect the
+claim-tailstobeverylong.AsofDecember31,2021,grossunpaidlosseswere$38.3billionanddeferredchargeswere$10.6
+billion.
+Our contracts are generally subject to maximum limits of indemnifications and, as such, we currently expect that
+maximum remaining gross losses payable under our retroactive policies will not exceed $54 billion. Absent significant
+judicial or legislative changes affecting asbestos, environmental or latent injury exposures, we also currently believe it
+unlikely that losses will develop upward to the maximum losses payable or downward by more than 15% of our estimated
+grossliability.
+We establish liability estimates by individual contract, considering exposure and development trends. In establishing
+ourliabilityestimates,weoftenanalyzehistoricalaggregatelosspaymentpatternsandprojectexpectedultimatelossesunder
+various scenarios. We assign judgmental probability factors to these scenarios and an expected outcome is determined. We
+then monitor subsequent loss payment activity and review ceding company reports and other available information
+concerning the underlying losses. We re-estimate the expected ultimate losses when significant events or significant
+deviationsfromexpectedresultsarerevealed.
+Certain of our retroactive reinsurance contracts include asbestos, environmental and other latent injury claims. Our
+estimatedliabilitiesforsuchclaimswereapproximately$12.3billionatDecember31,2021.Wedonotconsistentlyreceive
+reliabledetaileddataregardingasbestos,environmentalandlatentinjuryclaimsfromallcedingcompanies,particularlywith
+respect to multi-line or aggregate excess-of-loss policies. When possible, we conduct a detailed analysis of the underlying
+loss data to make an estimate of ultimate reinsured losses. When detailed loss information is unavailable, we develop
+estimates by applying recent industry trends and projections to aggregate client data. Judgments in these areas necessarily
+considerthestabilityofthelegalandregulatoryenvironmentunderwhichweexpectclaimswillbeadjudicated.Legalreform
+andlegislationcouldalsohaveasignificantimpactonourultimateliabilities.
+We reduced estimated ultimate liabilities for prior years’ retroactive reinsurance contracts by $974 million in 2021,
+whichafterthechangesinrelateddeferredcharges,resultedinpre-taxearningsof$142million.In2021,wepaidlossesand
+lossadjustmentexpensesof$1.9billionwithrespecttoourretroactivereinsurancecontracts.
+In connection with our retroactive reinsurance contracts, we also record deferred charges, which at contract inception
+represents the excess, if any, of the estimated ultimate liability for unpaid losses over premiums received. We amortize
+deferred charges, which produces charges to pre-tax earnings in future periods based on the expected timing and amount of
+losspayments.Wealsoadjustdeferredchargebalancesduetochangesintheexpectedtimingandultimateamountofclaim
+paymentsandtheeffectsoftheadjustmentsareincludedinpre-taxearnings.Significantchangesinsuchestimatesmayhave
+a significant effect on unamortized deferred charge balances. Based on the contracts in effect as of December31, 2021, we
+estimatethatamortizationexpensein2022willapproximate$950million.
+OtherCriticalAccountingPolicies
+Our Consolidated Balance Sheet at December31, 2021 includes goodwill of acquired businesses of $73.9billion and
+otherindefinite-livedintangibleassetsof$18.5billion.Weevaluatetheseassetsforimpairmentannuallyinthefourthquarter
+andonaninterimbasisifthefactsandcircumstancesleadustobelievethatmore-likely-nottherehasbeenanimpairment.
+Goodwillandindefinite-livedintangibleassetimpairmentreviewsincludedeterminingtheestimatedfairvaluesofour
+reporting units and indefinite-lived intangible assets. The key assumptions and inputs used in such determinations may
+include forecasting revenues and expenses, cash flows and capital expenditures, as well as an appropriate discount rate and
+other inputs. Significant judgment by management is required in estimating the fair value of a reporting unit and in
+performing impairment reviews. Due to the inherent subjectivity and uncertainty in forecasting future cash flows and
+earnings over long periods of time, actual results may differ materially from the forecasts. If the carrying value of the
+indefinite-lived intangible asset exceeds fair value, the excess is charged to earnings as an impairment loss. If the carrying
+valueofareportingunitexceedstheestimatedfairvalueofthereportingunit,thentheexcess,limitedtothecarryingamount
+ofgoodwill,willbechargedtoearningsasanimpairmentloss.
+K-62
+Management’sDiscussionandAnalysis(Continued)
+OtherCriticalAccountingPolicies(Continued)
+AsofDecember31,2021,weconcludeditismorelikelythannotthatgoodwillrecordedinourConsolidatedBalance
+Sheet was not impaired. The fair value estimates of reporting units are and will likely be significantly affected by
+assumptions on the severity, duration or long-term effects of the pandemic on the reporting unit’s business, as well as other
+assumptions concerning the long-term economic performance of the reporting unit, which we cannot reliably predict.
+Consequently,anyfairvalueestimatesinsuchinstancescanbesubjecttowidevariations.
+We primarily use discounted projected future earnings or cash flow methods in determining fair values. The key
+assumptions and inputs used in such methods may include forecasting revenues and expenses, cash flows and capital
+expenditures, as well as an appropriate discount rate and other inputs. A significant amount of judgment is required in
+estimatingthefairvalueofareportingunitandinperforminggoodwillimpairmenttests.
+In connection with the annual goodwill impairment review conducted in the fourth quarter of 2021, the estimated fair
+valuesoffivereportingunitsdidnotexceedourcarryingvaluesbyatleast20%.Themostsignificantofthesereportingunits
+was Precision Castparts Corp. (“PCC”). The estimated fair value of PCC was approximately $34.5 billion, exceeding our
+carryingvalueofapproximately$31.1billionby10.7%.OurcarryingvalueofPCCincludedgoodwillofapproximately$7.5
+billion.Forthefourotherreportingunits,ouraggregateestimatedfairvaluewasapproximately$2.5billion,whichexceeded
+our aggregate carrying value of approximately $2.3 billion by 9.2%. Our carrying value of these units included goodwill of
+approximately$1.2billion.
+In the second quarter of 2020, we quantitively reevaluated goodwill for impairment for certain reporting units, and
+mostsignificantlyforPCC.Asaresultofourreviews,werecordedpre-taxgoodwillimpairmentchargesof$10.0billionand
+indefinite-lived intangible asset impairment charges of $638 million, of which approximately $10 billion related to PCC.
+Prior to the reevaluation, the carrying value of PCC-related goodwill was approximately $17 billion. Additionally, the
+carrying value of PCC-related indefinite-lived intangible assets was approximately $14 billion. Substantially all of these
+amounts were recorded in connection with Berkshire’s acquisition of PCC in 2016. The initial effects of the COVID-19
+pandemic on commercial airlines and aircraft manufacturers were particularly severe. At that time, we considered several
+factors in our reevaluation, including but not limited to the announcements by airlines concerning potential future demand,
+employment levels and aircraft orders, announcements by manufacturers of reduced aircraft production, and the actions we
+weretakingormaybetakinginthefuturetorestructureoperations.Consequently,wedeemeditprudentundertheprevailing
+circumstancestoincreasediscountratesandreducepriorlong-termforecastsoffuturecashflowsforpurposesofreviewing
+forimpairments.
+MarketRiskDisclosures
+Our Consolidated Balance Sheets include substantial amounts of assets and liabilities whose fair values are subject to
+market risks. Our significant market risks are primarily associated with equity prices, interest rates, foreign currency
+exchange rates and commodity prices. The fair values of our investment portfolios remain subject to considerable volatility.
+Thefollowingsectionsaddressthesignificantmarketrisksassociatedwithourbusinessactivities.
+EquityPriceRisk
+Equity securities represent a significant portion of our consolidated investment portfolio. Strategically, we strive to
+investinbusinessesthatpossessexcellenteconomicsandableandhonestmanagement,andweprefertoinvestameaningful
+amountineachcompany.Historically,equityinvestmentshavebeenconcentratedinrelativelyfewissuers.AtDecember31,
+2021,approximately73%ofthetotalfairvalueofequitysecuritieswasconcentratedinfourcompanies.
+We often hold our equity securities for long periods and short-term price volatility has occurred in the past and will
+occur in the future. We also strive to maintain significant levels of shareholder capital and ample liquidity to provide a
+marginofsafetyagainstshort-termpricevolatility.
+K-63
+Management’sDiscussionandAnalysis(Continued)
+EquityPriceRisk(Continued)
+Wearealsosubjecttoequitypriceriskwithrespecttoourequityindexputoptioncontracts,althoughourequityprice
+exposurehasdeclinedsignificantlyasavastmajorityofthecontractswrittentodatehaveexpired.Ourultimateliabilitywith
+respecttothesecontractsisdeterminedfromthemovementoftheunderlyingstockindexbetweenthecontractinceptiondate
+andexpirationdate.Thefairvaluesofourliabilitiesarisingfromthesecontractsarealsoaffectedbychangesinotherfactors.
+The following table summarizes our equity securities and equity index put option contract liabilities as of
+December31, 2021 and 2020 and the estimated effects of a hypothetical 30% increase and a 30% decrease in market prices
+as of those dates. The selected 30% hypothetical increase and decrease does not reflect the best or worst case scenario.
+Indeed, results from declines could be far worse due both to the nature of equity markets and the aforementioned
+concentrationsexistinginourequityinvestmentportfolio.Dollaramountsareinmillions.
+Estimated
+FairValueafter Estimated
+Hypothetical Hypothetical Increase(Decrease)
+FairValue PriceChange ChangeinPrices inNetEarnings(1)
+December31,2021
+Investmentsinequitysecurities $ 350,719 30%increase$ 452,936 $ 81,136
+30%decrease 248,606 (81,053)
+Equityindexputoptioncontractliabilities 99 30%increase 5 74
+30%decrease 1,088 (781)
+December31,2020
+Investmentsinequitysecurities $ 281,170 30%increase$ 362,830 $ 63,321
+30%decrease 199,547 (63,293)
+Equityindexputoptioncontractliabilities 1,065 30%increase 257 638
+30%decrease 2,702 (1,293)
+(1) Theestimatedincrease(decrease)isafterincometaxesatthestatutoryrateineffectasofthebalancesheetdate.
+InterestRateRisk
+We may also invest in bonds, loans or other interest rate sensitive instruments. Our strategy is to acquire or originate
+such instruments at prices considered appropriate relative to the perceived credit risk. We also issue debt in the ordinary
+courseofbusinesstofundbusinessoperations,businessacquisitionsandforothergeneralpurposes.Weattempttomaintain
+highcreditratings,inordertominimizethecostofourdebt.Weinfrequentlyutilizederivativeproducts,suchasinterestrate
+swaps,tomanageinterestraterisksandwedonotattempttomatchmaturitiesofassetsandliabilities.
+The fair values of our fixed maturity investments, loans and finance receivables, and notes payable and other
+borrowings will fluctuate in response to changes in market interest rates. Interest rate risks associated with the valuations of
+our equity index put option contract liabilities are no longer considered significant due to the short duration of remaining
+exposuresasofDecember31,2021.Increasesanddecreasesininterestratesgenerallytranslateintodecreasesandincreases
+in fair values of these instruments. Additionally, fair values of interest rate sensitive instruments may be affected by the
+creditworthiness of the issuer, prepayment options, relative values of alternative investments, the liquidity of the instrument
+andothergeneralmarketconditions.
+K-64
+Management’sDiscussionandAnalysis(Continued)
+InterestRateRisk(Continued)
+Thefollowingtablesummarizestheestimatedeffectsofhypotheticalchangesininterestratesonoursignificantassets
+and liabilities that are subject to significant interest rate risk at December31, 2021 and 2020. We assumed that the interest
+rate changes occur immediately and uniformly to each category of instrument and that there were no significant changes to
+other factors used to determine the value of the instrument. The hypothetical changes in interest rates do not reflect the best
+orworstcasescenarios.Actualresultsmaydifferfromthosereflectedinthetable.Dollarsareinmillions.
+EstimatedFairValueafterHypotheticalChangein
+InterestRates
+(bp=basispoints)
+Fair 100bp 100bp 200bp 300bp
+Value decrease increase increase increase
+December31,2021
+Assets:
+Investmentsinfixedmaturitysecurities $ 16,434 $ 16,624 $ 16,231 $ 16,036 $ 15,847
+Investmentsinequitysecurities* 10,864 11,457 10,313 9,798 9,319
+Loansandfinancereceivables 22,174 22,982 21,417 20,714 20,054
+Liabilities:
+Notespayableandotherborrowings:
+Insuranceandother 42,339 46,559 38,724 35,683 33,104
+Railroad,utilitiesandenergy 87,065 97,474 78,472 71,289 65,246
+Equityindexputoptioncontracts 99 105 94 89 84
+December31,2020
+Assets:
+Investmentsinfixedmaturitysecurities $ 20,410 $ 20,622 $ 20,139 $ 19,879 $ 19,628
+Investmentsinequitysecurities* 8,891 9,408 8,413 7,970 7,559
+Loansandfinancereceivables 20,554 21,472 19,916 19,219 18,570
+Liabilities:
+Notespayableandotherborrowings:
+Insuranceandother 46,676 50,754 42,785 39,514 36,739
+Railroad,utilitiesandenergy 92,593 102,926 83,070 75,484 69,093
+Equityindexputoptioncontracts 1,065 1,125 1,008 953 900
+* IncludesCumulativePerpetualPreferredStocks
+ForeignCurrencyRisk
+Certain of our subsidiaries operate in foreign jurisdictions and we transact business in foreign currencies. In addition,
+weholdinvestmentsincommonstocksofmajormultinationalcompanies,whohavesignificantforeignbusinessandforeign
+currencyriskoftheirown.Wegenerallydonotattempttomatchassetsandliabilitiesbycurrencyanddonotusederivative
+contractstomanageforeigncurrencyrisksinameaningfulway.
+K-65

@@ -1,0 +1,600 @@
+(i) consists of any gross profit mark-up in connection with the sale and distribution thereof to any division of
+any Borrower or Subsidiary thereof;
+(j) is manufactured, assembled or otherwise produced in violation of the Fair Labor Standards Act and subject
+to the “hot goods” provisions contained in Title 25 U.S.C. 215(a)(i);
+(k) is not covered by casualty insurance required by the terms of this Agreement;
+(l) consists of goods which have been returned or rejected by the buyer and are not in salable condition;
+(m) breaches in any material respect any of the representations or warranties pertaining to such Inventory set
+forth in any Credit Document;
+(n) does not conform in all material respects to all standards imposed by any governmental agency, division or
+department thereof which has regulatory authority over such goods or the use or sale thereof;
+(o) is Commingled Inventory;
+(p) (i) with respect to any Inventory owned by a U.S. Borrower, is located outside of the United States and, (ii)
+with respect to Inventory owned by a Dutch Borrower, is located outside of the United States, the Netherlands or Belgium;
+provided that the foregoing shall not exclude (x) any Inventory of a Dutch Borrower that is in transit from the United States to
+the Netherlands or Belgium that would otherwise constitute Eligible In-Transit Inventory and (y) any Inventory of a Borrower
+that is in transit to any Company Factory that would otherwise constitute Eligible Vendor In-Transit Inventory; provided further
+that any Inventory of a Dutch Borrower located in Belgium shall only be Eligible Inventory if it is subject to a Perfected Belgian
+Lien, and (iii) with respect to Inventory owned by a UK Borrower, is located outside of England and Wales, the United States,
+the Netherlands or Belgium; provided that the foregoing shall not exclude (x) any Inventory of a UK Borrower that is in transit
+from the United States, the Netherlands or Belgium to England and Wales that would otherwise constitute Eligible In-Transit
+Inventory and (y) any Inventory of a Borrower that is in transit to any Company Factory that would otherwise constitute Eligible
+Vendor In-Transit Inventory; provided further that any Inventory of a UK Borrower located in the United States, the
+Netherlands or Belgium shall only be Eligible Inventory if it is subject to a Perfected U.S. Lien, Perfected Dutch Lien or
+Perfected Belgian Lien, respectively;
+(q) is out for delivery to the purchaser thereof or has been delivered to a common carrier for delivery to the
+purchaser thereof;
+(r) is subject to a license agreement or other arrangement with a third party which, in the Administrative
+Agent’s Permitted Discretion, restricts the ability of the Administrative Agent or the Collateral Agent to exercise its rights under
+the Credit Documents with respect to such Inventory unless such third party has entered into an agreement in form and
+substance reasonably satisfactory to the Administrative Agent permitting the Administrative Agent or the Collateral Agent to
+exercise its rights with respect to such Inventory or the Administrative Agent has otherwise agreed to allow such Inventory to
+be eligible in the Administrative Agent’s Permitted Discretion;
+31
+(s) consists of Hazardous Materials or goods that can be transported or sold only with licenses that are not
+readily available;
+(t) consists of goods for which a certificate of title has been issued;
+(u) is repriced down or the market value of which is lower than the cost thereof (to the extent of the amount of
+such write-down or reduction in market value);
+(v) is Inventory consisting of solar panels or solar shingles;
+(w) is Inventory in respect of which there is a related Eligible Account; or
+(x) consists of Specified Tesla In-Transit Assets that were provided as collateral for Indebtedness incurred
+pursuant to Section 10.04(v);or
+(xy) is otherwise unacceptable to the Administrative Agent in its Permitted Discretion.
+The Administrative Agent shall have the right to establish, modify or eliminate Reserves against Eligible Inventory from time to
+time in its Permitted Discretion; provided that with respect to Reserves established on the Effective Date and facts or events known to the
+Administrative Agent prior to the Effective Date, the Administrative Agent may impose new Reserves only to reflect a change in
+circumstances, events, conditions, contingencies or risks in respect of such facts or events. The criteria for Eligible Inventory may only be
+revised or any new criteria for Eligible Inventory may only be established by the Administrative Agent in its Permitted Discretion based on
+either (i) an event, condition or other circumstance arising after the date hereof, or (ii) an event, condition or other circumstance existing
+on the date hereof to the extent the Administrative Agent has no notice thereof from a Borrower prior to the date hereof, in either cause
+under clause (i) or (ii) which adversely affects or could reasonably be expected to adversely affect the Inventory as determined by the
+Administrative Agent in its Permitted Discretion.
+“Eligible Machinery and Equipment” shall mean all of the Equipment owned by any of the U.S. Borrowers (and for which the
+applicable Borrower has good title to such Equipment) that is reflected in the most recent Borrowing Base Certificate delivered to the
+Administrative Agent pursuant to Section 9.01(h), except any Equipment as to which any of the exclusionary criteria set forth below
+applies. Eligible Machinery and Equipment shall not include any Equipment of the U.S. Borrowers that:
+(a) is excess, obsolete, unsalable, shopworn, seconds, damaged or unfit for sale;
+(b) is not subject to a First Priority Lien in favor of the Collateral Agent on behalf of the Secured Creditors;
+(c) is not owned by a U.S. Borrower free and clear of all Liens and rights of any other Person, except the First
+Priority Lien in favor of the Collateral Agent, on behalf of the Secured Creditors, the junior Permitted Liens under Section
+10.01(s) and First Priority Priming Liens (subject to Reserves established by the Administrative Agent in accordance with the
+provisions of this Agreement and in respect of such Permitted Liens);
+(d) (i) is not located on premises owned, leased or rented by a U.S. Borrower, and in the case of leased or
+rented premises unless either (x) a reasonably satisfactory Landlord Personal Property Collateral Access Agreement has been
+delivered to the Administrative Agent or (y) Rent
+32
+Reserves reasonably satisfactory to the Administrative Agent in its Permitted Discretion have been established with respect
+thereto or (ii) is stored with a bailee or warehouseman, unless either (x) a reasonably satisfactory and acknowledged bailee or
+warehouseman letter has been received by the Administrative Agent or (y) Reserves reasonably satisfactory to the
+Administrative Agent in its Permitted Discretion have been established with respect thereto, or (iii) is located at an owned
+location subject to a mortgage or other security interest in favor of a creditor other than the Collateral Agent or the junior
+Permitted Liens under Section 10.01(s) unless either (x) a Landlord Personal Property Collateral Access Agreement has been
+delivered to the Administrative Agent or (y) Reserves reasonably satisfactory to the Administrative Agent have been established
+with respect thereto;
+(e) is in transit;
+(f) is not covered by casualty insurance required by the terms of this Agreement;
+(g) breaches in any material respect any of the representations or warranties pertaining to such Equipment set
+forth in any Credit Document;
+(h) is subject to a license agreement or other arrangement with a third party which, in the Administrative
+Agent’s Permitted Discretion, restricts the ability of the Administrative Agent or the Collateral Agent to exercise its rights under
+the Credit Documents with respect to such Equipment unless such third party has entered into an agreement in form and
+substance reasonably satisfactory to the Administrative Agent permitting the Administrative Agent or the Collateral Agent to
+exercise its rights with respect to such Equipment or the Administrative Agent has otherwise agreed to allow such Equipment
+to be eligible in the Administrative Agent’s Permitted Discretion;
+(i) is located outside of the United States; or
+(j) is otherwise unacceptable to the Administrative Agent in its Permitted Discretion.
+The Administrative Agent shall have the right to establish, modify or eliminate Reserves against Eligible Machinery and
+Equipment from time to time in its Permitted Discretion; provided that with respect to facts or events known to the Administrative Agent
+prior to the Effective Date, the Administrative Agent may impose new Reserves only to reflect a change in circumstances, events,
+conditions, contingencies or risks in respect of such facts or events. The criteria for Eligible Machinery and Equipment may only be
+revised or any new criteria for Eligible Machinery and Equipment may only be established by the Administrative Agent in its Permitted
+Discretion based on either (i) an event, condition or other circumstance arising after the date hereof, or (ii) an event, condition or other
+circumstance existing on the date hereof to the extent the Administrative Agent has no notice thereof from a Borrower prior to the date
+hereof, in either cause under clause (i) or (ii) which adversely affects or could reasonably be expected to adversely affect the Equipment as
+determined by the Administrative Agent in its Permitted Discretion.
+“Eligible Raw Materials Inventory” shall mean all Eligible Inventory consisting of raw materials (as determined in a manner
+acceptable to the Administrative Agent in its Permitted Discretion and consistent with past practices).
+“Eligible Real Property” shall mean the Fremont Real Property; provided such Real Property meets each of the following
+criteria:
+33
+(a) such Real Property is acceptable in the reasonable discretion of the Administrative Agent for inclusion in the
+U.S. Borrowing Base (and the Administrative Agent acknowledges that the Fremont Real Property is acceptable);
+(b) such Real Property is wholly owned in fee simple by a U.S. Borrower free and clear of all Liens and rights of
+any other Person, except the First Priority Lien in favor of the Collateral Agent, on behalf of the Secured Creditors, the junior
+Permitted Liens under Section 10.01(s) and First Priority Priming Liens (subject to Reserves established by the Administrative
+Agent in accordance with the provisions of this Agreement and in respect of such Permitted Liens);
+(c) such Real Property is covered by all insurance required by Section 9.03 hereof; and
+(d) the Administrative Agent has received the following (collectively, the “Eligible Real Property Deliverables”):
+(i) a Mortgage encumbering such Real Property creating a First Priority Lien in favor of the
+Collateral Agent, for the benefit of the Secured Creditors, duly executed and acknowledged by each Credit Party that
+is the owner or holder of any interest in such Mortgaged Property, and otherwise in form for recording in the
+recording office of each applicable political subdivision where each such Mortgaged Property is situated, together
+with such certificates, affidavits, questionnaires or returns as shall be required in connection with the recording or
+filing thereof to create a Lien under applicable Requirements of Law, and such financing statements and any other
+instruments necessary to grant a mortgage Lien under the laws of any applicable jurisdiction, all of which shall be in
+form and substance reasonably satisfactory to Collateral Agent;
+(ii) a lender’s policy of title insurance (or marked up unconditional title insurance commitment
+having the effect of a policy of title insurance) issued by a nationally recognized and financially stable title insurance
+company reasonably acceptable to the Administrative Agent (the “Title Company”) insuring the Lien of such
+Mortgage as a valid First Priority Lien on the Mortgaged Property and fixtures described therein in an amount not
+less than the Appraised Fair Market Value of such Mortgaged Property and fixtures, which policy (or such marked up
+unconditional title insurance commitment) shall (x) to the extent necessary or commercially reasonable, include such
+co-insurance or reinsurance arrangements (with provisions for direct access, if necessary) as shall be reasonably
+acceptable to the Collateral Agent, (y) have been supplemented by such endorsements as shall be reasonably
+requested by the Collateral Agent (including, to the extent available in the local jurisdiction on commercially
+reasonable to terms and applicable to such Eligible Real Property, endorsements on matters relating to usury, first
+loss, revolving credit, zoning, contiguity, future advance, doing business, public road access (direct or indirect),
+same-as-survey, policy authentication, variable rate, environmental lien, subdivision, policy aggregation, mortgage
+recording tax, street address, separate tax lot, and so-called comprehensive coverage over covenants and
+restrictions), and (z) contain no exceptions to title other than Permitted Liens and Permitted Encumbrances (a “Title
+Policy”);
+(iii) a survey of the applicable Mortgaged Property for which all necessary fees (where applicable)
+have been paid (a) prepared by a licensed, insured and qualified
+34
+surveyor reasonably acceptable to the Collateral Agent, (b) dated or re-certificated not earlier than 60 days prior to
+the date of such delivery or such other date as may be reasonably satisfactory to the Collateral Agent in its
+reasonable discretion, (c) for Mortgaged Property situated in the United States, certified to the Administrative Agent,
+the Collateral Agent the Company, the applicable Credit Party (if any), and the Title Company issuing the Title Policy
+for such Mortgaged Property, which certification shall be the standard certification required by the Minimum
+Standard Detail Requirements for ALTA/NSPS Land Title Surveys, and may include additional parties reasonably
+acceptable to the Collateral Agent, (d) complying with current “Minimum Standard Detail Requirements for
+ALTA/NSPS Land Title Surveys,” jointly established and adopted by American Land Title Association, and the
+National Society of Professional Surveyors (except for such deviations as are acceptable to the Collateral Agent), and
+(e) depicting and describing all buildings and other improvements, any offsite improvements owned or utilized by the
+Company or applicable Credit Party which are material to use or operation of any facilities located on the Mortgaged
+Property, the location of any easements, parking spaces, rights of way, building setback lines and other dimensional
+regulations and the absence of encroachments, either by such improvements or on to the Mortgaged Property, and
+other defects, other than encroachments and other defects reasonably acceptable to the Administrative Agent (a
+“Real Property Survey”);
+(iv) an appraisal report in respect of such Real Property performed by a licensed, insured and
+qualified third-party real property appraiser certified to, and in form, scope and substance reasonably satisfactory to,
+the Administrative Agent and in compliance with FIRREA (a “Real Property Appraisal”);
+(v) (a) a “Life-of-Loan” Federal Emergency Management Agency Standard Flood Hazard
+Determination for the Mortgaged Property; and (b) in the event any such Mortgaged Property is located in an area
+identified by the Federal Emergency Management Agency (or any successor agency) as a Special Flood Hazard Area,
+(x) a notice about special flood hazard area status and flood disaster assistance, duly executed by the applicable U.S.
+Borrower, (y) evidence of flood insurance with a financially sound and reputable insurer, naming the Administrative
+Agent, as mortgagee, in an amount and with terms required by the Flood Insurance Laws and otherwise in form and
+substance reasonably satisfactory to the Administrative Agent, and (z) evidence of the payment of premiums in
+respect thereof in form and substance reasonably satisfactory to the Administrative Agent;
+(vi) an environmental assessment report and any other required information regarding
+environmental matters in respect of such Mortgaged Property and such report and information shall be prepared by
+an environmental consultant acceptable to the Administrative Agent and shall be satisfactory in form, scope and
+substance to the Administrative Agent in its reasonable discretion;
+(vii) if reasonably requested by the Administrative Agent, a seismic report in respect of such
+Mortgaged Property performed by a licensed, insured and qualified third-party consultant in form, scope and
+substance reasonably satisfactory to the Administrative Agent;
+(viii) customary favorable written opinions, addressed to the Collateral Agent and the Secured
+Creditors, of local counsel to the Credit Parties in each jurisdiction (i) where a Mortgaged Property is located and (ii)
+where the applicable Credit Party granting
+35
+the Mortgage on said Mortgaged Property is organized, regarding the due authorization, execution, delivery,
+perfection and enforceability of each such Mortgage, the corporate formation, existence and good standing of the
+applicable Credit Party under the laws of its jurisdiction of formation, and such other matters as may be reasonably
+requested by the Administrative Agent, each in form and substance reasonably satisfactory to the Administrative
+Agent; and
+(ix) such other documents as the Administrative Agent may reasonably request, in each case in form
+and substance reasonably satisfactory to the Administrative Agent.
+The Administrative Agent shall have the right to establish, modify or eliminate Reserves against Eligible Real Property from
+time to time in its Permitted Discretion; provided that with respect to facts or events known to the Administrative Agent prior to the Ninth
+Amendment Effective Date, the Administrative Agent may impose new Reserves only to reflect a change in circumstances, events,
+conditions, contingencies or risks in respect of such facts or events. The criteria for Eligible Real Property may only be revised or any new
+criteria for Eligible Real Property may only be established by the Administrative Agent in its Permitted Discretion based on either (i) an
+event, condition or other circumstance arising after the Ninth Amendment Effective Date, or (ii) an event, condition or other circumstance
+existing on the Ninth Amendment Effective Date to the extent the Administrative Agent has no notice thereof from a Borrower prior to the
+date hereof, in either cause under clause (i) or (ii) which adversely affects or could reasonably be expected to adversely affect the Fair
+Market Value of the Real Property as determined by the Administrative Agent in its Permitted Discretion.
+“Eligible Real Property Deliverables” shall have the meaning provided in the definition of “Eligible Real Property”.
+“Eligible Service Parts Inventory” shall mean all Eligible Inventory consisting of service parts (as determined in a manner
+acceptable to the Administrative Agent in its Permitted Discretion and consistent with past practices).
+“Eligible Transferee” shall mean and include a commercial bank, an insurance company, a finance company, a financial
+institution, any fund that invests in loans or any other “accredited investor” (as defined in Regulation D of the Securities Act), but in any
+event excluding the Company and its Subsidiaries and Affiliates, any natural person and any person that at the time of determination is a
+Defaulting Lender.
+“Eligible UK Finished Goods Inventory” shall mean the Eligible Finished Goods Inventory owned by any UK Borrower.
+“Eligible UK In-Transit Inventory” shall mean the Eligible In-Transit Inventory owned by any UK Borrower.
+“Eligible UK Inventory” shall mean Eligible UK Finished Goods Inventory, Eligible UK In-Transit Inventory, Eligible UK Raw
+Materials Inventory and Eligible UK WIP Inventory.
+“Eligible UK Raw Materials Inventory” shall mean the Eligible Raw Materials Inventory owned by any UK Borrower.
+“Eligible UK Service Parts Inventory” shall mean the Eligible Service Parts Inventory owned by any UK Borrower.
+36
+“Eligible UK Vendor In-Transit Inventory” shall mean the Eligible Vendor In-Transit Inventory owned by any UK Borrower.
+“Eligible UK WIP Inventory” shall mean the Eligible WIP Inventory owned by any UK Borrower.
+“Eligible U.S. Accounts” shall mean the Eligible Accounts owned by any U.S. Borrower.
+“Eligible U.S. Cash and Cash Equivalents” shall mean the Eligible Cash and Cash Equivalents owned by any U.S. Borrower that
+is reflected in the most recent Borrowing Base Certificate delivered to the Administrative Agent pursuant to Section 9.01(h).
+“Eligible U.S. Finished Goods Inventory” shall mean the Eligible Finished Goods Inventory owned by any U.S. Borrower.
+“Eligible U.S. In-Transit Inventory” shall mean the Eligible In-Transit Inventory owned by any U.S. Borrower.
+“Eligible U.S. Inventory” shall mean all Eligible U.S. Finished Goods Inventory, Eligible U.S. In-Transit Inventory, Eligible U.S.
+Raw Materials Inventory and Eligible U.S. WIP Inventory.
+“Eligible U.S. Raw Materials Inventory” shall mean the Eligible Raw Materials Inventory owned by any U.S. Borrower.
+“Eligible U.S. Service Parts Inventory” shall mean the Eligible Service Parts Inventory owned by any U.S. Borrower.
+“Eligible U.S. Vendor In-Transit Inventory” shall mean the Eligible Vendor In-Transit Inventory owned by any U.S. Borrower.
+“Eligible U.S. WIP Inventory” shall mean the Eligible WIP Inventory owned by any U.S. Borrower.
+“Eligible Vendor In-Transit Inventory” shall mean all Eligible Raw Materials Inventory:
+(a) for which the purchase order is in the name of the applicable Borrower and title has passed to such
+Borrower,
+(b) which have been shipped by FOB shipment (seller’s location),
+(c) for which the applicable Borrower does not have actual possession,
+(d) which is fully insured in such amounts, with insurance companies and subject to such deductibles as are
+satisfactory to the Administrative Agent in its Permitted Discretion,
+(e) which is in-transit to any Company Factory and
+(f) which otherwise would constitute Eligible Inventory.
+“Eligible WIP Inventory” shall mean all Eligible Inventory consisting of work-in-process (as determined in a manner acceptable
+to the Administrative Agent in its Permitted Discretion and consistent
+37
+with past practices); provided that Eligible WIP Inventory shall not include Eligible Inventory consisting of work-in-process related to the
+manufacturing of solar panels or solar shingles.
+“Energy Environmental Attribute” shall mean any credit, benefit, reduction, offset or allowance (such as so-called renewable
+energy certificates, green tags, green certificates, and renewable energy credits), howsoever entitled or named, resulting from,
+attributable to or associated with the storage or generation of energy, other than the actual electric energy produced, and that is capable
+of being measured, verified or calculated and in any case may be lawfully marketed to third parties. By way of illustration, Energy
+Environmental Attributes may result from: the generation system’s use of a particular renewable energy source; avoided NOx, SOx, CO2
+or greenhouse gas emissions and other carbon credits and offsets; avoided water use or as otherwise specified under any applicable
+energy-related private or governmental program. Notwithstanding any of the foregoing in this definition or any other provision of the
+Tenth Amendment or the Credit Agreement, Energy Environmental Attributes shall not in any case include: (i) any of the foregoing
+obtained by, provided to, used by or necessary for the Company or any of its Subsidiaries to conduct any of its operations at any location
+(and shall not include any water rights or other rights or credits obtained pursuant to requirements of applicable law in order to site and
+develop any facility); or (ii) any production tax credits.
+“Energy Storage Agreement” shall mean a battery services contract, a battery sale contract, a battery installation contract, a
+battery dispatch contract, a market participation contract involving batteries, a shared revenue and cost avoidance contract, a capacity
+contract, a tolling contract, demand response contract or similar agreement, a software contract pertaining to the dispatch or other
+management of batteries, or any agreement similar to the foregoing.
+“Energy Storage Assets” shall mean Energy Storage Systems, Host Customer Agreements and Projects and Equity Interests in
+Excluded Energy Storage Subsidiaries.
+“Energy Storage Systems” shall mean all parts of an energy storage system, including batteries, solar panels, inverters, wiring
+and other electrical devices, conduit, housings, hardware, remote monitoring equipment, connectors, meters, disconnects and other
+related devices, including associated balance of plant.
+“Energy Storage Working Capital Facility” shall mean a credit facility providing working capital or warehouse financing for the
+acquisition or development of Energy Storage Assets prior to the sale or contribution of such Energy Storage Assets into a Permitted
+Securitization Facility.
+“Environmental Attribute” shall mean an Energy Environmental Attribute or a Vehicle Environmental Attribute.
+“Environmental Claims” shall mean any and all administrative, regulatory or judicial actions, suits, demands, demand letters,
+directives, claims, liens, notices of noncompliance or violation, investigations and/or proceedings relating in any way to any noncompliance
+with, or liability arising under, Environmental Law or to any permit issued, or any approval given, under any Environmental Law
+(hereafter, “Claims”), including (a) any and all Claims by governmental or regulatory authorities for enforcement, cleanup, removal,
+response, remedial or other actions or damages pursuant to any Environmental Law, and (b) any and all Claims by any third party seeking
+damages, contribution, indemnification, cost recovery, compensation or injunctive relief arising out of or relating to an alleged injury or
+threat of injury to human health, safety or the environment due to the presence of Hazardous Materials.
+38
+“Environmental Law” shall mean any Federal, state, provincial, foreign or local statute, law (including principles of common
+law), rule, regulation, ordinance, code, directive, judgment, order or agreement, now or hereafter in effect and in each case as amended,
+and any judicial or administrative interpretation thereof, in each case having the force and effect of law and relating to the protection of
+the environment, or of human health (as it relates to the exposure to environmental hazards) or to the presence, Release or threatened
+Release, or the manufacture, use, transportation, treatment, storage, disposal or recycling of Hazardous Materials, or the arrangement for
+any such activities.
+“Environmental Liability” shall mean any liability, contingent or otherwise (including any liability for damages, costs of
+environmental remediation, fines, penalties or indemnities), of the Company or any of its Subsidiaries directly or indirectly resulting from
+or based upon (a) any violation of any Environmental Law, (b) the generation, use, handling, transportation, storage, treatment or disposal
+of any Hazardous Materials, (c) any exposure to any Hazardous Materials, (d) the Release or threatened Release of any Hazardous
+Materials into the environment or (e) any contract, agreement or other consensual arrangement pursuant to which liability is assumed or
+imposed with respect to any of the foregoing.
+“Equipment” shall mean any “equipment” as such term is defined in the Uniform Commercial Code as in effect on the date
+hereof in the State of New York owned by any U.S. Borrower, and in any event, shall include, but shall not be limited to, all machinery,
+equipment, furnishings and fittings now or hereinafter owned by any U.S. Borrower and all additions, all accessions thereto, wherever
+located, together with all attachments, components, parts, equipment and accessories installed thereon or affixed thereto.
+“Equity Interests” of any Person shall mean any and all shares, rights to purchase, warrants, options, participation or other
+equivalents of or interest in (however designated) equity of such Person, including any common stock, preferred stock, any limited or
+general partnership interest and any limited liability company membership interest, but excluding, for the avoidance of doubt, any
+Permitted Convertible Notes or any SolarCity Convertible Notes.
+“ERISA” shall mean the United States Employee Retirement Income Security Act of 1974, as amended from time to time, and
+the regulations promulgated and rulings issued thereunder. Section references to ERISA are to ERISA, as in effect at the date of this
+Agreement and any subsequent provisions of ERISA, amendatory thereof, supplemental thereto or substituted therefor.
+“ERISA Affiliate” shall mean any trade or business (whether or not incorporated) or Person that for purposes of Section 302 of
+ERISA or Section 412 of the Code would be deemed at any relevant time to be a single employer or otherwise aggregated with the
+Company or any of its Subsidiaries under Section 414 of the Code or Section 4001 of ERISA.
+“ERISA Event” shall mean any one or more of the following:
+(a) any Reportable Event;
+(b) the filing of a notice of intent to terminate any Plan, if such termination would require material additional
+contributions in order to be considered a standard termination within the meaning of Section 4041(b) of ERISA, the filing under
+Section 4041(c) of ERISA of a notice of intent to terminate any Plan or the termination of any Plan under Section 4041(c) of
+ERISA;
+(c) institution of proceedings by the PBGC under Section 4042 of ERISA for the termination of, or the
+appointment of a trustee to administer, any Plan;
+39
+(d) the failure to make a required contribution to any Plan that would result in the imposition of a lien or other
+encumbrance or the provision of security under Section 430 of the Code or Section 303 or 4068 of ERISA, or the arising of such
+a lien or encumbrance; the failure to satisfy the minimum funding standard under Section 412 of the Code or Section 302 of
+ERISA, whether or not waived; or the filing of any request for or receipt of a minimum funding waiver under Section 412 of the
+Code with respect to any Plan; or a determination that any Plan is considered an at-risk plan within the meaning of Section 430
+of the Code or Section 303 of ERISA; the Company, any of its Subsidiaries or any ERISA Affiliate incurring any liability under
+Section 436 of the Code, or a violation of Section 436 of the Code with respect to a Plan; or the failure to make any required
+contribution to a Multiemployer Plan pursuant to Sections 431 or 432 of the Code;
+(e) engaging in a non-exempt prohibited transaction within the meaning of Section 4975 of the Code or Section
+406 of ERISA with respect to or relating to a Plan or assets of a Plan;
+(f) the complete or partial withdrawal of the Company or any of its Subsidiaries or any ERISA Affiliate from a
+Multiemployer Plan, the insolvency under Title IV of ERISA of any Multiemployer Plan; or the receipt by the Company or any of
+its Subsidiaries or any ERISA Affiliate, of any notice, or the receipt by any Multiemployer Plan from any of the Company, any of
+its Subsidiaries or any ERISA Affiliate of any notice, that a Multiemployer Plan is in endangered or critical status under Section
+432 of the Code or Section 305 of ERISA; or
+(g) the Company, any of its Subsidiaries or any ERISA Affiliate incurring any liability under Title IV of ERISA
+with respect to any Plan (other than premiums due and not delinquent under Section 4007 of ERISA).
+“EU Bail-In Legislation Schedule” shall mean the EU Bail-In Legislation Schedule published by the Loan Market Association (or
+any successor person), as in effect from time to time.
+“Euro Denominated Loans” shall mean each Loan denominated in Euros at the time of the incurrence thereof.
+“EURO Screen Rate” shall have the meaning provided in the definition of “LIBO Rate”.
+“Euros” and the designation “€” shall mean the currency introduced on January 1, 1999 at the start of the third stage of
+European economic and monetary union pursuant to the Treaty on the European Union (expressed in euros).
+“Event of Default” shall have the meaning provided in Section 11.
+“Excess Availability” shall mean, as of any date of determination (but otherwise subject to Section 3.02(b)), the amount by
+which (a) Availability at such time exceeds (b) the Aggregate Exposure at such time.
+“Excluded Accounts” shall mean all Deposit Accounts, securities accounts and commodities accounts established (or otherwise
+maintained) by the Company or any of its Subsidiaries other than Core Deposit Accounts, DB Accounts and Controlled Securities Accounts.
+“Excluded Charging Subsidiaries” shall mean those direct or indirect subsidiaries of the Company (a) in which the Company
+owns, directly or indirectly, Equity Interests of less than fifty-one percent (51%), (b) that own, lease or finance (or own any Subsidiary that
+is formed for such purpose) no assets
+40
+CONTENTS
+1. Definitions and Interpretation 1
+2. Covenant to Pay 8
+3. Grant of Security 8
+4. Fixed Security 9
+5. Floating Charge 9
+6. Grant of license 10
+7. Conversion of Floating Charge 11
+8. Excluded Assets 12
+9. Liability of Chargors relating to Security Assets 13
+10. Representations 13
+11. Undertakings by the Chargors and Dealing with Security Assets 14
+12. Power to Remedy 16
+13. When Security becomes enforceable 16
+14. Enforcement of Security 17
+15. Receiver 18
+16. Powers of Receiver 19
+17. Application of Proceeds 21
+18. Set-off 24
+19. Delegation 24
+20. Further Assurances 24
+21. Power of Attorney 25
+22. Currency Conversion 25
+23. Continuing Security 25
+24. Changes to the Parties 26
+25. Indemnity 27
+26. Miscellaneous 28
+27. Calculations and Certificates 29
+28. Partial Invalidity 29
+29. Remedies and Waivers 29
+30. Amendments 29
+31. Counterparts 30
+32. Release 30
+33. Perpetuity Period 30
+34. Governing Law 30
+35. Jurisdiction 30
+Schedule 1 Details of Security Assets 31
+Schedule 2 Form of Notice to and Acknowledgement by Insurers 32
+Schedule 3 Form of Notice and Acknowledgement of assignment 35
+Schedule 4 Form of Notice to and Acknowledgement from Account Bank 38
+Schedule 5 Form of Accession Deed 41
+Administrative Agent and/or the Collateral Agent due to insufficient funds of deposited checks and the standard fee of the Administrative
+Agent and the Collateral Agent relating thereto, collateral examination fees and expenses required to be paid hereunder by the Borrowers,
+reasonable fees and expenses of accountants and appraisers, reasonable fees and expenses of other consultants, experts or advisors
+employed or retained by the Administrative Agent or the Collateral Agent, fees and taxes related to the filing of financing statements,
+costs of preparing and recording any other Credit Documents, all expenses, costs and fees set forth in this Agreement and the other Credit
+Documents, all other fees and expenses required to be paid pursuant to any other letter agreement and all fees and expenses incurred in
+connection with releasing Collateral and the amendment or termination of any of the Credit Documents.
+“Extended Final Maturity Date” shall mean, with respect to any Extended Loan or Extended Revolving Loan Commitment, the
+agreed upon date occurring after the 2023 ExtendedInitial Maturity Date as specified in the applicable definitive documentation thereof.
+“Extended Loan” shall mean each Revolving Loan and each Swingline Loan pursuant to an Extended Revolving Loan
+Commitment.
+“Extended Revolving Loan” shall mean each Revolving Loan pursuant to an Extended Revolving Loan Commitment.
+“Extended Revolving Loan Commitment” shall have the meaning provided in Section 2.19(c)(i).
+“Extension” shall have the meaning provided in Section 2.19(a).
+“Extension Offer” shall have the meaning provided in Section 2.19(a).
+“Facing Fee” shall have the meaning provided in Section 4.01(c).
+“Fair Market Value” shall mean, with respect to any asset (including any Equity Interests of any Person), (i) the price thereof to
+the extent that the same is readily available on an active trading market or (ii) if such price is not so readily available, the price at which a
+willing buyer, not an Affiliate of the seller, and a willing seller who does not have to sell, would agree to purchase and sell such asset, as
+determined in good faith by the board of directors or other governing body or, pursuant to a specific delegation of authority by such board
+of directors or governing body, a designated senior executive officer, of the Company or the Subsidiary of the Company selling such asset.
+“FATCA” shall mean Sections 1471 through 1474 of the Code, as enacted on the Effective Date (or any amended or successor
+provision that is substantively comparable and not materially more onerous to comply with), any current or future regulations or official
+interpretations thereof, any agreements entered into pursuant to Section 1471(b)(1) of the Code, any intergovernmental agreements
+entered into in connection with the implementation of such Sections of the Code, and any fiscal or regulatory legislation or rules adopted
+pursuant to such intergovernmental agreements.
+“Federal Funds Rate” shall mean, for any period, a fluctuating interest rate equal for each day during such period to the
+weighted average of the rates on overnight Federal Funds transactions with members of the Federal Reserve System arranged by Federal
+Funds brokers, as published for such day (or, if such day is not a Business Day, for the immediately preceding Business Day) by the
+Federal Reserve Bank of New York, or, if such rate is not so published for any day which is a Business Day, the average of the quotations
+for such day on such transactions received by the Administrative Agent from three Federal Funds brokers of recognized standing selected
+by the Administrative Agent; provided that if
+42
+the Federal Funds Rate shall be less than zero, such rate shall be deemed to be zero for purposes of this Agreement.
+“Fees” shall mean all amounts payable pursuant to or referred to in Section 4.01.
+“Final Maturity Date” shall mean (a) with respect to any Revolving Loan Commitments (other than the 2023 Extended Revolving
+Loan Commitments and the Extended Revolving Loan Commitments) the Initial Maturity Date, (b) with respect to the 2023 Extended
+Revolving Loan Commitments, the 2023 Extended Maturity Date and (c); provided that, with respect to any Extended Revolving Loan
+Commitment, the Final Maturity Date with respect thereto instead shall be the Extended Final Maturity Date.
+“FIRREA” shall mean the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, as amended.
+“First Amendment” shall mean the First Amendment to Amended and Restated ABL Credit Agreement, dated as of the First
+Amendment Effective Date, among the Company, Tesla B.V., Tesla UK, the lenders party thereto, the Collateral Agent and the
+Administrative Agent.
+“First Amendment Effective Date” shall mean NovDecember 323, 20152020.
+“First Priority” shall mean, with respect to any Lien purported to be created on any Collateral pursuant to any Security
+Document, that such Lien is prior in right to any other Lien thereon, other than (i) in respect of any Collateral (other than cash or Cash
+Equivalents), any Permitted Liens (excluding Permitted Liens under Section 10.01(s)) applicable to such Collateral arising by operation of
+law and which as a matter of law (and giving effect to any actions taken pursuant to the last paragraph of Section 10.01) have priority over
+the respective Liens on such Collateral created pursuant to the relevant Security Document, (ii) any Lien on property that would otherwise
+constitute Eligible Inventory but is subject to a lease that grants to the landlord thereunder a first priority perfected security interest in
+such property, (iii) in respect of any Eligible Machinery and Equipment, Liens permitted by (x) Section 10.01(b)(i) so long as any such Lien
+does not secure amounts overdue by more than 30 days and (y) Section 10.01(b)(ii) so long as adequate reserves in respect of GAAP have
+been reserved in respect thereof and (iv) in respect of any Eligible Real Property, Liens permitted by Sections 10.01(a), (b)(i), (b)(ii) (so
+long as adequate reserves in respect of GAAP have been reserved in respect thereof), (e), (h) and (k) (such Liens described in clauses (i),
+(ii), and (iii) and (iv) above, “First Priority Priming Liens”).
+“First Priority Priming Liens” shall have the meaning provided in the definition of First Priority.
+“First Usage Date” shall mean the first date on which the Aggregate Exposure is greater than zero.
+“Fixed Charge Coverage Ratio” shall mean, for any period, the ratio of (a)(i) Consolidated EBITDA for such period minus (ii) the
+aggregate amount of all Unfinanced Capital Expenditures made by the Company and its Consolidated Subsidiaries during such period
+minus (iii) the aggregate amount of all cash payments made by the Company and its Consolidated Subsidiaries in respect of income taxes
+or income tax liabilities (net of cash income tax refunds) during such period minus (iv) the aggregate amount of all cash Dividends paid by
+the Company or any of its Subsidiaries to any Person other than the Company or any of its Subsidiaries as permitted under Section 10.03
+for such period to (b) Fixed Charges for such period.
+43
+“Fixed Charges” shall mean, for any period, the sum of (a) any amortization or other scheduled or mandatory principal
+payments made during such period on all Indebtedness of the Company and its Consolidated Subsidiaries for such period (including the
+principal component of all obligations in respect of all Capitalized Lease Obligations, but excluding (xw) the payment or Net Share
+Settlement of any Permitted Convertible Notes or any SolarCity Convertible Notes at their respective final maturity date or upon
+conversion thereof and, (yx) customary mandatory repayments associated with customary excess cash flow provisions and with asset sales,
+casualty and condemnation events, the incurrence of Indebtedness for borrowed money and the issuance of Equity Interests (but only to
+the extent made with the net cash proceeds from such asset sales, casualty and condemnation events, incurrences of Indebtedness and
+issuance of Equity Interests) and (y) payments in connection with the refinancing of Indebtedness) (for the avoidance of doubt, this clause
+(a) shall not apply to payments made under any working capital facility), plus (b) Consolidated Interest Expense of the Company and its
+Consolidated Subsidiaries for such period payable in cash, plus (c) the Net RVG Repurchase Amount for such period.
+“Flood Insurance Laws” shall mean, collectively, (i) National Flood Insurance Reform Act of 1994 (which comprehensively
+revised the National Flood Insurance Act of 1968 and the Flood Disaster Protection Act of 1973) as now or hereafter in effect or any
+successor statute thereto, (ii) the Flood Insurance Reform Act of 2004 as now or hereafter in effect or any successor statute thereto and
+(iii) the Biggert-Waters Flood Insurance Reform Act of 2012 as now or hereafter in effect or any successor statute thereto.
+“Foreign Currency” shall mean any currency other than U.S. Dollars which is (a) readily available and freely transferable and
+convertible into U.S. Dollars and (b) available in the London interbank deposit market.
+“Foreign Currency Denominated Loans” shall mean each Loan denominated in an Acceptable Foreign Currency at the time of
+the incurrence thereof.
+“Foreign Lender” shall mean any Lender that is not a U.S. Person.
+“Foreign Pension Plan” shall mean any plan, fund (including any superannuation fund) or other similar program established or
+maintained outside the United States by the Company or any one or more of its Subsidiaries primarily for the benefit of employees of the
+Company or such Subsidiaries residing outside the United States, which plan, fund or other similar program provides, or results in,
+retirement income, a deferral of income in contemplation of retirement or payments to be made upon termination of employment, and
+which plan is not subject to ERISA or the Code.
+“Foreign Subsidiary” of any Person shall mean any Subsidiary of such Person that is not a Domestic Subsidiary of such Person.
+“Foreign Taxes” shall mean any tax imposed by EC Directive 2006/112/EC on the Common System of value added tax, and any
+national legislation implementing that directive (including the United Kingdom’s Value Added Tax Act 1994), together with any legislation
+supplemental thereto, and any other tax of a similar nature and all penalties, costs and interest related thereto (including any Canadian
+harmonized sales tax, goods and service tax or any other sales tax imposed by Canada or any province or territory thereof).
+“Fremont Factory” shall mean the Company’s factory located at 45500 Fremont Blvd., Fremont, California and ancillary
+supporting locations located in the United States and designated by the Company as a “Fremont ancillary location” in writing to the
+Administrative Agent.
+44
+“Fremont Real Property” shall mean the real property owned by the Company located at 45500 Fremont Boulevard, Fremont,
+California, and any other Real Property ancillary or related to the foregoing and owned by the Company or any Credit Party in Fremont,
+California.
+“GAAP” shall mean generally accepted accounting principles in the United States as in effect from time to time; provided that
+determinations in accordance with GAAP for purposes of Section 10 and the calculation of the Fixed Charge Coverage Ratio and the Total
+Leverage Ratio, in each case including defined terms as used therein, are subject to Section 13.0713.08(a).
+“Governmental Authority” shall mean the government of the United States, the Netherlands, Belgium, the United Kingdom, any
+other nation or any political subdivision thereof, whether state, provincial or local, and any agency, authority, instrumentality, regulatory
+body, court, central bank or other entity exercising executive, legislative, judicial, taxing, regulatory or administrative powers or functions
+of or pertaining to government (including any supra-national bodies such as the European Union or the European Central Bank).
+“Guarantor” shall mean and include each U.S. Guarantor and, each Dutch Guarantor and each UK Guarantor.
+“Guaranty” shall mean the U.S. Guaranty and, the Dutch Guaranty and the UK Guaranty.
+“Hazardous Materials” shall mean any chemicals, materials, wastes, pollutants, contaminants, or substances in any form that is
+prohibited, limited or regulated pursuant to any Environmental Law by virtue of their toxic or otherwise deleterious characteristics,
+including any petroleum or petroleum products, radioactive materials, asbestos in any form that is or could become friable, urea
+formaldehyde foam insulation, dielectric fluid containing levels of polychlorinated biphenyls, and radon gas.
+“Host Customer Agreements” shall mean the Energy Storage Agreements and Customer Lease Agreements.
+“Immaterial Subsidiary” shall mean, as of any date of determination, any Wholly-Owned Domestic Subsidiary of the Company
+or, any Wholly-Owned Dutch Subsidiary of Tesla B.V. (in eitheror any Wholly Owned UK Subsidiary of Tesla UK (in each case, other than a
+Borrower) (x) that has not guaranteed any other Indebtedness of any Borrower other than a guarantee by any Subsidiary that was created
+to satisfy state dealer requirements, (y) whose consolidated total assets (as set forth in the most recent consolidated balance sheet of the
+Company and its Consolidated Subsidiaries delivered to the Lenders pursuant to this Agreement and computed in accordance with GAAP,
+but excluding intercompany assets), do not constitute more than 5.0% of the Consolidated Total Assets and (z) whose consolidated total
+revenues (as set forth in the most recent income statement of the Company and its Consolidated Subsidiaries delivered to the Lenders
+pursuant to this Agreement and computed in accordance with GAAP) do not constitute more than 5.0% of the consolidated total revenues
+of the Company and its Consolidated Subsidiaries (as set forth in the most recent income statement of the Company and its Consolidated
+Subsidiaries delivered to the Lenders pursuant to this Agreement and computed in accordance with GAAP).
+“Impacted Lender” shall have the meaning provided in Section 2.10(ef).
+“Impacted UK Lender” shall have the meaning provided in Section 2.10(g).
+“Incremental Commitment” shall mean, for any Lender, any Revolving Loan Commitment provided by such Lender after the
+Effective Date in an Incremental Commitment Agreement delivered
+45
+pursuant to Section 2.14; it being understood, however, that on each date upon which an Incremental Commitment of any Lender becomes
+effective, such Incremental Commitment of such Lender shall be added to (and thereafter become a part of) the Revolving Loan
+Commitment of such Lender for all purposes of this Agreement as contemplated by Section 2.14.
+“Incremental Commitment Agreement” shall mean each Incremental Commitment Agreement in substantially the form of
+Exhibit F (appropriately completed, and with such modifications as may be reasonably satisfactory to the Administrative Agent) executed
+and delivered in accordance with Section 2.14.
+“Incremental Commitment Date” shall mean each date upon which an Incremental Commitment under an Incremental
+Commitment Agreement becomes effective as provided in Section 2.14(b).
+“Incremental Commitment Requirements” shall mean, with respect to any provision of an Incremental Commitment on a given
+Incremental Commitment Date, the satisfaction of each of the following conditions on the Incremental Commitment Date of the respective
+Incremental Commitment Agreement: (i) no Default or Event of Default exists or would exist after giving effect thereto; (ii) all of the
+representations and warranties contained in the Credit Documents shall be true and correct in all material respects at such time (unless
+stated to relate to a specific earlier date, in which case such representations and warranties shall have been true and correct in all
+material respects as of such earlier date) (it being understood that any representation or warranty that is qualified as to “materiality”,
+“Material Adverse Effect” or any similar language shall be true and correct in all respects as of such date); (iii) the delivery by the
+Company to the Administrative Agent of an acknowledgment, in form and substance reasonably satisfactory to the Administrative Agent
+and executed by each Credit Party, acknowledging that such Incremental Commitment and all Revolving Loans subsequently incurred, and
+Letters of Credit issued, as applicable, pursuant to such Incremental Commitment shall constitute Obligations and Guaranteed Obligations
+(as defined under each Guaranty) under the Credit Documents and secured on a pari passu basis with the applicable Obligations under the
+Security Documents; (iv) the delivery by each Credit Party to the Administrative Agent of such other officers’ certificates, board of director
+(or equivalent governing body) resolutions, evidence of good standing (to the extent available under applicable law) and opinions of
+counsel (which shall be substantially similar to such opinions of counsel delivered on the Effective Date) as the Administrative Agent shall
+reasonably request; (v) the Company shall have delivered a certificate executed by an Authorized Officer of the Company, certifying to
+such officer’s knowledge, compliance with the requirements of preceding clauses (i) and (ii); and (vi) the completion by each Credit Party
+of (x) such other conditions precedent that may be included in the respective Increased Commitment Agreement and (y) such other actions
+as the Administrative Agent may reasonably request in connection with such Incremental Commitment in order to create, continue or
+maintain the security interest of the Collateral Agent in the Collateral and the perfection thereof (including any amendments to the
+Security Documents and such other documents and assurances reasonably requested by the Administrative Agent to be delivered in
+connection therewith).
+“Incremental Lender” shall have the meaning provided in Section 2.14(b).
+“Incremental Security Documents” shall have the meaning provided in Section 2.14(b).
+“Indebtedness” shall mean, as to any Person, without duplication, (i) all indebtedness of such Person for borrowed money, (ii)
+for the deferred purchase price of property or services, (iii) obligations evidenced by notes, bonds, debentures and similar instruments,
+(iv) the maximum amount available to be drawn or paid under all letters of credit, bankers’ acceptances and bank guarantees issued for
+the account of such Person and all unpaid drawings and unreimbursed payments in respect of such letters of credit, bankers’ acceptances
+and bank guarantees, (v) all Capitalized Lease Obligations of such Person and
+46
+purchase money indebtedness, (vi) all Contingent Obligations of such Person in respect of Indebtedness set forth in another clause of this
+definition, (vii) obligations arising in connection with any Permitted Securitization Facility to the extent reflected as liabilities on the
+balance sheet of such Person prepared in accordance with GAAP and (viii) all obligations of the kind referred to in another clause of this
+definition secured by (or for which the holder of such obligation has an existing right, contingent or otherwise, to be secured by any Lien
+on property (including accounts and contract rights) owned or acquired by such Person, whether or not such Person has assumed or
+become liable for the payment of such obligation. The Indebtedness of any Person shall include the Indebtedness of any other entity
+(including any partnership in which such Person is a general partner) to the extent such Person is directly liable therefor pursuant to
+applicable law, contract or organizational documents as a result of such Person’s ownership interest in or other relationship with such
+entity, except to the extent the terms of such Indebtedness provide that such Person is not liable therefor. Notwithstanding the foregoing,
+Indebtedness shall not include (i) trade payables (so long as they are not more than 180 days past due), accrued expenses and deferred tax
+and other credits incurred by any Person in accordance with customary practices and in the ordinary course of business of such Person,
+(ii) any earn-out obligations until such obligation is past due, (iii) obligations incurred among the Credit Parties and their respective
+Subsidiaries in the ordinary course of business for the purchase of goods and services or, (iv) third party obligations included in the
+Company’s financial statements as a result of variable interest entity accounting and (v) payments for property or services in the ordinary
+course of business that are payable over a period not to exceed one year and at 0% interest. For purposes solely of (x) Sections 10.04 and
+11.04, all obligations under any Interest Rate Protection Agreement or any Other Hedging Agreement (and with the amount of any such
+obligations to be equal at any time to the termination value of such agreement or arrangement giving rise to such obligations that would
+be payable by such Person at such time) shall be deemed to be Indebtedness and (y) Section 11.04, Qualified Preferred Stock that contains
+restrictive or financial covenants shall be deemed to be Indebtedness.
+“Indemnified Person” shall have the meaning provided in Section 13.01(c).
+“Indemnified Taxes” shall have the meaning provided in Section 5.04(a).
+“Individual Exposure” of any Lender shall mean, at any time, the sum of (a) the aggregate principal amount of all Revolving
+Loans made by such Lender and then outstanding (for this purpose, using the U.S. Dollar Equivalent of amounts denominated in Euros or
+any Acceptable Foreign Currency), (b) such Lender’s RL Percentage of the aggregate principal amount of all Swingline Loans then
+outstanding, (c) such Lender’s RL Percentage of the aggregate amount of all Letter of Credit Outstandings (for this purpose, using the
+U.S. Dollar Equivalent of amounts denominated in Euros or any Acceptable Foreign Currency) at such time and (d) such Lender’s RL
+Percentage of the aggregate principal amount of all Agent Advances then outstanding.
+“Initial Maturity Date” shall mean June 10July 1, 20202023.
+“Initial Revolving Loan Commitments” shall mean Revolving Loan Commitments that mature on the Initial Maturity Date.
+“Insolvency Proceeding” shall mean any proceeding commenced by or against any Person under any provision of the
+Bankruptcy Code or under any state or foreign bankruptcy or insolvency law, assignments for the benefit of creditors, formal or informal
+moratoria, compositions, extensions generally with creditors, or proceedings seeking reorganization, arrangement, or other similar relief,
+including any proceeding commenced by or against any Person under any Dutch Insolvency Law or UK Insolvency Law.
+47
+“Insolvency Regulation” shall have the meaning provided in Section 8.01.
+“Intercompany Debt” shall mean any Indebtedness, whether now existing or hereafter incurred, owed by the Company or any
+Subsidiary of the Company to the Company or any other Subsidiary of the Company.
+“Intercompany Loans” shall mean any intercompany loans and advances between or among the Company and its Subsidiaries.
+“Intercreditor Agreement” shall mean an intercreditor agreement, in form and substance reasonably satisfactory to the
+Administrative Agent, among the Collateral Agent, the U.S. Credit Parties, the Dutch Credit Parties (if applicable), the UK Credit Parties
+(if applicable) and each collateral agent or trustee for the holders of any Permitted Additional Secured Indebtedness, as amended,
+modified or supplemented from time to time in accordance with the terms hereof and thereof.
+“Interest Determination Date” shall mean, with respect to any LIBOR Loan, the second Business Day prior to the
+commencement of any Interest Period relating to such LIBOR Loan.
+“Interest Period” shall have the meaning provided in Section 2.09.
+“Interest Rate Protection Agreement” shall mean any interest rate swap agreement, interest rate cap agreement, interest collar
+agreement, interest rate hedging agreement or other similar agreement or arrangement.
+“Inventory” shall mean “inventory” as such term is defined in Article 9 of the UCC.
+“Inventory Reserves” shall mean the Physical Inventory Adjustment Reserve and the Locations Reserve.
+“Investment” shall mean, with respect to the Company or any of its Subsidiaries, any of the following: lending money or credit
+or making advances to any other Person, or purchasing or acquiring any stock, obligations or securities of, or any other Equity Interest in,
+or making any capital contribution to, any other Person, or purchasing or owning a futures contract or otherwise becoming liable for the
+purchase or sale of currency or other commodities at a future date in the nature of a futures contract, or holding any cash or Cash
+Equivalents.
+“Investment Grade Rating” shall mean a rating equal to or higher than Baa3 (or the equivalent) by Moody’s and BBB- (or the
+equivalent) by S&P (or the equivalent investment grade rating by any other securities rating organization nationally recognized in the
+United States).
+“ISDA Definitions” shall mean the 2006 ISDA Definitions published by the International Swaps and Derivatives Association, Inc.
+or any successor thereto, as amended or supplemented from time to time, or any successor definitional booklet for interest rate
+derivatives published from time to time by the International Swaps and Derivatives Association, Inc. or such successor thereto.
+“Issuer Option” shall mean (a) any Note Hedge Option and (b) any Upper Strike Option.
+“Issuing Lender” shall mean each of (i) DBNY (except as otherwise provided in Section 12.09), (ii) Morgan Stanley Senior
+Funding Inc., (iii) Bank of America, N.A., (iv) Wells Fargo Bank, National Association, (v) Citibank, N.A., (vi) Barclays Bank PLC and (vii)
+any other Lender reasonably acceptable to the Administrative Agent and the Company which agrees to issue Letters of Credit hereunder;
+provided
+48

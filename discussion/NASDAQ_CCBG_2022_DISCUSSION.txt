@@ -1,0 +1,1051 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Management’s discussion and analysis (“MD&A”) provides supplemental information, which sets forth the major factors that
+have affected our financial condition and results of operations and should be read in conjunction with the Consolidated Financial
+Statements and related notes included in the Annual Report on Form 10-K. The MD&A is divided into subsections entitled
+“Business Overview,” “Executive Overview,” “Results of Operations,” “Financial Condition,” “Liquidity and Capital Resources,”
+“Off-Balance Sheet Arrangements,” and “Accounting Policies.” The following information should provide a better understanding
+of the major factors and trends that affect our earnings performance and financial condition, and how our performance during
+2022 compares with prior years. Throughout this section, Capital City Bank Group, Inc., and its subsidiaries, collectively, are
+referred to as “CCBG,” “Company,” “we,” “us,” or “our.”
+CAUTION CONCERNING FORWARD -LOOKING STATEMENTS
+This Annual Report on Form 10-K, including this MD&A section, contains “forward -looking statements” within the meaning of
+the Private Securities Litigation Reform Act of 1995. These forward-looking statements include, among others, statements about
+our beliefs, plans, objectives, goals, expectations, estimates and intentions that are subject to significant risks and uncertainties
+and are subject to change based on various factors, many of which are beyond our control. The words “may,” “could,” “should,”
+“would,” “believe,” “anticipate,” “estimate,” “expect,” “intend,” “plan,” “target,” “vision,” “goal,” and similar expressions are
+intended to identify forward-looking statements.
+All forward-looking statements, by their nature, are subject to risks and uncertainties. Our actual future results may differ
+materially from those set forth in our forward-looking statements. Please see the Introductory Note and Item 1A Risk Factors of
+this Annual Report for a discussion of factors that could cause our actual results to differ materially from those in the forward-
+looking statements.
+However, other factors besides those listed in Item 1A Risk Factors or discussed in this Annual Report also could adversely affect
+our results, and you should not consider any such list of factors to be a complete set of all potential risks or uncertainties. Any
+forward-looking statements made by us or on our behalf speak only as of the date they are made. We do not undertake to update
+any forward-looking statement, except as required by applicable law.
+BUSINESS OVERVIEW
+Our Business
+We are a financial holding company headquartered in Tallahassee, Florida, and we are the parent of our wholly owned subsidiary,
+Capital City Bank (the “Bank” or “CCB”). We provide a full range of banking services, including traditional deposit and credit
+services, mortgage banking, asset management, trust, merchant services, bankcards, securities brokerage services and financial
+advisory services, including the sale of life insurance, risk management, and asset protection services. The Bank has 58 banking
+offices and 89 ATMs/ITMs in Florida, Georgia and Alabama. Through Capital City Home Loans, LLC (“CCHL”), we have 33
+additional offices in the Southeast for our mortgage banking business. Please see the section captioned “About Us” beginning on
+page 4 for more detailed information about our business.
+Our profitability, like most financial institutions, is dependent to a large extent upon net interest income, which is the difference
+between the interest and fees received on interest earning assets, such as loans and securities, and the interest paid on interest-
+bearing liabilities, principally deposits and borrowings. Results of operations are also affected by the provision for credit losses,
+operating expenses such as salaries and employee benefits, occupancy , and other operating expenses including income taxes, and
+noninterest income such as mortgage banking revenues, wealth management fees, deposit fees, and bank card fees.
+Strategic Review
+Operating Philosophy. Our philosophy is to build long-term client relationships based on quality service, high ethical standards,
+and safe and sound banking practices. We maintain a locally oriented, community-based focus, which is augmented by
+experienced, centralized support in select specialized areas. Our local market orientation is reflected in our network of banking
+office locations, experienced community executives with a dedicated President for each market, and community boards which
+support our focus on responding to local banking needs. We strive to offer a broad array of sophisticated products and to provide
+quality service by empowering associates to make decisions in their local markets.
+36
+Strategic Initiatives. In 2021, we initiated a new five-year strategic plan “2025 In Focus” that will guide us in the areas of client
+experience, channel optimization, market expansion, and culture. As part of 2025 In Focus, we aim to take our brand of
+relationship banking to the next level, further deepen relationships within our communities, expand into new higher growth
+markets, diversify our revenue sources, invest in new technology that will support the expansion of client relationships, scale
+within our lines of business, and drive higher profitability. In 2022, we implemented initiatives in support of the strategic plan,
+including the implementation of an integrated marketing software aimed at deepening client relationships, initiation of a
+comprehensive review of our banking office network, continued expansion into new markets, and in 2020 and 2021 continued our
+efforts to diversify our revenues by expanding our residential mortgage banking and wealth businesses (discussed further below -
+Recent Acquisition/Expansion Activity).
+Markets. We maintain a blend of large and small markets in Florida and Georgia, all in close proximity to major interstate
+thoroughfares such as Interstates 10 and 75. Our larger markets include Tallahassee (Leon County, Florida), Gainesville
+(Alachua County, Florida), Macon (Bibb County, Georgia), and Suncoast (Hernando/Pasco/Citrus Counties, Florida). The larger
+employers in these markets are state and local governments, healthcare providers, educational institutions, and small businesses,
+providing stability and good growth dynamics that have historically grown in excess of the national average. We serve an
+additional fifteen smaller, less competitive, rural markets located on the outskirts of, and centered between, our larger markets
+where we are positioned as a market leader. In 12 of 18 markets in Florida and two of four Georgia markets, we frequently rank
+within the top four banks in terms of deposit market share. Furthermore, in the counties in which we operate, we maintain an
+8.4% deposit market share in the Florida counties and 5.4% in the Georgia counties (excluding Northern Arc markets entered in
+2022). Our markets provide for a strong core deposit funding base, a key differentiator and driver of our profitability and
+franchise value.
+Recent Acquisition/Expansion Activity. We have continued our expansion into the Northern Arc of Atlanta, Georgia by opening
+full-service offices in Marietta (Cobb County) in the fourth quarter of 2022 and Duluth (Gwinnett County) in the first quarter of
+2023. Additionally, we expanded our presence in the Florida Panhandle by opening a full-service office in Watersound, Florida
+in the fourth quarter of 2022. To expand our presence and commitment to our Gainesville market, we plan to open a third full-
+service banking office in the area in early 2023. During 2022, we hired leadership and banking teams in the Northern Arc and
+Walton County office markets, including commercial bankers, retail delivery support, private banking, wealth advisors, and
+treasury professionals. Further, CCHL loan originators will reside in the Northern Arc and Walton County offices.
+On April 30, 2021, a newly formed subsidiary of CCBG, Capital City Strategic Wealth, LLC (“CCSW”) acquired substantially all
+of the assets of Strategic Wealth Group, LLC and certain related businesses (“SWG”) – Refer to Note 1 – Significant Accounting
+Policies/Business Combination for additional information on this transaction.
+On March 1, 2020, CCB completed its acquisition of a 51% membership interest in Brand Mortgage Group, LLC (“Brand”)
+which is now operated as CCHL – Refer to Note 1 – Significant Accounting Policies/Business Combination for additional
+information on this transaction.
+EXECUTIVE OVERVIEW
+For 2022, net income attributable to common shareowners totaled $40.1 million, or $2.36 per diluted share, compared to net
+income of $33.4 million, or $1.98 per diluted share, for 2021 and $31.6 million, or $1.88 per diluted share, for 2020.
+The increase in net income attributable to common shareowners for 202 2 was attributable to higher net interest income of $21.6
+million and lower noninterest expense of $0.7 million, partially offset by an $8.7 million increase in the provision for credit losses,
+lower noninterest income of $12.9 million, and higher income taxes of $0.3 million. Net income attributable to common
+shareowners included a $6.4 million decrease in the deduction to record the 49% non-controlling interest in the earnings of CCHL.
+The increase in net income attributable to common shareowners for 2021 was attributable to a decrease in the provision for credit
+losses of $11.2 million, higher net interest income of $1.5 million and lower income taxes of $0.4 million, partially offset by
+higher noninterest expense of $12.5 million and lower noninterest income of $3.6 million. Net income attributable to common
+shareowners included a $4.9 million decrease in the deduction to record the 49% non-controlling interest in the earnings of CCHL.
+Below areSummary Highlights of our 2022 financial performance:
+● Strong growth in net interest income of 21% reflected improved earning asset mix and strength of deposit franchise
+● Loan growth of $594 million, or 30.7% (end of period) and $189 million, or 9.4% (year-to-date average)
+● Average Deposits grew $356 million, or 10.5%
+● CCHL contribution decreased $0.24 per share due to slower secondary market loan sales, but was more than offset by
+strong adjustable rate production for our loan portfolio, and higher wealth and deposit fees
+● Noninterest expense included pension settlement charges totaling $2.3 million or $0.11 per share
+● Tangible book value per share increased $0.54, or 3.2%, primarily due to strong earnings and a favorable re-
+measurement adjustment for pension plan, partially offset by higher unrealized investment security losses
+For more detailed information, refer to the following additional sections of the MD&A “Results of Operations” and “Financial
+Condition”.
+37
+RESULTS OF OPERATIONS
+A condensed earnings summary for the last three fiscal years is presented in Table 1 below:
+Table 1
+CONDENSED SUMMARY OF EARNINGS
+(Dollars in Thousands, Except Per Share Data) 2022 2021 2020
+I nterest Income $ 131,348 $ 106,351 $ 106,197
+Taxable Equivalent Adjustments 325 349 430
+T otal Interest Income (FTE) 131,673 106,700 106,627
+Interest Expense 6,888 3,490 4,871
+N et Interest Income (FTE) 124,785 103,210 101,756
+Provision for Credit Losses 7,162 (1,553) 9,645
+T axable Equivalent Adjustments 325 349 430
+Net Interest Income After Provision for Credit Losses 117,298 104,414 91,681
+N oninterest Income 94,627 107,545 111,165
+Noninterest Expense 161,828 162,508 149,962
+I ncome Before Income Taxes 50,097 49,451 52,884
+Income Tax Expense 10,085 9,835 10,230
+P re-Tax Income Attributable to Noncontrolling Interests 135 (6,220) (11,078)
+Net Income Attributable to Common Shareowners $ 40,147 $ 33,396 $ 31,576
+Basic Net Income Per Share $ 2.37 $ 1.98 $ 1.88
+D iluted Net Income Per Share $ 2.36 $ 1.98 $ 1.88
+Net Interest Income and Margin
+Net interest income represents our single largest source of earnings and is equal to interest income and fees generated by earning
+assets, less interest expense paid on interest bearing liabilities. We provide an analysis of our net interest income, including
+average yields and rates in Tables 2 and 3 below. We provide this information on a “taxable equivalent” basis to reflect the tax-
+exempt status of income earned on certain loans and investments.
+For 2022, our taxable equivalent net interest income increased $21.6 million, or 20.9%. This follows an increase of $1.5 million,
+or 1.4% in 2021. The increase in 2022 was primarily due to strong loan growth, higher interest rates, and growth in the
+investment portfolio. The increase in 2021 was primarily due to higher small business (“SBA PPP”) loan income combined with
+lower interest expense, partially offset by lower investment portfolio income due to lower reinvestment rates.
+For 2022, taxable equivalent interest income increased $25.0 million, or 23.4%, over 2021. For 2021, taxable equivalent interest
+income increased $0.1 million, or 0.1%, over 2020. The increase in 2022 was primarily due to an overall improved earning asset
+mix and higher interest rates on earning assets. The increase in 2021 was primarily due to income on SBA PPP loans, partially
+offset by lower rates on earning assets.
+For 2022, interest expense increased $3.4 million, or 97.4%, over 2021. For 2021, interest expense decreased $1.4 million, or
+28.4%, from 2020. The variances for both 2022 and 2021 were related to our negotiated rate deposits, primarily NOW accounts
+which were tied to an adjustable rate index until mid-2022. Our cost of interest bearing deposits was 17 basis points in 2022, 4
+basis points in 2021, and 10 basis points in 2020. Our total cost of deposits (including noninterest bearing accounts ) was 9 basis
+points in 2022, 2 basis points in 2021, and 5 basis points in 2020. To a lesser extent, higher interest expense for our variable rate
+short-term borrowings (warehouse line of credit for mortgage banking) and subordinated notes contributed to the increase in
+2022. Our total cost of funds (interest expense/average earning assets) was 17 basis points in 2022, 10 basis points in 2021, and
+16 basis points in 2020.
+38
+Our interest rate spread (defined as the taxable-equivalent yield on average earning assets less the average rate paid on interest
+bearing liabilities) increased 23 basis points in 2022 and decreased 43 basis points in 2021. Our net interest margin (defined as
+taxable-equivalent interest income less interest expense divided by average earning assets) of 3.13% in 2022 reflected a 30 basis
+point increase over 2021. The net interest margin of 2.83% in 2021 reflected a 47 basis point decrease from 2020. The increase
+in the interest rate spread and net interest margin in 2022 reflected an improved earning asset mix, higher yields across a majority
+of our earning assets due to the rapid increase in interest rates, and good control of our deposit cost. The decline in the interest
+rate spread and net interest margin in 2021 reflected lower earning asset yields due to lower rates, in addition to a higher level of
+lower yielding overnight funds driven by strong deposit growth.
+During 2022, the Federal Open Market Committee (“FOMC”) raised interest rates 425 basis points, putting the federal funds
+target rate at a range of 4.25%-4.50%, compared to a range of 0.00%-0.25% at the end of 2021. Our asset sensitive position, with
+strong core deposit funding and ample liquidity provide benefits in the higher rate environment.
+Table 2
+AVERAGE BALANCES AND INTEREST RATES
+2022 2021 2020
+(Taxable Equivalent Basis - Dollars Average Average Average Average Average Average
+in Thousands) Balance Interest Rate Balance Interest Rate Balance Interest Rate
+ASSETS
+L oans Held for Sale(1)(2) $ 48,502 $ 2,175 4.49 % $ 78,328 $ 2,555 3.24 % $ 81,125 $ 2,895 3.57 %
+Loans Held for Investment(1)(2) 2,189,440 104,016 4.75 2,000,563 94,332 4.76 1,957,576 92,261 4.71
+T axable Investment Securities 1,098,876 15,917 1.45 778,953 8,724 1.12 574,199 10,176 1.77
+Tax-Exempt Investment Securities(2) 2,668 54 2.03 3,772 91 2.39 5,123 124 2.42
+F ed Funds Sold & Int Bearing Dep 649,762 9,511 1.46 790,870 998 0.13 465,652 1,171 0.25
+Total Earning Assets 3,989,248 131,673 3.30 % 3,652,486 106,700 2.92 % 3,083,675 106,627 3.46 %
+C ash & Due From Banks 76,929 72,409 68,386
+Allowance for Credit Losses (21,688) (22,960) (20,690)
+O ther Assets 287,813 282,129 259,700
+TOTAL ASSETS $ 4,332,302 $ 3,984,064 $ 3,391,071
+LIABILITIES
+N OW Accounts $ 1,065,838 $ 2,799 0.26 % $ 965,320 $ 294 0.03 % $ 826,280 $ 930 0.11 %
+Money Market Accounts 283,407 203 0.07 278,606 134 0.05 235,931 223 0.09
+S avings Accounts 628,313 309 0.05 537,023 263 0.05 423,529 207 0.05
+Time Deposits 94,646 133 0.14 102,220 148 0.14 104,393 188 0.18
+T otal Interest Bearing Deposits 2,072,204 3,444 0.17 % 1,883,169 839 0.04 % 1,590,133 1,548 0.10 %
+Short-Term Borrowings 40,483 1,761 4.35 53,511 1,360 2.54 69,119 1,690 2.44
+S ubordinated Notes Payable 52,887 1,652 3.08 52,887 1,228 2.29 52,887 1,472 2.74
+Other Long-Term Borrowings 665 31 4.62 1,887 63 3.33 5,304 161 3.03
+T otal Interest Bearing Liabilities 2,166,239 6,888 0.32 % 1,991,454 3,490 0.18 % 1,717,443 4,871 0.28 %
+Noninterest Bearing Deposits 1,691,132 1,523,717 1,254,214
+O ther Liabilities 85,684 111,567 72,400
+TOTAL LIABILITIES 3,943,055 3,626,738 3,044,057
+T emporary Equity 9,957 20,505 9,701
+T OTAL SHAREOWNERS’
+EQUITY 379,290 336,821 337,313
+T OTAL LIABILITIES,
+TEMPORARY EQUITY AND
+SHAREOWNERS’ EQUITY $ 4,332,302 $ 3,984,064 $ 3,391,071
+I nterest Rate Spread 2.98 % 2.75 % 3.18 %
+Net Interest Income $ 124,785 $ 103,210 $ 101,756
+N et Interest Margin(3) 3.13 % 2.83 % 3.30 %
+(1) Average balances include net loan fees, discounts and premiums, and nonaccrual loans. Interest income includes loan fees of $1.1 million for 2022,
+$6.6 million for 2021, and $2.6 million for 2020. SBA PPP loans averaged $0.1 million in 2022, $92.4 million in 2021, and $125.4 million in 2020.
+(2) Interest income includes the effects of taxable equivalent adjustments using a 21% tax rate.
+(3) Taxable equivalent net interest income divided by average earning assets.
+39
+Table 3
+RATE/VOLUME ANALYSIS(1)
+2022 vs. 2021 2021 vs. 2020
+Increase (Decrease) Due to Change In Increase (Decrease) Due to Change In
+(Taxable Equivalent Basis -
+Dollars in Thousands) Total Volume Rate Total Calendar(3) Volume Rate
+E arnings Assets:
+Loans Held for Sale(2) $ (380) $ (987) $ 607 $ (340) $ (8) $ (100) $ (232)
+L oans Held for Investment(2) 9,684 9,782 (98) 2,071 (252) 2,092 231
+Taxable Investment Securities 7,193 3,583 3,610 (1,451) (28) 3,657 (5,080)
+T ax-Exempt Investment Securities(2) (37) (27) (10) (34) - (33) (1)
+Funds Sold 8,513 (178) 8,691 (173) (3) 821 (991)
+T otal $ 24,973 $ 12,173 $ 12,800 73 $ (291) $ 6,437 $ (6,073)
+I nterest Bearing Liabilities:
+NOW Accounts $ 2,505 $ 31 $ 2,474 (636) $ (3) $ 159 $ (792)
+M oney Market Accounts 69 2 67 (89) (1) 44 (132)
+Savings Accounts 46 45 1 56 - 56 -
+T ime Deposits (15) (11) (4) (40) (1) (3) (36)
+Short-Term Borrowings 401 (331) 732 (330) (4) (383) 57
+S ubordinated Notes Payable 424 - 424 (244) (4) - (240)
+Other Long-Term Borrowings (32) (41) 9 (98) - (104) 6
+T otal $ 3,398 $ (305) $ 3,703 (1,381) $ (13) $ (231) $ (1,137)
+C hanges in Net Interest Income $ 21,575 $ 12,478 $ 9,097 $ 1,454 $ (278) $ 6,668 $ (4,936)
+(1) This table shows the change in taxable equivalent net interest income for comparative periods based on either changes in average
+volume or changes in average rates for interest earning assets and interest bearing liabilities. Changes which are not solely
+due to volume changes or solely due to rate changes have been attributed to rate changes. SBA PPP loan income totaled less
+than $0.1 million in 2022, $7.9 million in 2021, and $3.2 million in 2020.
+(2) Interest income includes the effects of taxable equivalent adjustments using a 21% tax rate to adjust on tax-exempt loans and securities
+and securities to a taxable equivalent basis.
+(3) Reflects one extra calendar day in 2020.
+Provision for Credit Losses
+For 2022, we recorded a provision for credit loss expense of $7.2 million ($7.1 million expense for loans HFI and $0.1 million
+expense for unfunded loan commitments) compared to a provision benefit of $1.6 million for 2021 ($2.8 million benefit for loans
+HFI and $1.2 million expense for unfunded loan commitments), and provision expense of $9.6 million for 2020 ($9.0 million
+expense for loans HFI and $0.6 million expense for unfunded loan commitments ). The higher level of provision in 2022 was
+primarily attributable to strong loan growth and weaker projected economic conditions, primarily a higher rate of unemployment.
+The credit loss provision in 2021 was favorably impacted by strong loan recoveries. We discuss the various factors that have
+impacted our provision expense in more detail under the heading Allowance for Credit Losses.
+Noninterest Income
+For 2022, noninterest income totaled $94.6 million, a $12.9 million decrease from 2021 due to lower mortgage banking revenues
+of $21.8 million, partially offset by higher wealth management fees of $4.4 million, deposit fees of $3.2 million, other income of
+$1.2 million, and bank card fees of $0.1 million. Lower mortgage banking revenues at CCHL, for 2022 generally reflected a
+reduction in refinancing activity and, to a lesser degree, lower purchase mortgage originations primarily driven by higher interest
+rates. In addition, gain on sale margins were pressured due to a lower level of governmental loan originations and mandatory
+delivery loan sales (both of which provide a higher gain on sale percentage). Strong best efforts adjustable rate production by
+CCHL during 2022 contributed to the Bank’s loan growth and earnings.
+40
+For 2021, noninterest income totaled $107.5 million, a $3.6 million decrease from 2020 primarily attributable to lower mortgage
+banking revenues of $10.9 million, partially offset by strong gains in wealth management fees of $2.7 million, bank card fees of
+$2.2 million, and deposit fees of $1.1 million. The decline in mortgage banking revenues was driven generally by lower
+refinancing activity, a shift in production mix (lower government versus conventional product), and lower market driven gain on
+sale margins.
+Noninterest income as a percent of total operating revenues (net interest income plus noninterest income) was 43.19% in 2022,
+51.11% in 2021, and 52.32% in 2020. In 2022 and 2021, lower mortgage banking revenues drove the decrease in the percentage.
+The table below reflects the major components of noninterest income.
+Table 4
+NONINTEREST INCOME
+(Dollars in Thousands) 2022 2021 2020
+D eposit Fees $ 22,121 $ $ 18,882 $ 17,800
+Bank Card Fees 15,401 15,274 13,044
+W ealth Management Fees 18,059 13,693 11,035
+Mortgage Banking Revenues 30,624 52,425 63,344
+O ther 8,422 7,271 5,942
+Total Noninterest Income $ 94,627 $ $ 107,545 $ 111,165
+Significant components of noninterest income are discussed in more detail below.
+Deposit Fees. For 2022, deposit fees (service charge fees, insufficient fund/overdraft fees, and business account analysis fees)
+totaled $22.1 million compared to $18.9 million in 2021 and $17.8 million in 2020. The $3.2 million, or 17.2%, increase in 2022
+reflected higher monthly service charge fees and overdraft fees. The conversion, in the third quarter of 2021, of our remaining
+free checking accounts to a monthly maintenance fee account type drove the increase in service charge fees. The increase in
+overdraft fees was driven by higher utilization of our overdraft service which is closely correlated (inversely) with the consumer
+savings rate which has declined noticeably since it substantially increased during 2020 and 2021 due to the high level of
+governmental stimulus related to the COVID-19 pandemic. The $1.1 million, or 6.1%, increase in 2021 reflected the
+aforementioned conversion of the remaining free checking accounts to a monthly maintenance fee account type.
+Bank Card Fees. Bank card fees totaled $15.4 million in 2022 compared to $15.3 million in 2021 and $13.0 million in 2020. The
+slight increase in 2022 reflected incremental revenues from growth in new checking accounts that was partially offset by
+transaction volume which reflected a slowdown in consumer spending. The favorable variance in 2021 generally reflected an
+increase in card-not-present debit card transactions and increased on-line spending by our clients in part due to the pandemic and
+significant government stimulus in 2020 and 2021.
+Wealth Management Fees. Wealth management fees including both trust fees (i.e., managed accounts and trusts/estates) and
+retail brokerage fees (i.e., investment, insurance products, and retirement accounts) totaled $18.1 million in 2022 compared to
+$13.7 million in 2021 and $11.0 million in 2020. The increase in 2022 was primarily due to higher insurance revenues of $3.7
+million and retail brokerage fees of $0.6 million. The higher level of insurance revenues reflected the acquisition of CCSW in
+2021. The increase in fees for 2021 reflected higher retail brokerage fees of $1.8 million and trust fees of $0.8 million. Higher
+retail brokerage transaction volume and advisory accounts added from the acquisition of CCSW drove the increase in retail
+brokerage fees. The increase in trust fees was primarily attributable to an increase in assets under management. At December 31,
+2022, total assets under management (“AUM”) were approximately $2.273 billion compared to $2.324 billion at December 31,
+2021 and $1.979 billion at December 31, 2020. The decrease in AUM in 2022 generally reflected lower account values/returns
+reflective of volatile market conditions during the year partially offset by new account growth.
+41
+Mortgage Banking Revenues. Mortgage banking revenues totaled $30.6 million in 2022 compared to $52.4 million in 2021 and
+$63.3 million in 2020. Lower mortgage banking revenues at CCHL for 2022 reflected a reduction in refinancing activity and, to a
+lesser degree, lower purchase mortgage originations primarily driven by higher interest rates. In addition, gain on sale margins
+were pressured due to a lower level of governmental loan originations and mandatory delivery loan sales (both of which provide a
+higher gain on sale percentage). Throughout 2022, strong best efforts origination volume allowed us to book a steady flow of
+adjustable rate residential loans in our portfolio which contributed to loan growth and earnings. In addition, continued stability in
+our construction/permanent loan program partially offset the slowdown in secondary market originations. The decrease in 2021
+was driven generally by lower refinancing volume, a shift in production mix (lower government versus conventional product),
+and lower market driven gain on sale margins. We provide a detailed overview of our mortgage banking operation, including a
+detailed break-down of mortgage banking revenues, mortgage servicing activity, and warehouse funding within Note 4 -
+Mortgage Banking Activities in the Notes to Consolidated Financial Statements. Production volume totaled $1.02 billion in 2022,
+$1.52 billion in 2021, and $1.56 billion in 2020. Refinancing activity represented 13% of loan production in 2022, 30% in 2021,
+and 40% in 2020. For 2022, CCHL realized a $0.2 million net loss ($0.01 per diluted share) versus $3.9 million net income
+($0.23 per diluted share) in 2021, and $8.7 million net income ($0.52 per diluted share) in 2020.
+Other. Other noninterest income totaled $8.4 million in 2022 compared to $7.3 million in 2021 and $5.9 million in 2020. The
+$1.1 million increase in 2022 was primarily attributable to higher loan servicing fees at CCHL of $0.5 and a $0.4 million increase
+in miscellaneous income, primarily from a $0.2 million gain on the termination of a lease. The $1.4 million increase in 2021 was
+primarily attributable to higher loan servicing fees of $1.0 million at CCHL. The higher level of loan servicing fees at CCHL for
+both 2021 and 2022 reflected a higher volume of servicing retained loan sales.
+Noninterest Expense
+For 2022, noninterest expense totaled $161.8 million, a $0.7 million decrease from 2021 due to a decrease in compensation
+expense of $0.9 million and other expense of $0.4 million, partially offset by an increase in occupancy expense of $0.6 million.
+The reduction in compensation expense was primarily due to a decrease in salary expense of $1.6 million that was partially offset
+by an increase in associate benefit expense of $0.7 million. The variance in salary expense reflected lower variable/performance-
+based compensation of $7.7 million and base salaries of $1.3 million at CCHL, partially offset by an increase in salary expense at
+the Bank, including variable/performance-based compensation totaling $2.5 million, base salaries (merit and new market staffing
+additions) of $3.1 million, and lower realized loan cost of $1.4 million (credit offset to salary expense). The increase in associate
+benefit expense was due to an increase in insurance expense (utilized self-insurance reserves in 2021) of $0.6 million and stock
+compensation expense of $0.7 million at the Bank. The net decrease in other expense was primarily due to lower pension plan
+related costs, including a decrease of $4.9 million for the non-service cost component of our pension plan (reflected in pension –
+other) attributable to the utilization of a lower discount rate for plan liabilities and a decrease of $0.8 million for pension plan
+settlement expense. These favorable variances were partially offset by an increase in the expense for other real estate expense of
+$1.2 million, travel/entertainment and advertising costs of $1.3 million (return to pre-pandemic levels and market expansion),
+other losses of $0.9 million (primarily debit card and check fraud), mortgage servicing right amortization of $0.6 million, VISA
+share swap conversion ratio payments of $0.4 million, FDIC insurance fees of $0.3 million, and other miscellaneous costs related
+to training, hiring, and variable costs related to loan production. Gains from the sale of two banking offices in 2021 drove the
+increase in other real estate expense. The increase in occupancy expense is related to lease expense for four new banking offices
+added in 2022 and various software purchases, including network security and end of life upgrades.
+For 2021, noninterest expense totaled $162.5 million, a $12.5 million increase over 2020 attributable to the addition of expenses
+at CCHL (March 1, 2020 acquisition) of $2.3 million and higher expenses at the Bank totaling $10.2 million. The increase in
+expenses at the Bank were primarily due to an increase in compensation expense of $3.7 million, including an increase in salary
+expense of $3.1 million (merit raises and realized loan cost) and associate benefit expense of $0.6 million (primarily
+pension/service cost), occupancy expense of $0.5 million, and other expense of $5.9 million. The increase in occupancy reflected
+higher lease expense for two new loan production offices added in 2021 and higher depreciation expense related to technology
+investments. The increase in other expense was primarily due to pension plan settlement expense of $3.1 million and higher
+expense of $2.1 million for the non-service cost component of our pension plan (reflected in pension – other) attributable to the
+utilization of a lower discount rate for plan liabilities. Increases in processing fees of $0.7 million (debit card volume),
+professional fees of $0.6 million, and FDIC insurance fees of $0.5 million (higher asset size) that were partially offset by a
+decrease in other real estate expense of $1.6 million (gains from the sale of two banking offices in 2021), also contributed to the
+increase in other expense.
+Our operating efficiency ratio (expressed as noninterest expense as a percent of taxable equivalent net interest income plus
+noninterest income) was 71.47%, 77.11% and 70.43% in 2022, 2021 and 2020, respectively. The decrease in this metric for 2022
+was primarily driven by higher taxable equivalent net interest income (refer to caption headed Net Interest Income and Margin)
+and slightly lower noninterest expense. The increase in this metric for 2021 reflected higher noninterest expense, largely the
+aforementioned higher level of pension plan expenses.
+42
+Expense management is an important part of our culture and strategic focus. We will continue to review and evaluate
+opportunities to optimize our delivery operations and invest in technology that provides favorable returns/scale and/or mitigates
+risk. The table below reflects the major components of noninterest expense.
+Table 5
+NONINTEREST EXPENSE
+(Dollars in Thousands) 2022 2021 2020
+S alaries $ 83,613 $ 85,211 $ 80,846
+Associate Benefits 16,929 16,259 15,434
+T otal Compensation 100,542 101,470 96,280
+P remises 11,184 10,879 10,512
+Equipment 13,390 13,053 12,147
+T otal Occupancy, net 24,574 23,932 22,659
+L egal Fees 1,413 1,411 1,570
+Professional Fees 5,437 5,633 4,863
+P rocessing Services 6,534 6,569 5,832
+Advertising 3,208 2,683 2,998
+T ravel and Entertainment 1,815 1,063 855
+Telephone 2,851 2,975 2,869
+I nsurance – Other 2,409 2,096 1,607
+Pension - Other (3,043) 1,913 (216)
+P ension Settlement 2,321 3,072 -
+Other Real Estate, Net (337) (1,488) 104
+M iscellaneous 14,104 11,179 10,541
+Total Other Expense 36,712 37,106 31,023
+Total Noninterest Expense $ 161,828 $ 162,508 $ 149,962
+Significant components of noninterest expense are discussed in more detail below.
+Compensation. Compensation expense totaled $100.5 million in 2022 compared to $101.5 million in 2021, and $96.3 million in
+2020. For 2022, the $0.9 million, or 0.9%, net decrease reflected a decrease in salary expense of $1.6 million that was partially
+offset by an increase in associate benefit expense of $0.7 million. The decrease in salary expense was primarily due to lower
+variable/performance-based compensation of $7.7 million and base salaries of $1.3 million at CCHL, partially offset by an
+increase in salary expense at the Bank, primarily variable/performance -based compensation totaling $2.5 million, base salaries
+(merit and new market staffing additions) of $3.1 million, and a decrease in realized loan cost of $1.4 million (credit offset to
+salary expense). Further, the increase in associate benefit expense was primarily due to an increases in expenses at the Bank,
+including associate insurance expense (utilized self-insurance reserves in 2021) of $0.6 million and stock compensation expense
+of $0.7 million that was partially offset by a decrease in pension plan service cost of $0.5 million.
+For 2021, the $5.2 million, or 5.4%, net increase was attributable to increases in salary expense of $4.4 million and associate
+benefit expense of $0.8 million. Increases in salary expense of $3.1 million and associate benefit expense of $0.6 million at the
+Bank drove a majority of the increase with the addition of CCHL compensation expense for a full 12-month period in 2021 versus
+a ten month period in 2020 driving the remaining portion of the variance. The higher level of salary expense at the Bank reflected
+an increase in base salaries of $1.8 million, primarily merit raises, and a decrease in realized loan cost of $0.8 million (credit
+offset to salary expense). The increase in associate benefit expense at the Bank was attributable to an increase in pension plan
+service cost of $1.1 million partially offset by a decrease in associate insurance expense of $0.4 million.
+Occupancy. Occupancy expense (including premises and equipment) totaled $24.5 million for 2022 compared to $23.9 million
+for 2021, and $22.7 million for 2020. For 2022, the $0.6 million, or 2.7%, increase was attributable to increases in software
+license expense of $0.5 million and banking office lease expense of $0.3 million, partially offset by a decrease in maintenance and
+repairs expense of $0.1 million. The increase in software license expense reflected software upgrades for personal computers and
+network servers, and additional investment in network security monitoring software.
+43
+For 2021, the $1.2 million, or 5.3%, increase was attributable to an increase in occupancy expense of $0.5 million at the Bank
+primarily related to depreciation and software license expense for additional ATM/ITM investments and other infrastructure
+investments for business line support and risk management. The remainder of the variance reflected CCHL occupancy expense
+for a full 12-month period versus a ten month period in 2020.
+Other. Other noninterest expense totaled $36.7 million in 2022 compared to $37.1 million in 2021 and $31.0 million in 2020.
+For 2022, the $0.4 million, or 1.1%, decrease was due to lower expenses at the Bank, primarily a decrease in pension related
+costs, including a decrease of $4.9 million for the non-service cost component of our pension plan (reflected in pension – other)
+attributable to the utilization of a lower discount rate for plan liabilities and a decrease of $0.8 million for pension plan settlement
+expense. These favorable variances were partially offset by an increase in expenses for other real estate of $1.2 million (lower
+gains from the sale of banking offices), travel/entertainment and advertising costs totaling $1.3 million (return to pre -pandemic
+levels and market expansion), and insurance – other (FDIC insurance premiums) of $0.3 million. Additional increases were
+realized in the following expenses that are reflected in the miscellaneous expense category: other losses of $0.9 million (primarily
+debit card and check fraud), mortgage servicing right amortization of $0.6 million (higher level of servicing retained loan sales),
+VISA Class B share swap conversion ratio payments of $0.4 million, and other miscellaneous costs for training, hiring, and
+variable expenses related to loan production.
+For 2021, the $6.1 million, or 19.7%, increase was driven by an increase in other expenses at the Bank of $5.9 million, primarily
+an increase in pension related expenses, including higher expense of $2.1 million for the non-service cost component of our
+pension plan attributable to the utilization of a lower discount rate for plan liabilities. Additionally, we incurred $3.1 million in
+pension settlement charges in 2021 related to a high level of lump sum payments to retirees. Lastly, we realized an increase in
+expense for processing fees of $0.7 million (debit card volume), professional fees of $0.6 million (temporary staffing support),
+and insurance – other (FDIC insurance premiums) of $0.5 million (larger asset size), that were partially offset by a decrease in
+other real estate expense of $1.6 million (higher gains from the sale of banking offices) contributed to the increase.
+Income Taxes
+For 2022, we realized income tax expense of $10.1 million (effective rate of 20%) compared to $9.8 million (effective rate of
+20%) for 2021 and $10.2 million (effective rate of 19%) for 2020. Income tax expense for 2022 and 2021 was unfavorably
+impacted due to lower CCHL income. For 2022, income tax expense was favorably impacted by $0.4 million related to tax
+benefits accrued via a 2022 investment in a solar tax credit equity fund. Further, 2022 income tax expense was favorably
+impacted by discrete tax items totaling $0.7 million related to a favorable deferred tax adjustment for our Supplemental Executive
+Retirement Plan and a State of Florida corporate tax refund. Income tax expense for 2021 was unfavorably impacted by net
+discrete tax items totaling $0.3 million.
+In September 2021, Florida enacted a corporate tax rate reduction from 4.5% to 3.535% retroactive to January 1, 2021, with an
+expiration date of December 31, 2021, therefore, there was no material impact to our deferred tax accounts. Our 2021 and 2020
+state tax rates were adjusted to reflect the one percentage point (2020) and two percentage point (2021) reductions each year. The
+Florida tax rate reverted to 5.5% effective January 1, 2022.
+Absent discrete items, we expect our annual effective tax rate to approximate 21%-22% in 2023.
+FINANCIAL CONDITION
+Average assets totaled approximately $4.332 billion for 2022, an increase of $348.2 million, or 8.7%, over 2021. Average
+earning assets were approximately $3.989 billion for 2022, an increase of $336.8 million, or 9.2%, over 2021. Compared to 2021,
+average overnight funds decreased $141.1 million, while investment securities increased $318.8 million and average loans held
+for investment were higher by $188.9 million. We discuss these variances in more detail below.
+Table 2 provides information on average balances and rates, Table 3 provides an analysis of rate and volume variances and Table
+6 highlights the changing mix of our interest earning assets over the last three fiscal years.
+44
+Loans
+In 2022, average loans HFI increased $188.9 million, or 9.4%, compared to an increase of $43.0 million, or 2.2%, in 2021.
+Compared to 2021, the growth in average loans was broad based with increases realized in most loan categories, more
+significantly so in the residential real estate, construction, and consumer (indirect auto) segments. Total loans HFI at December
+31, 2022 totaled $2.525 billion, a $594 million increase over December 31, 2021 and primarily reflected higher balances in the
+following categories: residential real estate of $375 million, commercial real estate of $119 million, and construction of $60
+million. At December 31, 2022, our consumer loans balances reflected direct loans of $22 million and indirect auto loans of $303
+million. During 2022, indirect auto balances peaked at $338 million in May, but declined gradually for the remainder of the year
+as we focused on reducing exposure to this loan segment which totaled $303 million at December 31, 2022.
+As part of our overall strategy, we will purchase newly originated 1-4 family real estate secured adjustable rate loans from CCHL.
+The strategic alliance with CCHL provides us a larger pool of loan purchase opportunities, including participation loans for
+construction/perm product, which in large part drove the aforementioned increases in residential real estate and construction
+loans.
+Expansion into new markets in the Northern Arc of Atlanta, Georgia (Cobb and Gwinnett Counties) and Walton County, Florida
+drove incremental loan growth of approximately $65 million in 2022 as we added to those banking teams throughout 2022.
+In 2022, average loans held for sale (“HFS”) decreased $29.8 million, or 38.1%, from 2021 due to lower loan volume at CCHL.
+Loans HFI and HFS as a percentage of average earning assets decreased slightly to 56.1% in 2022 compared to 56.9% in 2021,
+primarily attributable to an increase in our investment portfolio.
+Table 6
+SOURCES OF EARNING ASSET GROWTH
+2021 to Percentage Components of
+2022 Total Average Earning Assets
+(Average Balances – Dollars In Thousands) Change Change 2022 2021 2020
+Loans:
+L oans HFS $ (29,826) (8.9)% 1.2 % 2.1 % 2.6 %
+L oans HFI:
+Commercial, Financial, and Agricultural (71,063) (21.1) 6.0 8.5 11.7
+R eal Estate – Construction 56,999 16.9 5.4 4.3 4.0
+Real Estate – Commercial Mortgage 23,031 6.8 17.6 18.6 21.1
+R eal Estate – Residential 126,843 37.7 12.3 10.0 11.5
+Real Estate – Home Equity 908 0.3 4.9 5.3 6.4
+C onsumer 52,159 15.5 8.7 8.0 8.8
+Total HFI Loans 188,877 56.1 54.9 54.7 63.5
+T otal Loans HFS and HFI $ 159,051 47.2 56.1 56.8 66.1 %
+I nvestment Securities:
+Taxable $ 319,923 95.0 % 27.5 % 21.3 % 18.6 %
+T ax-Exempt (1,104) (0.3) 0.1 0.1 0.2
+Total Securities $ 318,819 94.7 % 27.6 % 21.4 % 18.8 %
+Funds Sold (141,108) (41.9) 16.3 21.8 15.1
+Total Earning Assets $ 336,762 100 % 100 % 100 % 100 %
+Our average total loans (HFS and HFI)-to-deposit ratio was 59.5% in 2022, 61.0% in 2021, and 71.7% in 2020.
+The composition of our HFI loan portfolio at December 31 for each of the past three years is shown in Table 7. Table 8 arrays
+our HFI loan portfolio at December 31, 2022, by maturity period. As a percentage of the HFI loan portfolio, loans with fixed
+interest rates represented 33.3% at December 31, 2022 compared to 39.3% at December 31, 2021. A higher level of 1-4 family
+real estate secured adjustable rate loan production in 2022 drove the decrease in the percentage.
+45
+Table 7
+LOANS HFI BY CATEGORY
+(Dollars in Thousands) 2022 2021 2020
+C ommercial, Financial and Agricultural $ 247,362 $ 223,086 $ 393,930
+Real Estate – Construction 234,519 174,394 135,831
+R eal Estate – Commercial Mortgage 782,557 663,550 648,393
+Real Estate – Residential 727,105 360,021 352,543
+R eal Estate – Home Equity 208,120 187,821 205,479
+Consumer 325,517 322,593 270,250
+T otal Loans HFI, Net of Unearned Income $ 2,525,180 $ 1,931,465 $ 2,006,426
+Table 8
+LOANS HFI MATURITIES
+Maturity Periods
+Five
+Over One Through Over
+One Year Through Fifteen Fifteen
+(Dollars in Thousands) or Less Five Years Years Years Total
+C ommercial, Financial and Agricultural $ 51,514 $ 128,783 $ 65,957 $ 1,108 $ 247,362
+Real Estate – Construction 113,672 66,238 22,471 32,138 234,519
+R eal Estate – Commercial Mortgage 46,776 112,180 330,311 293,290 782,557
+Real Estate – Residential 16,693 474,020 110,981 125,411 727,105
+R eal Estate – Home Equity 3,820 10,815 79,532 113,953 208,120
+Consumer(1) 5,835 143,516 176,157 9 325,517
+T otal $ 238,310 $ 935,552 $ 785,409 $ 565,909 $ 2,525,180
+Total Loans HFI with Fixed Rates $ 92,179 $ 368,970 $ 351,765 $ 27,226 $ 840,140
+T otal Loans HFI with Floating or Adjustable Rates 146,131 566,582 433,644 538,683 1,685,040
+Total $ 238,310 $ 935,552 $ 785,409 $ 565,909 $ 2,525,180
+(1)Demand loans and overdrafts are reported in the category of one year or less.
+Credit Quality
+Table 9 provides the components of nonperforming assets and various other credit quality and risk metrics at December 31st for
+the last three fiscal years. Information regarding our accounting policies related to nonaccruals, past due loans, and troubled debt
+restructurings is provided in Note 3 – Loans Held for Investment and Allowance for Credit Losses.
+Overall credit quality continues to remain strong. Nonperforming assets (nonaccrual loans and other real estate) totaled $2.7
+million at December 31, 2022 compared to $4.3 million at December 31, 2021. At December 31, 2022, nonperforming assets as a
+percent of total assets was 0.06%, a decrease of four basis points from December 31, 2021.
+46
+Table 9
+CREDIT QUALITY
+(Dollars in Thousands) 2022 2021 2020
+Nonaccruing Loans:
+C ommercial, Financial and Agricultural $ 41 $ 90 $ 161
+Real Estate – Construction 17 - 179
+R eal Estate – Commercial Mortgage 645 604 1,412
+Real Estate – Residential 239 2,097 3,130
+R eal Estate – Home Equity 771 1,319 695
+Consumer 584 212 294
+T otal Nonaccruing Loans 2,297 4,322 5,871
+Other Real Estate Owned 431 17 808
+T otal Nonperforming Assets $ 2,728 $ 4,339 $ 6,679
+Past Due Loans 30 – 89 Days $ 7,829 $ 3,600 $ 4,594
+P erforming Troubled Debt Restructurings 5,913 7,643 13,887
+Classified Loans $ 19,342 $ 17,912 $ 17,631
+Nonaccruing Loans/Loans 0.09% 0.22% 0.29 %
+N onperforming Assets/Total Assets 0.06 0.10 0.18
+Nonperforming Assets/Loans Plus OREO 0.11 0.22 0.33
+A llowance/Nonaccruing Loans 1,076.89 % 499.93% 405.66 %
+Nonaccrual Loans. Nonaccrual loans totaled $2.3 million at December 31, 2022, a $2.0 million decrease from December 31,
+2021. Generally, loans are placed on nonaccrual status if principal or interest payments become 90 days past due or management
+deems the collectability of the principal and interest to be doubtful. Once a loan is placed in nonaccrual status, all previously
+accrued and uncollected interest is reversed against interest income. Interest income on nonaccrual loans is recognized when the
+ultimate collectability is no longer considered doubtful. Loans are returned to accrual status when the principal and interest
+amounts contractually due are brought current or when future payments are reasonably assured. If interest on our loans classified
+as nonaccrual during 2022 had been recognized on a fully accruing basis, we would have recorded an additional $0.2 million of
+interest income for the year ended December 31, 2022.
+Other Real Estate Owned. OREO represents property acquired as the result of borrower defaults on loans or by receiving a deed
+in lieu of foreclosure. OREO is recorded at the lower of cost or estimated fair value, less estimated selling costs, at the time of
+foreclosure. Write-downs occurring at foreclosure are charged against the allowance for credit losses. On an ongoing basis,
+properties are either revalued internally or by a third-party appraiser as required by applicable regulations. Subsequent declines in
+value are reflected as other noninterest expense. Carrying costs related to maintaining the OREO properties are expensed as
+incurred and are also reflected as other noninterest expense.
+OREO totaled $0.4 million at December 31, 2022 versus $0.02 million at December 31, 2021. During 2022, we added properties
+totaling $2.4 million and sold properties totaling $2.0 million. For 2021, we added properties totaling $1.7 million, sold
+properties totaling $2.8 million, and recorded net favorable valuation adjustments totaling $0.3 million.
+Troubled Debt Restructurings (“TDRs”). TDRs are loans on which, due to the deterioration in the borrower’s financial condition,
+the original terms have been modified and deemed a concession to the borrower. From time to time we will modify a loan as a
+workout alternative. Most of these instances involve an extension of the loan term, an interest rate reduction, or a principal
+moratorium. A TDR classification can be removed if the borrower’s financial condition improves such that the borrower is no
+longer in financial difficulty, the loan has not had any forgiveness of principal or interest, and the loan is subsequently refinanced
+or restructured at market terms and qualifies as a new loan in calendar years after the year in which the restructuring took place.
+Loans classified as TDRs at December 31, 2022 totaled $6.1 million compared to $8.0 million at December 31, 2021. Accruing
+TDRs made up approximately $5.9 million of our TDR portfolio at December 31, 2022, of which $0.3 million was over 30 days
+past due. The weighted average rate for the loans within the accruing TDR portfolio was 5.96%. During 2022, we modified two
+loan contracts totaling approximately $0.1 million compared to three loan contracts totaling approximately $0.6 million during
+2021. Our TDR default rate (default balance as a percentage of average TDRs) in 2022 and 2021 was 0.0% and 4.1%,
+respectively.
+47
+Past Due Loans. A loan is defined as a past due loan when one full payment is past due or a contractual maturity is over 30 days
+past due. Past due loans at December 31, 2022 totaled $7.8 million compared to $3.6 million at December 31, 2021. Indirect
+auto loans represented a large portion of the increase and at December 31, 2022 reflected 73% of total dollars past due and 72%
+of total dollars past due at December 31, 2021.
+Potential Problem Loans. Potential problem loans are defined as those loans which are now current but where management has
+doubt as to the borrower’s ability to comply with present loan repayment terms. At December 31, 2022, we had $2.8 million in
+loans of this type which were not included in either of the nonaccrual, TDR or 90 day past due loan categories compared to $1.5
+million at December 31, 2021. Management monitors these loans closely and reviews their performance on a regular basis.
+Loan Concentrations. Loan concentrations exist when there are amounts loaned to multiple borrowers engaged in similar
+activities which cause them to be similarly impacted by economic or other conditions and such amount exceeds 10% of total
+loans. Due to the lack of diversified industry within our markets and the relatively close proximity of the markets, we have both
+geographic concentrations as well as concentrations in the types of loans funded. Specifically, due to the nature of our markets, a
+significant portion of our HFI loan portfolio has historically been secured with real estate, approximately 77% at December 31,
+2022 and 72% at December 31, 2021 with the increase driven by a higher volume of 1-4 family residential real estate loans
+originated in 2022. The primary types of real estate collateral are commercial properties and 1-4 family residential properties.
+We review our loan portfolio segments and concentration limits on an ongoing basis and will make adjustments as needed to
+mitigate/reduce risk to segments that reflect decline or stress.
+We have established an internal lending limit of $10 million for the total aggregate amount of credit that will be extended to a
+client and any related entities within our Board approved policies. This compares to our legal lending limit of approximately $91
+million.
+The following table summarizes our real estate loan category as segregated by the type of property. Property type concentrations
+are stated as a percentage of total real estate loans at December 31.
+Table 10
+REAL ESTATE LOANS BY PROPERTY TYPE
+2022 2021
+Owner Owner
+Investor Occupied Investor Occupied
+Real Estate Real Estate Real Estate Real Estate
+V acant Land, Construction, and Land Development 15.0 % - 18.1 % -
+Improved Property 27.7 57.3 % 28.4 53.5 %
+T otal Real Estate Loans 42.7 % 57.3 % 46.5 % 53.5 %
+A major portion of our real estate loan category is centered in the owner occupied category which carries a lower risk of non-
+collection than certain segments of the investor category. Approximately 42% of the investor real estate category was secured by
+residential real estate at December 31, 2022.
+Allowance for Credit Losses
+The allowance for credit losses is a valuation account that is deducted from the loans’ amortized cost basis to present the net
+amount expected to be collected on the loans. The allowance for credit losses is adjusted by a credit loss provision which is
+reported in earnings and reduced by the charge-off of loan amounts, net of recoveries. Loans are charged off against the
+allowance when management believes the uncollectability of a loan balance is confirmed. Expected recoveries do not exceed the
+aggregate of amounts previously charged-off and expected to be charged-off. Expected credit loss inherent in non-cancellable
+off-balance sheet credit exposures is provided through the credit loss provision, but recorded separately in other liabilities.
+Management estimates the allowance balance using relevant available information, from internal and external sources, relating to
+past events, current conditions, and reasonable and supportable forecasts. Historical loan default and loss experience provides the
+basis for the estimation of expected credit losses. Adjustments to historical loss information incorporate management’s view of
+current conditions and forecasts.
+Detailed information regarding the methodology for estimating the amount reported in the allowance for credit losses is provided
+in Note 1 – Significant Accounting Policies/Allowance for Credit Losses in the Consolidated Financial Statements.
+48
+Note 3 – Loans Held for Investment and Allowance for Credit Losses in the Consolidated Financial Statements provides the
+activity in the allowance and the allocation by loan type for each of the past three fiscal years.
+For 2022, we realized net loan charge-offs of $3.9 million, or 0.18%, of average HFI loans, compared to net loan recoveries of
+$0.6 million, or 0.03%, for 2021, and net loan charge-offs of $2.4 million, or 0.12%, for 2020. A majority of the increase in 2022
+reflected higher commercial loan charge-offs and consumer loan (indirect auto) charge-offs, as well as a significant reduction in
+loan recoveries. The increase in commercial loan charge-offs was primarily attributable to one problem loan relationship that was
+resolved in the second quarter of 2022.
+At December 31, 2022, the allowance for credit losses represented 0.98% of HFI loans and provided coverage of 1,077% of
+nonperforming loans compared to 1.12% and 500%, respectively, at December 31, 2021 and 1.19% and 406%, respectively, at
+December 31, 2020.
+At December 31, 2022, the allowance for credit losses for HFI loans totaled $24.7 million compared to $21.6 million at December
+31, 2021 and $23.8 million at December 31, 2020. Incremental allowance related to loan growth, a higher projected rate of
+unemployment and its effect on rates of default, and slower prepayment speeds (due to higher interest rates) were all contributing
+factors driving the $3.1 million increase in the allowance during 2022. The $2.2 million decrease in the allowance for credit
+losses in 2021 reflected improvements in forecasted economic conditions, favorable loan migration and net loan recoveries
+totaling $0.6 million, partially offset by incremental reserves needed for loan growth (excluding SBA PPP).
+Table 11
+ALLOCATION OF ALLOWANCE FOR CREDIT LOSSES
+2022 2021 2020
+Percent of Percent of Percent of
+ACL Loans to ACL Loans to ACL Loans to
+(Dollars in Thousands) Amount Total Loans Amount Total Loans Amount Total Loans
+C ommercial, Financial and Agricultural $ 1,506 9.8 % $ 2,191 11.6 % $ 2,204 19.6 %
+Real Estate:
+C onstruction 2,654 9.3 3,302 9.0 2,479 6.8
+Commercial 4,815 31.0 5,810 34.4 7,029 32.3
+R esidential 10,409 28.8 4,129 18.6 5,440 17.6
+Home Equity 1,864 8.2 2,296 9.7 3,111 10.2
+C onsumer 3,488 12.9 3,878 16.7 3,553 13.5
+T otal $ 24,736 100 % $ 21,606 100 % $ 23,816 100 %
+Investment Securities
+Our average investment portfolio balance increased $318.8 million, or 40.7%, in 2022 and increased $203.4 million, or 35.1%, in
+2021. As a percentage of average earning assets, our investment portfolio represented 27.6% in 2022, compared to 21.4% in
+2021. In 2022, the growth in the investment portfolio was attributable to an investment purchase program implemented to take
+advantage of higher rates and deploy a portion of our excess liquidity , in addition to reinvesting a portion of the portfolio cash
+flow during the year. As we continue to monitor our overall liquidity levels throughout 2023, we will allow cash flow from the
+investment portfolio to run-off and we will review various investment strategies as appropriate.
+In 2022, average taxable investments increased $319.9 million, or 41.1%, while tax-exempt investments decreased $1.1 million,
+or 29.3%. Taxable bonds increased as part of our overall investment strategy, and non-taxable investments decreased as the tax-
+equivalent yield was generally unattractive throughout 2022 compared to taxable investments. At December 31, 2022, municipal
+securities (taxable and non-taxable) comprised 3.8% of the portfolio.
+Our investment portfolio is a significant component of our operations and, as such, it functions as a key element of liquidity and
+asset/liability management. Two types of classifications are approved for investment securities which are Available -for-Sale
+(“AFS”) and Held-for-Maturity (“HTM”). In 2022 and 2021, we purchased securities under both the AFS and HTM designations.
+At December 31, 2022, $413.3 million, or 38.5% of our investment portfolio was classified as AFS, with $660.7 million, or
+61.5%, classified as HTM. At December 31, 2021, the AFS and HTM portfolio comprised 65.8% and 34.1%, respectively.
+During the third quarter of 2022, U.S. Treasury obligations totaling $168.4 million with unrealized losses of $9.4 million were
+transferred from AFS to HTM. At December 31, 2022, $7.9 million was remaining in unrealized losses for these securities.
+49
+Table 12 provides the composition of our investment securities portfolio at December 31 for each of the last three fiscal years.
+Table 12
+INVESTMENT SECURITIES COMPOSITION
+2022 2021 2020
+Carrying Carrying Carrying
+(Dollars in Thousands) Amount Percent Amount Percent Amount Percent
+Available for Sale
+U .S. Government Treasury $ 22,050 2.1 % $ 187,868 18.9 % $ 104,519 21.1%
+U.S. Government Agency 186,052 17.3 237,578 23.9 208,531 42.2
+S tates and Political Subdivisions 40,329 3.8 46,980 4.7 3,632 0.7
+Mortgage-Backed Securities 69,405 6.5 88,869 8.9 515 0.1
+C orporate Debt Securities 88,236 8.2 86,222 8.7 - -
+Other Securities 7,222 0.6 7,094 0.7 7,673 1.6
+T otal 413,294 38.5 654,611 65.8 324,870 65.7
+H eld to Maturity
+U.S. Government Treasury 457,374 42.6 115,499 11.6 5,001 1.0
+M ortgage-Backed Securities 203,370 18.9 224,102 22.5 164,938 33.3
+Total 660,744 61.5 339,601 34.1 169,939 34.3
+Other Equity Securities 10 - 861 0.1 - -
+Total Investment Securities $ 1,074,048 100 % $ 995,073 100 % $ 494,809 100 %
+The classification of a security is determined upon acquisition based on how the purchase will affect our asset/liability strategy
+and future business plans and opportunities. Classification determinations will also factor in regulatory capital requirements,
+volatility in earnings or other comprehensive income, and liquidity needs. Securities in the AFS portfolio are recorded at fair
+value with unrealized gains and losses associated with these securities recorded net of tax, in the accumulated other
+comprehensive income (loss) component of shareowners’ equity. Securities designated as HTM are those acquired or owned with
+the intent of holding them to maturity (final payment date). HTM investments are measured at amortized cost. It is neither
+management’s current intent nor practice to participate in the trading of investment securities for the purpose of recognizing gains
+and therefore we do not maintain a trading portfolio.
+At December 31, 2022, there were 928 positions (combined AFS and HTM) with pre-tax unrealized losses totaling $90.0 million.
+The GNMA mortgage-backed securities, U.S. Treasuries, and SBA securities held carry the full faith and credit guarantee of the
+U.S. Government, and are 0% risk-weighted assets. Other mortgage-backed securities held (Federal National Mortgage
+Association and Federal Home Loan Mortgage Corporation) are issued by U.S. Government sponsored entities. Direct
+obligations of U.S. Government agencies (Federal Farm Credit Bank and Federal Home Loan Bank of Atlanta) are also owned.
+We believe the long history of no credit losses on government securities indicates that the expectation of nonpayment of the
+amortized cost basis is zero. A large portion of the SBA securities float monthly or quarterly with the prime rate and are
+uncapped. The remaining positions owned are municipal and corporate bonds. At December 31, 2022, 26 corporate positions
+had a total allowance for credit loss of $28,000 and 21 municipal positions had a total allowance for credit loss of $13,000. All of
+these positions maintain an overall rating of at least “A-”, and all are expected to mature at par.
+The average maturity of our investment portfolio at December 31, 2022 was 3.57 years compared to 3.62 years at December 31,
+2021. The average life of our investment portfolio decreased slightly primarily due to the natural aging of the portfolio, partially
+offset by a portion of the portfolio being reinvested into short-to-intermediate term securities.
+The weighted average taxable equivalent yield of our investment portfolio at December 31, 2022 was 2.03% versus 1.12% in
+2021. This increase in yield reflected higher reinvestment rates during 2022. Our bond portfolio contained no investments in
+obligations, other than U.S. Governments, of any state, municipality, political subdivision, or any other issuer that exceeded 10%
+of our shareowners’ equity at December 31, 2022.
+Table 13 and Note 2 in the Notes to Consolidated Financial Statements present a detailed analysis of our investment securities as
+to type, maturity, unrealized losses, and yield at December 31.
+50
+Table 13
+MATURITY DISTRIBUTION OF INVESTMENT SECURITIES
+Within 1 year 1 - 5 years 5 - 10 years After 10 years Total
+(Dollars in
+Thousands) Amount WAY(3) Amount WAY(3) Amount WAY(3) Amount WAY(3) Amount WAY(3)
+Available for Sale
+U .S. Government
+Treasury $ 2,862 4.40 % $ 19,188 0.70 % $ - - % $ - - % $ 22,050 1.18 %
+U.S. Government
+Agency 40,904 1.39 143,233 2.99 1,915 1.70 - - 186,052 2.62
+S tates and Political
+Subdivisions 4,039 1.42 17,298 1.35 18,992 1.85 - - 40,329 0.72
+Mortgage-Backed
+Securities(1) 1 2.03 4,424 1.26 46,069 2.13 18,911 2.39 69,405 2.14
+C orporate Debt
+Securities 1,000 5.05 65,554 1.77 21,682 2.18 - - 88,236 1.91
+Other Securities(2) - - - - - - 7,222 5.79 7,222 5.79
+T otal $ 48,806 1.64 % $ 249,697 2.35 % $ 88,658 2.07 % $ 26,133 3.33 % $ 413,294 2.23 %
+H eld to Maturity
+U.S. Government
+Treasury $ - - % $ 457,374 1.93 % $ - - % $ - - % $ 457,374 1.93 %
+M ortgage-Backed
+Securities(1) 2,582 2.59 138,781 1.83 62,007 1.80 - - 203,370 1.83
+Total $ 2,582 2.59 % $ 596,155 1.91 % $ 62,007 1.80 % $ - - % $ 660,744 1.90 %
+E quity Securities $ - - % $ - - % $ - - % $ 10 5.63 % $ 10 5.63 %
+T otal Investment
+Securities $ 51,388 1.69 % $ 845,852 2.04 % $ 150,665 1.96 % $ 26,143 3.34 % $ 1,074,048 2.03 %
+(1) Based on weighted-average maturity.
+(2) Federal Home Loan Bank Stock and Federal Reserve Bank Stock are included in this category for weighted average yield, but do not have stated maturities.
+(3) Weighted average yield calculated based on current amortized cost balances – not presented on a tax equivalent basis.
+Deposits and Short-Term Borrowings
+Average total deposits for 2022 were $3.763 billion, an increase of $356.5 million, or 10.5%, over 2021. Average deposits
+increased $562.5 million, or 19.8%, from 2020 to 2021. Both year-over-year increases occurred in all deposit types except
+certificates of deposit, with the largest increases occurring in noninterest bearing, NOW accounts, and savings accounts.
+Strong deposit growth occurred during 2022 reflecting additional federal stimulus inflows as well as core deposit growth. In
+addition, strong seasonal growth of public funds occurred in the fourth quarter of 2022 which is expected to be drawn down over
+the course of 2023.
+The FOMC has increased their benchmark interest rate aggressively by 425 basis points during 2022. This resulted in a shift in
+deposit mix which we began to see in the fourth quarter of 2022, primarily in two large corporate clients totaling approximately
+$40 million that migrated from noninterest bearing to interest bearing deposit accounts. Also in the fourth quarter, we began to
+realize some run-off of stimulus funds and core deposits from our more rate sensitive clients in favor of higher yielding
+investments. We have several strategies in place to protect core deposits and mitigate deposit run-off, and we will continue to
+closely monitor several metrics such as the sensitivity of our clients to our deposit rates, our overall liquidity position, and
+competitor rates when pricing deposits. This strategy is consistent with previous rate cycles and allows us to manage the mix of
+our deposits as well as the overall client relationship rather than competing solely on rate. We believe this enabled us to maintain
+a low cost of funds (interest expense/average earning assets) of 17 basis points for 2022 and 10 basis points for 2021.
+51
+Table 2 provides an analysis of our average deposits, by category, and average rates paid thereon for each of the last three fiscal
+years. Table 14 reflects the shift in our deposit mix over the last year and Table 15 provides a maturity distribution of time
+deposits in denominations of $250,000 and over at December 31, 2022. For 2022, noninterest bearing deposits represented 44.9%
+of total average deposits. This compares to 44.7% in 2021 and 44.1% in 2020.
+Average short -term borrowings decreased $13.0 million in 2022 primarily due to the decline in warehouse line borrowings at
+CCHL that are used to support our held for sale loan portfolio. See Note 11 in the Notes to Consolidated Financial Statements for
+additional information on short-term borrowings.
+We continue to focus on the value of our deposit franchise, which produces a strong base of core deposits with minimal reliance
+on wholesale funding.
+Table 14
+SOURCES OF DEPOSIT GROWTH
+2021 to Percentage Components of
+2022 of Total Total Deposits
+(Average Balances - Dollars in Thousands) Change Change 2022 2021 2020
+N oninterest Bearing Deposits $ 167,415 47.0 % 44.9 % 44.7 % 44.1 %
+NOW Accounts 100,518 28.2 28.3 28.3 29.0
+M oney Market Accounts 4,801 1.3 7.5 8.2 8.3
+Savings Accounts 91,290 25.6 16.7 15.8 14.9
+T ime Deposits (7,574) (2.1) 2.6 3.0 3.7
+Total Deposits $ 356,450 100 % 100 % 100 % 100 %
+Table 15
+MATURITY DISTRIBUTION OF CERTIFICATES OF DEPOSITS GREATER THAN $250,000
+2022
+Certificates
+(Dollars in Thousands) of Deposit Percent
+T hree months or less $ 1,518 12.2 %
+Over three through six months 2,356 18.9
+O ver six through twelve months 2,527 20.3
+Over twelve months 6,048 48.6
+T otal $ 12,449 100 %
+Market Risk and Interest Rate Sensitivity
+Overview. Market risk arises from changes in interest rates, exchange rates, commodity prices, and equity prices. We have risk
+management policies designed to monitor and limit exposure to market risk and we do not participate in activities that give rise to
+significant market risk involving exchange rates, commodity prices, or equity prices. In asset and liability management activities,
+our policies are designed to minimize structural interest rate risk.
+Interest Rate Risk Management. Our net income is largely dependent on net interest income. Net interest income is susceptible to
+interest rate risk to the degree that interest-bearing liabilities mature or reprice on a different basis than interest-earning
+assets. When interest-bearing liabilities mature or reprice more quickly than interest-earning assets in a given period, a significant
+increase in market rates of interest could adversely affect net interest income. Similarly, when interest-earning assets mature or
+reprice more quickly than interest-bearing liabilities, falling market interest rates could result in a decrease in net interest
+income. Net interest income is also affected by changes in the portion of interest-earning assets that are funded by interest-
+bearing liabilities rather than by other sources of funds, such as noninterest -bearing deposits and shareowners’ equity.
+52
+We have established what we believe to be a comprehensive interest rate risk management policy, which is administered by
+management’s Asset Liability Management Committee (“ALCO”). The policy establishes limits of risk, which are quantitative
+measures of the percentage change in net interest income (a measure of net interest income at risk) and the fair value of equity
+capital (a measure of economic value of equity (“EVE”) at risk) resulting from a hypothetical change in interest rates for
+maturities from one day to 30 years. We measure the potential adverse impacts that changing interest rates may have on our
+short-term earnings, long-term value, and liquidity by employing simulation analysis through the use of computer modeling. The
+simulation model captures optionality factors such as call features and interest rate caps and floors imbedded in investment and
+loan portfolio contracts. As with any method of gauging interest rate risk, there are certain shortcomings inherent in the interest
+rate modeling methodology used by us. When interest rates change, actual movements in different categories of interest-earning
+assets and interest-bearing liabilities, loan prepayments, and withdrawals of time and other deposits, may deviate significantly
+from assumptions used in the model. Finally, the methodology does not measure or reflect the impact that higher rates may have
+on adjustable-rate loan clients’ ability to service their debts, or the impact of rate changes on demand for loan and deposit
+products.
+The statement of financial condition is subject to testing for interest rate shock possibilities to indicate the inherent interest rate
+risk. We prepare a current base case and several alternative interest rate simulations (+/- 100, 200, 300, and 400 basis points
+(bp)), at least once per quarter, and report the analysis to ALCO, our Market Risk Oversight Committee (“MROC”), our Risk
+Oversight Committee (“ROC”) and the Board of Directors. (The -200bp, -300bp, and -400bp rate scenarios were not modeled in
+2021 due to the low interest rate environment below 2.00%). We augment our interest rate shock analysis with alternative interest
+rate scenarios on a quarterly basis that may include ramps, parallel shifts, and a flattening or steepening of the yield curve (non-
+parallel shift). In addition, more frequent forecasts may be produced when interest rates are particularly uncertain or when other
+business conditions so dictate.
+Our goal is to structure the statement of financial condition so that net interest earnings at risk over 12-month and 24-month
+periods and the economic value of equity at risk do not exceed policy guidelines at the various interest rate shock levels. We
+attempt to achieve this goal by balancing, within policy limits, the volume of floating-rate liabilities with a similar volume of
+floating-rate assets, by keeping the average maturity of fixed-rate asset and liability contracts reasonably matched, by managing
+the mix of our core deposits, and by adjusting our rates to market conditions on a continuing basis. At December 31, 2022, the
+instantaneous rate shock of -200bp, -300bp and -400bp over 12-months and over 24-months was outside of the desired parameters
+due to the limited ability to reprice deposits in these respective shock scenarios.
+Analysis. Measures of net interest income at risk produced by simulation analysis are indicators of an institution’s short-term
+performance in alternative rate environments. These measures are typically based upon a relatively brief period, and do not
+necessarily indicate the long-term prospects or economic value of the institution.
+Table 16
+ESTIMATED CHANGES IN NET INTEREST INCOME(1)
+Percentage Change (12-month shock) +400 bp +300 bp +200 bp +100 bp -100 bp -200 bp -300 bp -400 bp
+Policy Limit -15.0 % -12.5 % -10.0 % -7.5% -7.5 % -10.0 % -12.5 % -15.0 %
+December 31, 2022 11.3% 8.4 % 5.5% 2.8% -5.0 % -12.3 % -20.0 % -27.1 %
+December 31, 2021 36.6% 27.2 % 17.8% 8.7% -6.2 % n/a % n/a% n/a %
+Percentage Change (24-month shock) +400 bp +300 bp +200 bp +100 bp -100 bp -200 bp -300 bp -400 bp
+Policy Limit -17.5 % -15.0 % -12.5 % -10.0 % -10.0 % -12.5 % -15.0 % -17.5 %
+December 31, 2022 31.3% 25.2 % 19.0% 13.1% -2.0 % -13.8 % -25.7 % -36.3 %
+December 31, 2021 55.0% 40.5 % 26.1% 12.2% -11.1 % n/a % n/a% n/a %
+The Net Interest Income at risk position was generally less favorable at December 31, 2022 compared to December 31, 2021 for
+the 12-month and 24-month shocks for rising rate scenarios. Strong loan growth and a reduction in our overnight funds balance
+during the year made us less asset sensitive, which is less favorable in rising rate environments, and more favorable in a falling
+rate environment.
+Net Interest Income at risk is within our prescribed policy limits over both the 12-month and 24-month periods for all rising rate
+scenarios, and the down 100 bps rate scenario. The percent change over both a 12-month and 24-month shock are outside of
+policy in a rates down 200 bps, down 300 bps, and down 400 bps scenarios due to our limited ability to lower our deposit rates
+relative to the decline in market rate. In addition, this analysis incorporates an instantaneous, parallel shock and assumes we
+move with market rates and do not lag our deposit rates.
+53
+The measures of equity value at risk indicate our ongoing economic value by considering the effects of changes in interest rates
+on all of our cash flows by discounting the cash flows to estimate the present value of assets and liabilities. The difference
+between these discounted values of the assets and liabilities is the economic value of equity, which in theory approximates the fair
+value of our net assets.
+Table 17
+ESTIMATED CHANGES IN ECONOMIC VALUE OF EQUITY(1)
+Changes in Interest Rates +400 bp +300 bp +200 bp +100 bp -100 bp -200 bp -300 bp -400 bp
+Policy Limit -30.0 % -25.0 % -20.0 % -15.0 % -15.0 % -20.0 % -25.0 % -30.0 %
+December 31, 2022 11.0 % 9.0% 6.4 % 3.6% -7.4 % -18.8 % -30.9 % -40.1 %
+December 31, 2021 31.5 % 24.6% 16.5 % 8.2% -19.0 % n/a% n/a % n/a%
+E VE Ratio (policy minimum 5.0%) 21.7 % 21.0% 20.1 % 19.2% 16.6 % 14.3% 12.0 % 10.2%
+(1) Down 200, 300 and 400 bp rate scenarios have been added due to the current interest rate environment.
+At December 31, 2022, the economic value of equity was favorable in all rising rate environments and was within prescribed
+tolerance levels. Factors that can impact EVE values include the absolute level of rates, the overall structure of the balance sheet
+(including liquidity levels), pre-payment speeds, loan floors, and the change of model assumptions.
+Although the change in EVE exceeds policy guidelines in the down 300 bps and down 400 bps rate scenarios, the EVE Ratios
+(EVE/EVA) were 12.0% and 10.2%, respectively, at December 31, 2022 and were therefore within policy guidelines. EVE is out
+of compliance only if BOTH the EVE and EVE ratio are outside of policy guidelines. Therefore, EVE is currently in compliance
+with policy in all rate scenarios.
+As the interest rate environment and the dynamics of the economy continue to change, additional simulations will be analyzed to
+address not only the changing rate environment, but also the changing statement of financial condition mix, measured over
+multiple years, to help assess the risk to the Company.
+LIQUIDITY AND CAPITAL RESOURCES
+Liquidity
+In general terms, liquidity is a measurement of our ability to meet our cash needs. Our objective in managing our liquidity is to
+maintain our ability to fund loan commitments, purchase securities, accommodate deposit withdrawals or repay other liabilities in
+accordance with their terms, without an adverse impact on our current or future earnings. Our liquidity strategy is guided by
+policies that are formulated and monitored by our ALCO and senior management, and which take into account the marketability
+of assets, the sources and stability of funding and the level of unfunded commitments. We regularly evaluate all of our various
+funding sources with an emphasis on accessibility, stability, reliability, and cost-effectiveness. For 2022 and 2021, our principal
+source of funding was client deposits, supplemented by our short-term and long-term borrowings, primarily from our trust-
+preferred securities, securities sold under repurchase agreements, federal funds purchased, and FHLB borrowings. We believe
+that the cash generated from operations, our borrowing capacity and our access to capital resources are sufficient to meet our
+future operating capital and funding requirements.
+At December 31, 2022, we had the ability to generate approximately $1.354 billion in additional liquidity through all of our
+available resources beyond our overnight funds sold position. In addition to the primary borrowing outlets mentioned above, we
+also have the ability to generate liquidity by borrowing from the Federal Reserve Discount Window and through brokered
+deposits. We recognize the importance of maintaining liquidity and have developed a Contingent Liquidity Plan, which addresses
+various liquidity stress levels and our response and action based on the level of severity. We periodically test our credit facilities
+for access to the funds, but also understand that as the severity of the liquidity level increases certain credit facilities may no
+longer be available. We conduct quarterly liquidity stress tests and the results are reported to ALCO, MROC, ROC and the Board
+of Directors. We believe the liquidity available to us is sufficient to meet our ongoing needs.
+We also view our investment portfolio as a liquidity source and have the option to pledge securities in our portfolio as collateral
+for borrowings or deposits, and/or to sell selected securities. Our portfolio consists of debt issued by the U.S. Treasury, U.S.
+governmental agencies, municipal governments, and corporate entities. The weighted-average maturity of our portfolio was 3.57
+years at December 31, 2022 and the available-for-sale portfolio had a net unrealized pre-tax loss of $41.9 million.
+54
+Our average net overnight funds sold position (defined as funds sold plus interest-bearing deposits with other banks less funds
+purchased) was $649.8 million in 2022 compared to an average net overnight funds sold position of $790.9 million in 2021. The
+declining overnight funds position in 2022 reflected strong growth in average loans.
+We expect capital expenditures over the next 12 months to be approximately $8.0 million, which will consist primarily of
+technology purchases for banking offices, office leasehold improvements, business applications, and information technology
+security needs as well as furniture and fixtures and banking office remodels. We expect that these capital expenditures will be
+funded with existing resources without impairing our ability to meet our ongoing obligations.
+Borrowings
+At December 31, 2022, total advances from the FHLB consisted of $0.6 million in outstanding debt comprised of three notes. In
+2022, the Bank made FHLB advance payments totaling $0.9 million. Two advances matured, none were paid off, and no new
+fixed rate advances were obtained in 2022. The FHLB notes are collateralized by a floating lien on certain 1-4 family residential
+mortgage loans, commercial real estate mortgage loans, and home equity mortgage loans.
+We have issued two junior subordinated deferrable interest notes to wholly owned Delaware statutory trusts. The first note for
+$30.9 million was issued to CCBG Capital Trust I in November 2004. The second note for $32.0 million was issued to CCBG
+Capital Trust II in May 2005.
+In the second quarter of 2020, we entered into a derivative cash flow hedge of our interest rate risk related to our subordinated
+debt. The notional amount of the derivative is $30 million ($10 million of the CCBG Capital Trust I borrowing and $20 million
+of the CCBG Capital Trust II borrowing). The interest rate swap agreement requires CCBG to pay fixed and receive variable
+(Libor plus spread) and has an average all-in fixed rate of 2.50% for 10 years. Additional detail on the interest rate swap
+agreement is provided in Note 5 – Derivatives in the Consolidated Financial Statements.
+For 2022, average short-term borrowings, consisting primarily of CCHL warehouse line balances, declined $13.0 million
+compared to 2021 due to lower residential loan production volume which reduced short-term borrowing needs.
+See Note 11 – Short Term Borrowings and Note 12 – Long Term Borrowings in the Notes to Consolidated Financial Statements
+for additional information on borrowings.
+In the ordinary course of business, we have entered into contractual obligations and have made other commitments to make future
+payments. Refer to the accompanying notes to consolidated financial statements elsewhere in this report for the expected timing
+of such payments as of December 31, 2022. These include payments related to (i) long-term borrowings (Note 12 – Long-Term
+Borrowings), (ii) short-term borrowings (Note 11 – Short-Term Borrowings), (iii) operating leases (Note 7 – Leases), (iv) time
+deposits with stated maturities (Note 10 – Deposits), and (v) commitments to extend credit and standby letters of credit (Note 21 –
+Commitments and Contingencies).
+Capital Resources
+Shareowners’ equity was $394.0 million at December 31, 2022 compared to $383.2 million at December 31, 2021. For 2022,
+shareowners’ equity was positively impacted by net income attributable to common shareowners of $40.1 million, a $3.1 million
+increase in the fair value of the interest rate swap related to subordinated debt, stock compensation accretion of $1.3 million, net
+adjustments totaling $1.6 million related to transactions under our stock compensation plans, and an $8.7 million decrease in the
+accumulated other comprehensive loss for our pension plan. Shareowners’ equity was reduced by common stock dividends of
+$11.2 million ($0.66 per share) and a $32.8 million increase in the unrealized loss on investment securities. Additional historical
+information on capital changes is provided in the Consolidated Statements of Changes in Shareowners’ Equity in the
+Consolidated Financial Statements.
+We continue to maintain a strong capital position. The ratio of shareowners' equity to total assets at December 31, 2022 was
+8.71% compared to 8.99% at December 31, 2021. Further, our tangible common equity ratio was 6.79 % (non-GAAP financial
+measure) at December 31, 2022 compared to 6.95% at December 31, 2021. The decline in the ratios in 2022 was substantially
+due to an increase in the unrealized loss on available-for-sale securities.
+We are subject to regulatory risk-based capital requirements that measure capital relative to risk-weighted assets and off-balance
+sheet financial instruments. At December 31, 2022, our total risk-based capital ratio was 15.52% compared to 17.15% at
+December 31, 2021. Our common equity tier 1 capital ratio was 12.64% and 13.86%, respectively, on these dates. Our leverage
+ratio was 9.06% and 8.95%, respectively, on these dates. With the exception of the leverage ratio, the decline in our regulatory
+capital ratios compared to 2021 was attributable to strong loan growth during 2022. For a detailed discussion of our regulatory
+capital requirements, refer to the “Regulatory Considerations – Capital Regulations” section on page 15. See Note 17 in the
+Notes to Consolidated Financial Statements for additional information as to our capital adequacy.
+55
+At December 31, 2022, our common stock had a book value of $23.12 per diluted share compared to $22.63 at December 31,
+2021. Book value is impacted by the net unrealized gains and losses on investment securities. At December 31, 2022, the net
+unrealized loss was $37.3 million compared to an unrealized loss of $4.6 million at December 31, 2021. Book value is also
+impacted by the recording of our unfunded pension liability through other comprehensive income in accordance with Accounting
+Standards Codification Topic 715. At December 31, 2022, the net pension liability reflected in accumulated other comprehensive
+loss was $4.5 million compared to $13.2 million at December 31, 2021. The favorable adjustment to our unfunded pension
+liability reflected a higher discount rate used to calculate the present value of the pension obligation that was partially offset by a
+lower than estimated return on plan assets. The higher discount rate reflected the increase in long-term interest rates in 2022.
+This adjustment also favorably impacted our tangible capital ratio. Further, book value is impacted by the periodic adjustment
+made to record temporary equity at redemption value and there were no adjustments made during 2022.
+In February 2014, our Board of Directors authorized the repurchase of up to 1,500,000 shares of our outstanding common stock
+over a five-year period. Repurchases under the 2014 plan could be made in the open market or in privately negotiated
+transactions; however, we were not obligated to repurchase any specified number of shares. In January 2019, the 2014 plan was
+terminated and our Board of Directors approved a new share repurchase plan that authorizes the repurchase of up to 750,000
+shares of our outstanding common stock over a five-year period. Terms of this plan are substantially similar to the 2014 plan. No
+shares were repurchased in 2022 or 2021. 99,952 shares were repurchased in 2020 at an average price of $20.39 and 77,000
+shares were repurchased in 2019 at an average price of $23.40. Since 2014, a total of 1,361,682 shares of our outstanding
+common stock have been repurchased at an average price of $17. 93 under our stock repurchase plans. In January 2023, we
+repurchased 25,000 shares of our common stock at $32.39 per share.
+Dividends
+Adequate capital and financial strength are paramount to our stability and the stability of CCB. Cash dividends declared and paid
+should not place unnecessary strain on our capital levels. When determining the level of dividends, the following factors are
+considered:
+● Compliance with state and federal laws and regulations;
+● Our capital position and our ability to meet our financial obligations;
+● Projected earnings and asset levels; and
+● The ability of the Bank and us to fund dividends.
+OFF-BALANCE SHEET ARRANGEMENTS
+We are a party to financial instruments with off-balance sheet risks in the normal course of business to meet the financing needs
+of our clients. See Note 21 in the Notes to Consolidated Financial Statements.
+If commitments arising from these financial instruments continue to require funding at historical levels, management does not
+anticipate that such funding will adversely impact our ability to meet on-going obligations. In the event these commitments
+require funding in excess of historical levels, management believes current liquidity, investment security maturities, available
+advances from the FHLB and Federal Reserve Bank, and warehouse lines of credit provide a sufficient source of funds to meet
+these commitments.
+In conjunction with the sale and securitization of loans held for sale and their related servicing rights, we may be exposed to
+liability resulting from recourse, repurchase, and make-whole agreements. If it is determined subsequent to our sale of a loan or
+its related servicing rights that a breach of the representations or warranties made in the applicable sale agreement has occurred,
+which may include guarantees that prepayments will not occur within a specified and customary time frame, we may have an
+obligation to either (a) repurchase the loan for the unpaid principal balance, accrued interest, and related advances; (b) indemnify
+the purchaser against any loss it suffers; or (c) make the purchaser whole for the economic benefits of the loan and its related
+servicing rights.
+Our repurchase, indemnification and make-whole obligations vary based upon the terms of the applicable agreements, the nature
+of the asserted breach, and the status of the mortgage loan at the time a claim is made. We establish reserves for estimated losses
+of this nature inherent in the origination of mortgage loans by estimating the losses inherent in the population of all loans sold
+based on trends in claims and actual loss severities experienced. The reserve will include accruals for probable contingent losses
+in addition to those identified in the pipeline of claims received. The estimation process is designed to include amounts based on
+actual losses experienced from actual activity.
+56
+ACCOUNTING POLICIES
+Critical Accounting Policies and Estimates
+The consolidated financial statements and accompanying Notes to Consolidated Financial Statements are prepared in accordance
+with accounting principles generally accepted in the United States of America, which require us to make various estimates and
+assumptions (see Note 1 in the Notes to Consolidated Financial Statements). We believe that, of our significant accounting
+policies, the following may involve a higher degree of judgment and complexity.
+Allowance for Credit Losses. The amount of the allowance for credit losses represents management’s best estimate of current
+expected credit losses considering available information, from internal and external sources, relevant to assessing exposure to
+credit loss over the contractual term of the instrument. Relevant available information includes historical credit loss experience,
+current conditions, and reasonable and supportable forecasts. While historical credit loss experience provides the basis for the
+estimation of expected credit losses, adjustments to historical loss information may be made for changes in loan risk grades, loss
+experience trends, loan prepayment trends, differences in current portfolio-specific risk characteristics, environmental conditions,
+future expectations, or other relevant factors. While management utilizes its best judgment and information available, the
+ultimate adequacy of our allowance accounts is dependent upon a variety of factors beyond our control, including the
+performance of our portfolios, the economy, changes in interest rates, and the view of the regulatory authorities toward
+classification of assets. Detailed information on the Allowance for Credit Losses valuation, and the assumptions used are provided
+in Note 1 – Significant Accounting Policies of the Notes to Consolidated Financial Statements.
+Goodwill. Goodwill represents the excess of the cost of acquired businesses over the fair value of their identifiable net
+assets. We perform an impairment review on an annual basis or more frequently if events or changes in circumstances indicate
+that the carrying value may not be recoverable. Adverse changes in the economic environment, declining operations, or other
+factors could result in a decline in the estimated implied fair value of goodwill. If the estimated implied fair value of goodwill is
+less than the carrying amount, a loss would be recognized to reduce the carrying amount to the estimated implied fair value.
+We evaluate goodwill for impairment on an annual basis and in 2017 adopted Accounting Standards Update 2017-04, Intangibles
+– Goodwill and Other (Topic 350): Simplifying Accounting for Goodwill Impairment which allows for a qualitative assessment
+of goodwill impairment indicators. If the assessment indicates that impairment has more than likely occurred, the Company must
+compare the estimated fair value of the reporting unit to its carrying amount. If the carrying amount of the reporting unit exceeds
+its estimated fair value, an impairment charge is recorded equal to the excess.
+During the fourth quarter of 2022, we performed our annual impairment testing. We proceeded with qualitative assessment by
+evaluating impairment indicators and concluded there were none that indicated that goodwill impairment had occurred.
+Pension Assumptions. We have a defined benefit pension plan for the benefit of substantially all of our associates. Our funding
+policy with respect to the pension plan is to contribute, at a minimum, amounts sufficient to meet minimum funding requirements
+as set by law. Pension expense is determined by an external actuarial valuation based on assumptions that are evaluated annually
+as of December 31, the measurement date for the pension obligation. The service cost component of pension expense is reflected
+as “Compensation Expense” in the Consolidated Statements of Income. All other components of pension expense are reflected as
+“Other Expense”.
+The Consolidated Statements of Financial Condition reflect an accrued pension benefit cost due to funding levels and
+unrecognized actuarial amounts. The most significant assumptions used in calculating the pension obligation are the weighted-
+average discount rate used to determine the present value of the pension obligation, the weighted-average expected long-term rate
+of return on plan assets, and the assumed rate of annual compensation increases. These assumptions are re-evaluated annually
+with the external actuaries, taking into consideration both current market conditions and anticipated long-term market conditions.
+The discount rate is determined by matching the anticipated defined pension plan cash flows to the spot rates of a corporate AA-
+rated bond index/yield curve and solving for the single equivalent discount rate which would produce the same present value.
+This methodology is applied consistently from year to year. The discount rate utilized in 2022 was 3.11%. The estimated impact
+to 2022 pension expense of a 25 basis point increase or decrease in the discount rate would have been an approximate $0.9
+million decrease or increase, respectively. We anticipate using a 5.63% discount rate in 2023.
+Based on the balances at the December 31, 2022 measurement date, the estimated impact on accumulated other comprehensive
+loss of a 25 basis point increase or decrease in the discount rate would have been a decrease or increase of approximately $2.2
+million (after-tax). The estimated impact on accumulated other comprehensive loss of a 1% favorable/unfavorable variance in the
+actual rate of return on plan assets versus the assumed rate of return on plan assets of 6.75% would have been an approximate
+$1.2 million (after-tax) decrease/increase, respectively.
+57

@@ -1,0 +1,1374 @@
+Item7.Management’sDiscussionandAnalysisofFinancialConditionandResultsofOperations
+ResultsofOperations
+Net earnings attributable to Berkshire Hathaway shareholders for each of the past three years are disaggregated in the table that
+follows.Amountsareafterdeductingincometaxesandexcludeearningsattributabletononcontrollinginterests(inmillions).
+2019 2018 2017
+Insurance–underwriting $ 325 $ 1,566 $ (2,219)
+Insurance–investmentincome 5,530 4,554 3,887
+Railroad 5,481 5,219 3,959
+Utilitiesandenergy 2,840 2,621 2,033
+Manufacturing,serviceandretailing 9,372 9,364 7,282
+Investmentandderivativegains/losses 57,445 (17,737) 1,377
+Other 424 (1,566) (485)
+TaxCutsandJobsActof2017 — — 29,106
+NetearningsattributabletoBerkshireHathawayshareholders $ 81,417 $ 4,021 $ 44,940
+Through our subsidiaries, we engage in a number of diverse business activities. We manage our operating businesses on an
+unusuallydecentralizedbasis.Thereareessentiallynocentralizedorintegratedbusinessfunctionsandthereisminimalinvolvementby
+our corporate headquarters in the day-to-day business activities of the operating businesses. Our senior corporate management team
+participates in and is ultimately responsible for significant capital allocation decisions, investment activities and the selection of the
+Chief Executive to head each of the operating businesses. The business segment data (Note 27 to the accompanying Consolidated
+FinancialStatements)shouldbereadinconjunctionwiththisdiscussion.
+Beginning in 2018, our periodic net earnings include changes in unrealized gains and losses on our investments in equity
+securities. These gains and losses have been very significant given the size of our holdings and the inherent volatility in securities
+prices,producingextraordinaryvolatilityinourreportednetearningsfor2019and2018.Priorto2018,thechangesinunrealizedgains
+and losses pertaining to such investments were recorded in other comprehensive income. The new accounting treatment has no effect
+onourconsolidatedshareholders’equity.
+Net earnings in 2017 included approximately $29.1 billion attributable to a one-time net benefit from the enactment of the Tax
+Cuts and Jobs Act of 2017 (“TCJA”) on December 22, 2017. This benefit included approximately $29.6 billion related to a one-time
+non-cashreductionofnetdeferredincometaxliabilitiesfromthereductioninthestatutoryU.S.corporateincometaxratefrom35%to
+21%, and a net benefit of approximately $900 million primarily attributable to our earnings from Kraft Heinz, partly offset by a
+one-timeincometaxexpenseofapproximately$1.4billiononthedeemedrepatriationofcertainaccumulatedundistributedearningsof
+foreignsubsidiaries.Duetothesignificance,wepresentedtheseone-timeeffectsasadistinctitemintheprecedingtable.Accordingly,
+the after-tax figures presented for 2017inthediscussion ofourvarious operating businesses andotheractivities excludetheone-time
+effectsoftheTCJA.
+After-tax earnings of our business operations in 2019 and 2018 were favorably affected by lower U.S. income tax expense
+comparedto2017,primarilyattributabletoareductioninthestatutoryU.S.corporateincometaxratefrom35%to21%.Theeffectof
+thelowerU.S.statutoryincometaxrateonthecomparativeafter-taxearningsofourvariousbusinessoperationsvaried,reflectingthe
+differencesinthemixofearningssubjecttoincometax,incometaxcreditsandtheeffectsofstateandlocalincometaxes.
+Our insurance businesses generated after-tax earnings from underwriting of $325 million in 2019 compared to earnings of
+$1.6billionin2018andafter-taxlossesofapproximately$2.2billionin2017.Insuranceunderwritingresultsincludedafter-taxlosses
+from significant catastrophe events of approximately $800 million in 2019, $1.3 billion in 2018 and $1.95 billion in 2017. Earnings
+from primary insurance operations were lower in 2019 and losses from reinsurance were higher than in 2018. After-tax underwriting
+earningsin2019includedlowerearningsfromreductionsofestimatedultimateliabilitiesforprioryears’property/casualtylossevents
+as compared to 2018 and losses of $92 million from foreign currency exchange rate changes on certain non-U.S. Dollar denominated
+liabilities of U.S. subsidiaries. Underwriting results included after-tax foreign currency exchange rate gains of $207 million in 2018
+andlossesof$295millionin2017.
+After-tax earnings from insurance investment income in 2019 increased 21.4% over 2018, which increased 17.2% over 2017.
+Theseincreasesreflectedincreasesininterestanddividendincome.
+K-32
+Management’sDiscussionandAnalysis (Continued)
+ResultsofOperations(Continued)
+After-tax earnings of our railroad business increased 5.0% in 2019 compared to 2018. Earnings in 2019 benefitted from higher
+rates per car/unit, a curtailment gain related to an amendment to defined benefit retirement plans and ongoing operating cost control
+initiatives, partly offset by lower freight volumes and incremental costs associated with the persistent flooding conditions and severe
+winter weather in the first half of the year. All key routes impacted by flooding resumed service by the third quarter. Our railroad
+business generated a 31.8% increase in after-tax earnings in 2018 compared to 2017, reflecting an increase in unit volume, higher
+averagerevenuepercar/unitandalowereffectiveincometaxrate,partlyoffsetbyincreasedfuelandotheroperatingcosts.
+After-taxearningsofourutilitiesandenergybusinessincreased8.4%in2019comparedto2018asallbusinessesproducedhigher
+earnings in 2019 versus 2018. Our utilities and energy businesses produced higher after-tax earnings in 2018 compared to 2017,
+primarilyduetotheeffectsoflossesincurredin2017inconnectionwiththeprepaymentofcertainlong-termdebt,increasedearnings
+atthenaturalgaspipelinesandotherenergybusinessesandtheTCJAincometaxbenefitsrecognizedin2018.
+Earningsfromourmanufacturing,serviceandretailingbusinesseswererelativelyunchangedfrom2018.Operatingresultsofour
+manufacturing, service and retailing businesses in 2019 were mixed, with several of these businesses experiencing lower earnings in
+2019 from a variety of factors. Revenues and pre-tax earnings in 2019 of certain of these businesses were negatively affected by the
+unfavorable effects of foreign currency translation attributable to a stronger U.S. Dollar, international trade tensions and U.S. trade
+tariffs. After-tax earnings in 2018 of our manufacturing, service and retailing businesses increased 29% over 2017, due to lower
+effectiveincometaxratesanda13%increaseinpre-taxearnings.
+Investment and derivative gains/losses in 2019 and 2018 included significant unrealized gains and losses from market price
+changes onour holdings of equity securities. After-tax unrealized gains onequitysecurities wereapproximately $53.7billion in2019
+comparedtoafter-taxlossesof$20.6billionin2018.After-taxinvestmentgainsin2019alsoincludedafter-taxrealizedgainsonsales
+of equity and fixed maturity securities of $2.6 billion compared to $3.1 billion in 2018. We believe that investment and derivative
+gains/losses, whether realized from dispositions or unrealized from changes in market prices of equity securities, are generally
+meaningless in understanding our reported results or evaluating the economic performance of our businesses. These gains and losses
+havecausedandwillcontinuetocausesignificantvolatilityinourperiodicearnings.
+After-tax other earnings included equity method investment earnings of $1.0 billion in 2019, losses of $1.4 billion in 2018 and
+earnings of $1.1 billion in 2017. The losses in 2018 were attributable to Kraft Heinz, partly offset by earnings from other equity
+method investments. Other earnings alsoincluded foreign currency exchangerate gainsof$58million in2019,$289million in2018,
+and losses of $655 million in 2017 related to non-U.S. Dollar denominated debt issued by Berkshire and its U.S. based financing
+subsidiary,BerkshireHathawayFinanceCorporation(“BHFC”).
+Insurance—Underwriting
+Ourmanagement viewsourinsurancebusinessesaspossessingtwodistinctactivities –underwritingandinvesting.Underwriting
+decisions are the responsibility of the unit managers, while investing decisions are the responsibility of Berkshire’s Chairman and
+CEO, Warren E. Buffett and Berkshire’s corporate investment managers. Accordingly, we evaluate performance of underwriting
+operationswithoutanyallocationofinvestmentincomeorinvestmentgains/losses.Weconsiderinvestmentincomeasacomponentof
+our aggregate insurance operating results. However, we consider investment gains and losses, whether realized or unrealized as
+non-operating, based on our long-held strategy of acquiring securities and holding those securities for long periods. We believe that
+suchgainsandlossesarenotmeaningfulinunderstandingtheoperatingresultsofourinsuranceoperations.
+The timing and amount of catastrophe losses can produce significant volatility in our periodic underwriting results, particularly
+with respect to our reinsurance businesses. Generally, weconsider pre-tax catastrophe losses inexcessof$100million from acurrent
+year event as significant. We incurred estimated pre-tax losses of approximately $1.0 billion in 2019, $1.6 billion in 2018 and
+$3.0billionin2017fromsignificantcatastropheevents.
+Changes in estimates for unpaid losses and loss adjustment expenses, including amounts established for occurrences in prior
+years, can also significantly affect our periodic underwriting results. Unpaid loss estimates, including estimates under retroactive
+reinsurancecontracts,wereapproximately$115.5billionasofDecember31,2019.Ourperiodicunderwritingresultsmayalsoinclude
+significant foreign currency transaction gains and losses arising from the changes in the valuation of non-U.S. Dollar denominated
+reinsuranceliabilitiesofourU.S.basedinsurancesubsidiariesduetoforeigncurrencyexchangeratefluctuations.
+K-33
+Management’sDiscussionandAnalysis(Continued)
+Insurance—Underwriting(Continued)
+We engage in both primary insurance and reinsurance of property/casualty, life and health risks. In primary insurance activities,
+we assume defined portions of the risks of loss from persons or organizations that are directly subject to the risks. In reinsurance
+activities, we assume defined portions of similar or dissimilar risks that other insurers or reinsurers have subjected themselves to in
+theirowninsuringactivities.OurinsuranceandreinsurancebusinessesareGEICO,BerkshireHathawayPrimaryGroupandBerkshire
+HathawayReinsuranceGroup(“BHRG”).
+Underwritingresultsofourinsurancebusinessesaresummarizedbelow(dollarsinmillions).
+2019 2018 2017
+Underwritinggain(loss):
+GEICO $ 1,506 $ 2,449 $ (310)
+BerkshireHathawayPrimaryGroup 383 670 719
+BerkshireHathawayReinsuranceGroup (1,472) (1,109) (3,648)
+Pre-taxunderwritinggain(loss) 417 2,010 (3,239)
+Incometaxesandnoncontrollinginterests 92 444 (1,020)
+Netunderwritinggain(loss) $ 325 $ 1,566 $ (2,219)
+Effectiveincometaxrate 24.2% 21.4% 32.0%
+GEICO
+GEICO writes private passenger automobile insurance, offering coverages to insureds in all 50 states and the District of
+Columbia. GEICO markets its policies mainly by direct response methods where most customers apply for coverage directly to the
+companyviatheInternetoroverthetelephone.AsummaryofGEICO’sunderwritingresultsfollows(dollarsinmillions).
+2019 2018 2017
+Amount % Amount % Amount %
+Premiumswritten $ 36,016 $ 34,123 $ 30,547
+Premiumsearned $ 35,572 100.0 $ 33,363 100.0 $ 29,441 100.0
+Lossesandlossadjustmentexpenses 28,937 81.3 26,278 78.8 25,497 86.6
+Underwritingexpenses 5,129 14.5 4,636 13.9 4,254 14.5
+Totallossesandexpenses 34,066 95.8 30,914 92.7 29,751 101.1
+Pre-taxunderwritinggain(loss) $ 1,506 $ 2,449 $ (310)
+2019versus2018
+Premiums written and earned in 2019 increased 5.5% and 6.6%, respectively, compared to 2018.These increases were primarily
+attributable to voluntary auto policies-in-force growth of 6.4% over the past twelve months, partially offset by a decrease in average
+premiums per auto policy due to coverage changes and changes instate andriskmix.Theincrease involuntary autopolicies-in-force
+primarily resulted from an increase in new business sales of 10.9% and a decrease in the number of policies not renewed. Voluntary
+autopolicies-in-forceincreasedapproximately1,068,000during2019.
+Lossesandlossadjustmentexpensesin2019increased10.1%to$28.9billion.GEICO’slossesandlossadjustmentexpensesratio
+in 2019 was 81.3%, an increase of 2.5 percentage points over 2018. The loss ratio increase in 2019 reflected continuing increases in
+lossseverities,slightlyoffsetbylowerstorm-relatedlosses.
+Claims frequencies in 2019 declined compared to 2018 for property damage and collision coverages (two to four percent range)
+andpersonalinjuryprotectioncoverage(onetotwopercentrange)andwererelativelyunchangedforbodilyinjurycoverage.Average
+claims severities in 2019 were higher versus 2018 for property damage and collision coverages (four to six percent range) and bodily
+injurycoverage(seventoninepercentrange).
+Losses and loss adjustment expenses regularly include changes in the ultimate claim loss estimates during the period for prior
+years’lossevents,whichproducepre-taxunderwritingearningsorlossesintheperiodofthechange.GEICOincreasedultimateclaim
+lossestimatesforprioryears’losseventsby$42millionin2019comparedtoadecreaseof$222millionin2018.
+K-34
+Management’sDiscussionandAnalysis(Continued)
+Insurance—Underwriting(Continued)
+GEICO(Continued)
+Underwritingexpensesin2019were$5.1billion,anincreaseof$493million(10.6%)over2018.GEICO’sunderwritingexpense
+ratio in 2019 was 14.5%, an increase of 0.6 percentage points compared to 2018. The underwriting expense increase was primarily
+attributabletoincreasesinadvertisingexpensesandemployee-relatedcosts,whichreflectedwageandstaffingincreases.
+2018versus2017
+Premiums written were $34.1 billion in 2018, an increase of 11.7% compared to 2017. The increase reflected voluntary auto
+policies-in-forcegrowthof3.3%andincreasedpremiumsperautopolicyofapproximately6.4%.Theincreaseinpremiumsperpolicy
+was attributable to rate increases, coverage changes and changes in state and risk mix. The rate increases were in response to
+accelerating claim costs in previous years. Although policies-in-force increased 540,000 during 2018, the rate of increase slowed, as
+voluntaryautonewbusinesssalesdecreased4.7%comparedto2017.
+Lossesandlossadjustmentexpensesin2018were$26.3billion,anincreaseof$781million(3.1%)comparedto2017.GEICO’s
+losses and loss adjustment expenses ratio for 2018 was 78.8%, a decline of 7.8 percentage points compared to 2017. Losses from
+significant catastrophe events were $105 million in 2018 (Hurricanes Florence and Michael and the wildfires in California) and
+approximately $450millionin2017(Hurricanes HarveyandIrma).GEICOreducedultimateclaimlossestimatesforprioryears’loss
+eventsby$222millionin2018andincreasedestimatedprioryearultimateliabilitiesby$517millionin2017.
+Claims frequencies in 2018 for property damage, collision, and bodily and personal injury protection coverages declined (two to
+fourpercent range) compared to2017.Averageclaims severities in2018increased forpropertydamageandcollisioncoverages(four
+tosixpercentrange)andbodilyinjurycoverage(fivetosevenpercentrange)versus2017.
+Underwriting expenses in 2018 were approximately $4.6 billion, an increase of $382 million (9.0%) over 2017. GEICO’s
+underwriting expense ratio in 2018 was 13.9%, a decrease of 0.6 percentage points compared to 2017. The underwriting expense
+increase was primarily attributable to increases in advertising expenses, insurance premium taxes and employee-related costs, which
+reflectedwageandstaffingincreases.
+BerkshireHathawayPrimaryGroup
+The Berkshire Hathaway Primary Group (“BH Primary”) provides a variety of commercial insurance solutions, including
+healthcare malpractice, workers’ compensation, automobile, general liability, property and various specialty coverages for small,
+medium and large clients. The largest of these insurers are Berkshire Hathaway Specialty Insurance (“BH Specialty”), Berkshire
+Hathaway Homestate Companies (“BHHC”), MedPro Group, Berkshire Hathaway GUARD Insurance Companies (“GUARD”), and
+National Indemnity Company (“NICO Primary”). Other BH Primary insurers include U.S. Liability Insurance Company, Applied
+Underwriters(soldinOctober2019),CentralStatesIndemnityCompanyandMLMICInsuranceCompany,acquiredOctober1,2018.
+AsummaryofBHPrimaryunderwritingresultsfollows(dollarsinmillions).
+2019 2018 2017
+Amount % Amount % Amount %
+Premiumswritten $ 9,843 $ 8,561 $ 7,483
+Premiumsearned $ 9,165 100.0 $ 8,111 100.0 $ 7,143 100.0
+Lossesandlossadjustmentexpenses 6,336 69.1 5,261 64.9 4,511 63.1
+Underwritingexpenses 2,446 26.7 2,180 26.9 1,913 26.8
+Totallossesandexpenses 8,782 95.8 7,441 91.8 6,424 89.9
+Pre-taxunderwritinggain $ 383 $ 670 $ 719
+Premiums written in 2019 increased approximately $1.3 billion (15.0%) compared to 2018. The increase was primarily
+attributable to volume increases from BH Specialty (30%), GUARD (28%) and MedPro Group (14%) and from the effects of the
+MLMIC acquisition, partially offset by the effects of the divestiture of Applied Underwriters and lower volume at BHHC. The
+increasesinpremiumsearnedin2019reflectedtheoverallvolumeincreaseoverthepastyear.
+K-35
+Management’sDiscussionandAnalysis(Continued)
+Insurance—Underwriting(Continued)
+BerkshireHathawayPrimaryGroup(Continued)
+BH Primary produced pre-tax underwriting earnings of $383 million in 2019 and $670 million in 2018. BH Primary’s aggregate
+loss ratios were 69.1% in 2019and 64.9% in 2018.Losses and lossadjustment expensesincurred included reductions forprior years’
+losseventsof$499millionin2019and$715millionin2018.Thedecreasein2019wasprimarilyattributabletolowerthananticipated
+medical professional liability and workers’ compensation losses, partially offset by higher commercial auto and other liability losses.
+There were no losses from significant catastrophe events in 2019 that affected BH Primary. Underwriting results in 2018 included
+estimatedlossesfromHurricanesFlorenceandMichaelandthewildfiresinCaliforniaofapproximately$190million.
+Premiums written andearnedin2018increased 14.4%and13.6%,respectively, comparedto2017.Theincreaseswereprimarily
+attributabletowrittenpremiumgrowthatBHSpecialty(33%),GUARD(19%),NICOPrimary(14%)andBHHC(8%).BHPrimary’s
+loss ratios were 64.9% in 2018 and 63.1% in 2017. Losses and loss adjustment expenses included losses from significant catastrophe
+events of $190 million in 2018 from Hurricanes Florence and Michael and the wildfires in California and $225 million in 2017 from
+Hurricanes Harvey, Irma and Maria. Losses and loss adjustment expenses also included net gains from the reductions of estimated
+ultimate liabilities for prior years’ loss events of $715million in 2018and $766million in 2017.Theliability reductions in eachyear
+primarilyrelatedtohealthcaremalpracticeandworkers’compensationbusiness.
+BH Primary insurers write significant levels of commercial and professional liability and workers’ compensation insurance and
+therelated claim costsmaybesubject tohighseverity andlongclaim-tails. Accordingly,wecouldexperiencesignificant increases in
+claimsliabilitiesinthefutureattributabletohigherthanexpectedclaimsettlements,adverselitigationoutcomesorjudicialrulingsand
+otherfactorsnotcurrentlyanticipated.
+BerkshireHathawayReinsuranceGroup
+We offer excess-of-loss and quota-share reinsurance coverages on property and casualty risks and life and health reinsurance to
+insurers and reinsurers worldwide through several subsidiaries, led by National Indemnity Company (“NICO”), Berkshire Hathaway
+LifeInsuranceCompanyofNebraska(“BHLN”)andGeneralReinsuranceCorporation,GeneralReinsuranceAGandGeneralReLife
+Corporation (“General Re”). We also periodically assume property and casualty risks under retroactive reinsurance contracts written
+throughNICO.Inaddition,wewriteperiodicpaymentannuitycontractspredominantlythroughBHLN.
+Generally, we strive to generate underwriting profits. However, time-value-of-money concepts are important elements in
+establishing prices for retroactive reinsurance and periodic payment annuity businesses due to the expected long durations of the
+liabilities. We expect to incur pre-tax underwriting losses from such businesses, primarily through deferred charge amortization and
+discount accretion charges. We receive premiums at the inception of these contracts, which are then available for investment. A
+summaryofBHRG’spremiumsandpre-taxunderwritingresultsfollows(dollarsinmillions).
+Premiumswritten Premiumsearned Pre-taxunderwritinggain(loss)
+2019 2018 2017 2019 2018 2017 2019 2018 2017
+Property/casualty $10,428 $ 9,413 $ 7,713 $ 9,911 $ 8,928 $ 7,552 $ 16 $ (207) $(1,595)
+Life/health 4,977 5,446 4,846 4,883 5,343 4,808 326 216 (52)
+Retroactivereinsurance 684 517 10,755 684 517 10,755 (1,265) (778) (1,330)
+Periodicpaymentannuity 863 1,156 898 863 1,156 898 (549) (340) (671)
+$16,952 $16,532 $24,212 $16,341 $15,944 $24,013 $ (1,472) $(1,109) $(3,648)
+K-36
+Management’sDiscussionandAnalysis(Continued)
+Insurance—Underwriting(Continued)
+Property/casualty
+Asummaryofproperty/casualtyreinsuranceunderwritingresultsfollows(dollarsinmillions).
+2019 2018 2017
+Amount % Amount % Amount %
+Premiumswritten $ 10,428 $ 9,413 $ 7,713
+Premiumsearned $ 9,911 100.0 $ 8,928 100.0 $ 7,552 100.0
+Lossesandlossadjustmentexpenses 7,313 73.8 6,929 77.6 7,217 95.6
+Underwritingexpenses 2,582 26.0 2,206 24.7 1,930 25.5
+Totallossesandexpenses 9,895 99.8 9,135 102.3 9,147 121.1
+Pre-taxunderwritinggain(loss) $ 16 $ (207) $ (1,595)
+Property/casualty premiums written in 2019 of $10.4 billion represented an increase of 10.8% compared to 2018. Premiums
+earned in 2019 increased $983 million (11.0%) versus 2018. The increase in premiums written reflected overall growth in U.S. and
+international markets. The growth was primarily attributable to new business, net of non-renewals, and increased participations for
+renewal business, partly offset by the unfavorable foreign currency translation effects of a stronger U.S. Dollar. Property/casualty
+premiums written in 2018were $9.4billion, an increase of 22.0% over 2017.Theincrease wasprimarily attributable tonewbusiness
+and increased participations for renewal business in both property and casualty lines. Premiums earned included $1.7 billion in 2019
+and $1.8 billion in both 2018 and 2017 from a 10-year, 20% quota-share contract with Insurance Australia Group Limited, which
+expiresin2025.
+Losses and loss adjustment expenses were $7.3 billion in 2019, $6.9 billion in 2018 and $7.2 billion in 2017 and losses and loss
+adjustment expense ratios were 73.8% in 2019, 77.6% in 2018 and 95.6% in 2017. Losses and loss adjustment expenses included
+incurred losses from significant catastrophe eventsoccurring eachyear,includingapproximately $1.0billionin2019($700millionin
+the fourth quarter), $1.3 billion in 2018 ($1.1 billion in the fourth quarter) and $2.4 billion in 2017. Losses in 2019 derived from
+TyphoonsFaxiaandHagibisandwildfiresinCaliforniaandAustralia.Lossesin2018derivedfromHurricanesFlorenceandMichael,
+TyphoonJebiandwildfiresinCalifornia.Lossesin2017derivedfromHurricanesHarvey,IrmaandMaria,anearthquakeinMexico,a
+cycloneinAustraliaandwildfiresinCalifornia.
+Beforetheeffectsofsignificantcatastropheevents,lossesandlossadjustmentexpenseratioswere64%in2019,63%in2018and
+64% in 2017. Losses and loss adjustment expenses also included gains from net decreases in estimated ultimate claim liabilities
+attributable to prior years’ loss events of approximately $295 million in 2019, $469 million in 2018 and $295 million in 2017. Such
+decreasesaspercentages oftherelatednetunpaidclaimliabilities asofthebeginningoftheapplicableyearwere1.0%in2019,1.7%
+in2018and1.2%in2017.
+Life/health
+Asummaryofourlife/healthreinsuranceunderwritingresultsfollows(dollarsinmillions).
+2019 2018 2017
+Amount % Amount % Amount %
+Premiumswritten $ 4,977 $ 5,446 $ 4,846
+Premiumsearned $ 4,883 100.0 $ 5,343 100.0 $ 4,808 100.0
+Lifeandhealthinsurancebenefits 3,757 76.9 4,226 79.1 4,276 88.9
+Underwritingexpenses 800 16.4 901 16.9 584 12.2
+Totalbenefitsandexpenses 4,557 93.3 5,127 96.0 4,860 101.1
+Pre-taxunderwritinggain(loss) $ 326 $ 216 $ (52)
+K-37
+Management’sDiscussionandAnalysis(Continued)
+Insurance—Underwriting(Continued)
+Life/health(Continued)
+Life/healthpremiumsearnedwere$4.9billionin2019,adecreaseof$460million(8.6%)comparedto2018.Inthefirstquarterof
+2019,BHLNamendedayearly-renewable-termlifereinsurancecontractwithamajorreinsurer.Theamendmenteffectivelyeliminated
+BHLN’sfuture exposures under the contract. BHLNrecorded a reduction in earned premiums onthis contract in2019of$49million
+while premiums earned in 2018 related to this contract were $954 million. Life/health premiums earned in 2019 also included
+$228 million from a single reinsurance contract covering health insurance risks. We also experienced volume growth in several
+international life markets, partially offset by the unfavorable effects of foreign currency translation attributable to a stronger
+U.S.DollarandlowerU.S.lifevolumes.
+Thelife/healthbusinessproducedpre-taxunderwritingearningsof$326millionin2019.Underwritingresultsfor2019includeda
+one-time pre-tax gain of $163 million attributable to the yearly-renewable-term life reinsurance contract amendment. Pre-tax
+underwritingearningsin2019alsoincludedlossesfromincreaseddisabilitybenefitliabilitiesinAustralia,attributabletohigherclaims
+experienceandchangestovariousunderlyingassumptions,increasedU.S.long-termcareliabilitiesduetodiscountratereductionsand
+changes in other actuarial assumptions, and an increase in life claims in North America, partially offset by increased earnings from
+other international life business. Variable annuity guarantee reinsurance contracts produced pre-tax earnings of $167 million in 2019.
+Underwriting results from this business reflect changes in estimated liabilities for guaranteed benefits, which derive from changes in
+securitiesmarketsandinterestratesandfromtheperiodicamortizationofexpectedprofitmargins.
+Life/health premiums earned in 2018 were $5.3 billion, an increase of $535 million (11.1%) over 2017. The increase was
+primarily attributable to growth in the North America, Asia and Australia life insurance markets. Our life/health business produced
+pre-tax underwriting earnings of $216 million in 2018and losses of $52million in2017.Theunderwriting earnings in2018reflected
+lower losses from the run-off of U.S. long-term care business, partially offset by lower earnings from the run-off of variable annuity
+guarantee contracts. In the fourth quarter of 2017, we recorded pre-tax losses of $450 million from discount rate reductions and
+changes in other actuarial assumptions associated with long-term care liabilities. Pre-tax earnings from variable annuity guarantee
+contractswere$34millionin2018and$256millionin2017.
+Retroactivereinsurance
+Retroactive reinsurance premiums earned in 2019 and 2018 were $684 million and $517 million, respectively, and were
+attributable to a limited number of contracts in each year. Premiums earned in 2017 included $10.2 billion from an aggregate
+excess-of-loss retroactive reinsurance agreement with various subsidiaries of American International Group, Inc. (the “AIG
+Agreement”). At the inception of our retroactive reinsurance contracts, we record the estimated ultimate claim liabilities, and wealso
+record the excess of such claim liabilities over the premiums received as a deferred charge asset. Thus, as of the inception dates of
+thesecontracts,thereisnonetunderwritinggainorloss.
+Pre-tax underwriting losses in each year derived from deferred charge amortization and changes in the estimated timing and
+amount of future claim payments, as well as from foreign currency gains/losses arising from the periodic remeasurement of liabilities
+related to contracts written by our U.S. subsidiaries that are denominated in foreign currencies. Foreign currency remeasurement
+producedpre-taxlossesof$76millionin2019,gainsof$169millionin2018andlossesof$264millionin2017.
+Retroactive reinsurance contracts generated pre-tax underwriting losses before foreign currency gains/losses of $1,189million in
+2019, $947 million in 2018 and $1,066 million in 2017. Losses included deferred charge amortization of $646 million in 2019,
+$611 million in 2018and $527million in 2017related to the AIGAgreement. In 2019,weincreased estimated ultimate liabilities for
+prioryears’retroactivereinsurancecontractsby$378millioncomparedtoadecreaseof$341millionin2018.Afteradjustmentstothe
+related unamortized deferred charges from changes in the estimated timing and amount of the future claim payments, such changes
+producedpre-taxunderwritinglossesofapproximately$125millionin2019andearningsof$185millionin2018.
+Grossunpaidlossesassumedunderretroactivereinsurancecontractswere$42.4billionatDecember31,2019and$41.8billionat
+December31,2018.Unamortizeddeferredchargeassetsrelatedtosuchreinsurancecontractswere$13.7billionatDecember31,2019
+and $14.1 billion at December 31, 2018. Deferred charge assets will be charged to earnings over the expected remaining claims
+settlementperiodsthroughperiodicamortization.
+K-38
+Management’sDiscussionandAnalysis(Continued)
+Insurance—Underwriting(Continued)
+Periodicpaymentannuity
+Periodic payment annuity premiums earned in 2019 were $863 million, a decrease of $293 million (25.3%) compared to 2018,
+while premiums earned in 2018 increased $258 million (28.7%) compared to 2017. Periodic payment annuity business is price
+sensitive. The volumes written can change rapidly due to changes in prices, which are affected by prevailing interest rates, the
+perceivedrisksanddurationsassociatedwiththeexpectedannuitypaymentsaswellasthelevelofcompetition.
+Periodic payment annuity contracts normally produce pre-tax underwriting losses deriving from the recurring discount accretion
+of annuityliabilities. Underwriting results alsoinclude theeffects ofmortality andinterest rate changesandremeasurement gainsand
+losses related to foreign currency denominated liabilities of certain contracts written by our U.S. subsidiaries. Foreign currency
+remeasurementlosseswere$40millionin2019comparedtogainsof$93millionin2018andlossesof$190millionin2017.
+Excludingforeigncurrencyremeasurementgainsandlosses,pre-taxunderwritinglossesfromperiodicpaymentannuitycontracts
+were $509 million in 2019 compared to $433 million in 2018 and $481 million in 2017. These losses primarily derived from the
+recurring discount accretion of annuity liabilities, as well as the impact of mortality and interest rate changes. Discounted annuity
+liabilities were $13.5 billion at December 31, 2019 and $12.5 billion at December 31, 2018 and at December 31, 2019, the weighted
+averagediscountratewasapproximately4.1%.
+Insurance—InvestmentIncome
+Asummaryofnetinvestmentincomeattributabletoourinsuranceoperationsfollows(dollarsinmillions).
+2019 2018 2017
+Interestandotherinvestmentincome $ 2,075 $ 1,851 $ 1,263
+Dividendincome 4,525 3,652 3,592
+Investmentincomebeforeincometaxesandnoncontrollinginterests 6,600 5,503 4,855
+Incometaxesandnoncontrollinginterests 1,070 949 968
+Netinvestmentincome $ 5,530 $ 4,554 $ 3,887
+Effectiveincometaxrate 16.1% 17.2% 19.9%
+Interest andotherinvestment income in2019increased $224million(12.1%)comparedto2018.Theincreasewasprimarily due
+to higher interest rates on short-term investments and interest from a term loan with Seritage Growth Properties, partially offset by
+lower income earned from fixed maturity securities and limited partnership investments. Dividend income in 2019 increased
+$873 million (23.9%) compared to 2018. The increase in dividend income wasattributable to an overall increase in investment levels
+overthepastyear,includingtheinvestmentin$10billionliquidationvalueof8%CumulativePreferredStockofOccidentalPetroleum
+Corporation onAugust8,2019,andhigherdividendrates oncommonstockinvestments. Wecontinue toholdlargebalancesofcash,
+cash equivalents and short-term U.S. Treasury Bills. While short-term interest yields in the U.S. were higher in the first half of 2019
+compared to 2018, interest rates declined during the second half of the year. Accordingly, earnings from such balances will likely be
+lowerin2020thanin2019.Webelievethatmaintainingampleliquidityisparamountandweinsistonsafetyoveryieldwithrespectto
+short-terminvestments.
+Pre-tax interest and other investment income in 2018 increased $588 million (46.6%) compared to 2017. The increase reflected
+the effect of higher short-term interest rates in 2018 and higher other investment income, partly offset by lower interest income as a
+resultofloweraverageinvestmentsinfixedmaturitysecurities.Dividendincomeincreased$60million(1.7%)in2018ascomparedto
+2017, reflecting the impact of increased investments in marketable equity securities and higher dividend rates on common stock
+holdings, partially offset by Restaurant Brands International’s redemption of our $3 billion investment in 9% preferred stock in
+December2017.
+Investedassetsofourinsurancebusinessesderivefromshareholdercapital,includingreinvestedearnings,andfromnetliabilities
+under insurance and reinsurance contracts or “float.” The major components of float are unpaid losses and loss adjustment expenses,
+including liabilities under retroactive reinsurance contracts, life, annuity and health insurance benefit liabilities, unearned premiums
+and other liabilities due to policyholders, less insurance premiums and reinsurance receivables, deferred charges assumed under
+retroactive reinsurance contracts and deferred policy acquisition costs. Float approximated $129 billion at December 31, 2019,
+$123 billion at December 31, 2018 and $114 billion at December 31, 2017. Our combined insurance operations generated pre-tax
+underwriting earnings ofapproximately $417million in2019and$2.0billion in2018,andconsequently, theaverage costoffloat for
+each of those periods wasnegative. Pre-tax underwriting losses wereapproximately $3.2billion in2017andouraverage costoffloat
+in2017wasapproximately3.0%.
+K-39
+Management’sDiscussionandAnalysis(Continued)
+Insurance—InvestmentIncome(Continued)
+AsummaryofcashandinvestmentsheldinourinsurancebusinessesasofDecember31,2019and2018follows(inmillions).
+December31,
+2019 2018
+Cash,cashequivalentsandU.S.TreasuryBills $ 64,908 $ 64,548
+Equitysecurities 240,126 166,385
+Fixedmaturitysecurities 18,537 19,690
+Other 2,481 2,288
+$ 326,052 $ 252,911
+FixedmaturityinvestmentsasofDecember31,2019wereasfollows(inmillions).
+Amortized Unrealized Carrying
+cost gains/losses value
+U.S.Treasury,U.S.governmentcorporationsandagencies $ 3,047 $ 35 $ 3,082
+Foreigngovernments 8,582 54 8,636
+Corporatebonds,investmentgrade 5,408 441 5,849
+Corporatebonds,non-investmentgrade 396 14 410
+Other 492 68 560
+$ 17,925 $ 612 $ 18,537
+U.S. government obligations are rated AA+ or Aaa by the major rating agencies. Approximately 87% of all foreign government
+obligations were rated AA or higher. Non-investment grade corporate securities represent securities rated below BBB- or Baa3.
+Foreigngovernmentsecuritiesincludeobligationsissuedorunconditionallyguaranteedbynationalorprovincialgovernmententities.
+Railroad(“BurlingtonNorthernSantaFe”)
+BurlingtonNorthernSantaFe,LLC(“BNSF”)operatesoneofthelargestrailroadsystemsinNorthAmerica,withapproximately
+32,500routemilesoftrackin28states.BNSFalsooperatesinthreeCanadianprovinces.BNSFclassifiesitsmajorbusinessgroupsby
+type of product shipped. These business groups include consumer products, coal, industrial products and agricultural products. A
+summaryofBNSF’searningsfollows(dollarsinmillions).
+2019 2018 2017
+Revenues $ 23,515 $ 23,855 $ 21,387
+Operatingexpenses:
+Compensationandbenefits 5,347 5,394 5,023
+Fuel 2,944 3,346 2,518
+Purchasedservices 2,700 2,870 2,514
+Depreciationandamortization 2,403 2,317 2,352
+Equipmentrents,materialsandother 1,801 2,024 1,636
+Totaloperatingexpenses 15,195 15,951 14,043
+Interestexpense 1,070 1,041 1,016
+16,265 16,992 15,059
+Pre-taxearnings 7,250 6,863 6,328
+Incometaxes 1,769 1,644 2,369
+Netearnings $ 5,481 $ 5,219 $ 3,959
+Effectiveincometaxrate 24.4% 24.0% 37.4%
+2019versus2018
+BNSF’s revenues were $23.5 billion in 2019, a decrease of $340 million (1.4%) versus 2018. During 2019, BNSF’s revenues
+reflected a 3.6% comparative increase inaverage revenuepercar/unit anda4.5%decrease involume.Volumewas10.2million cars/
+unitscomparedto10.7millionin2018.Theincreaseinaveragerevenuepercar/unitwasattributabletoincreasedratespercar/unitand
+a favorable outcome of an arbitration hearing. Pre-tax earnings in 2019 were approximately $7.3 billion, an increase of 5.6% over
+2018. BNSF experienced severe winter weather and flooding on parts of the network, which negatively affected revenues, expenses
+andservicelevels.Inadditiontotheimpactofanincreaseinaveragerevenuepercar/unit,BNSF’searningsin2019benefittedfroma
+reductionintotaloperatingexpenses.
+K-40
+Management’sDiscussionandAnalysis(Continued)
+Railroad(“BurlingtonNorthernSantaFe”)(Continued)
+Revenues from consumer products were $7.9 billion in 2019, a decrease of 0.5% compared to 2018, reflecting higher average
+revenue per car/unit and volume decreases of 4.6%. The volume decreases were driven by moderated demand and the availability of
+truckcapacity,aswellaslowerwestcoastimports.
+Revenues from industrial products were $6.1 billion in 2019, an increase of 1.7% from 2018. The increase was attributable to
+higher average revenue per car/unit, partially offset by a volume decrease of 3.0%. Volumes decreased primarily due to overall
+softness in the industrial sector, lower sand volumes, and reduced car loadings due to the challenging weather conditions in 2019.
+Strength in the energy sector, which drove higher demand for petroleum products and liquefied petroleum gas, partially offset the
+decreasesinvolumes.
+Revenues from agricultural products decreased 0.3% in 2019 to $4.7 billion compared to 2018. The decrease was due to lower
+volumesof5.1%andhigheraveragerevenuepercar/unit.Thevolumedecreaseswereattributabletoexportcompetitionfromnon-U.S.
+sources,theimpactsofinternationaltradepolicies,andthechallengingweatherconditionsin2019.
+Revenuesfromcoaldecreased7.4%in2019to$3.7billioncomparedto2018.Thisdecreasereflectedloweraveragerevenueper
+car/unit andlowervolumes of5.3%.Volumeswerenegatively impacted byadverse weatherconditions, aswellasfrom theeffects of
+lowernaturalgasprices.
+Operating expenses were $15.2 billion in 2019, a decrease of $756 million (4.7%) compared to 2018. Our ratio of operating
+expensestorevenuesdecreased2.3percentagepointsto64.6%in2019versus2018.BNSF’sexpensesin2019reflectedlowervolume-
+relatedcosts,lowerfuelprices,theeffectsofcostcontrolinitiatives,andaretirementplancurtailmentgain,partiallyoffsetbythecosts
+associatedwiththeadverseweatherconditions.
+Fuelexpensesdecreased$402million(12.0%)comparedto2018,primarilyduetoloweraveragefuelprices,lowervolumes,and
+improvedfuelefficiency.Purchasedservicesexpensedecreased$170million(5.9%)comparedto2018.Thedecreasewasduetolower
+purchased transportation costs of our logistics services business, lower drayage, lower services expense, and higher insurance
+recoveries. Equipment rents, materials and other expense decreased $223 million (11.0%) compared to 2018. The decrease was
+primarily due to a $120 million curtailment gain from the amendment to the company-sponsored defined benefit retirement plans, as
+wellasfromlowerlocomotiveandvariousothercostsassociatedwithlowervolumesandcostcontrols.
+BNSF’seffectiveincometaxratewas24.4%in2019,24.0%in2018and37.4%in2017.Theratein2017excludedtheeffectsof
+theTCJA,whichreducedtheU.S.statutoryincometaxrate.
+2018versus2017
+BNSF’srevenueswere$23.9billionin2018,anincreaseof$2.5billion(11.5%)over2017.BNSF’srevenuesin2018reflecteda
+6.2% comparative increase in average revenue per car/unit and a 4.1% increase in volume. Combined volume was 10.7 million cars/
+units compared to 10.3 million in 2017. The increase in average revenue per car/unit was attributable to increased rates per car/unit,
+higherfuelsurchargerevenuedrivenbyhigherfuelprices,andbusinessmixchanges.Pre-taxearningswereapproximately$6.9billion
+in2018,anincreaseof8.5%comparedto2017.
+Revenues from consumer products were $7.9 billion in 2018, an increase of 11.1% compared to 2017, reflecting higher average
+revenuepercar/unitandvolumeincreasesof2.9%.Thevolumeincreaseswereduetohigherdomesticintermodalvolumes,aswellas
+growthinimportsandcontainerizedagriculturalproductexports,partiallyoffsetbyasizablecontractloss.
+Revenues from industrial products were $6.0 billion in 2018, an increase of 16.2% from 2017. The increase was attributable to
+volumeincreasesof9.8%aswellashigheraveragerevenuepercar/unit.Volumesin2018increasedforpetroleum products,building
+products,constructionproducts,andplastics.
+Revenues from agricultural products increased 8.8% in 2018 to $4.7 billion compared to 2017. The increase was due to higher
+volumesof9.0%,partiallyoffsetbyslightlyloweraveragerevenuepercar/unit.Volumesincreasedduetostrongexportanddomestic
+corn shipments, as well as higher fertilizer and other grain products volumes, partially offset by a reduction in soybean and wheat
+exports.
+Revenuesfromcoalin2018increased4.3%to$4.0billioncomparedto2017,attributabletohigheraveragerevenuepercar/unit,
+partially offset by lower volumes of 0.8%. The volume decrease in 2018 was due mainly to utility plant retirements combined with
+competitionfromnaturalgasandrenewables,mostlyoffsetbymarketsharegainsandincreasedexportvolumes.
+K-41
+Management’sDiscussionandAnalysis(Continued)
+Railroad(“BurlingtonNorthernSantaFe”)(Continued)
+Totaloperatingexpenseswere$16.0billionin2018,anincreaseof$1.9billion(13.6%)comparedto2017.Ourratioofoperating
+expenses to revenues increased 1.2 percentage points to 66.9% in 2018 versus 2017. Compensation and benefits expenses increased
+$371 million (7.4%) compared to 2017. The increase was primarily due to wage inflation and increased headcount and associated
+training costs. Fuel expenses increased $828 million (32.9%) compared to 2017 primarily due to higher average fuel prices and
+increased volumes. Purchased services expense increased $356 million (14.2%) compared to 2017, due to higher purchased
+transportation costs of our logistics services business, as well as increased intermodal ramping, drayage, and other volume-related
+costs. Equipment rents, materials and other expense increased $388 million (23.7%) compared to 2017, reflecting higher locomotive
+material expenses, personal injury expenses, derailment-related costs, and property taxes, as well as the impact of a benefit in 2017
+fromtheenactmentoftheTCJAonanequitymethodinvestee.
+UtilitiesandEnergy(“BerkshireHathawayEnergyCompany”)
+We currently own 90.9% of the outstanding common stock of Berkshire Hathaway Energy Company (“BHE”), which operates a
+global energy business. BHE’s domestic regulated utility interests are comprised of PacifiCorp, MidAmerican Energy Company
+(“MEC”) and NV Energy. In Great Britain, BHE subsidiaries operate two regulated electricity distribution businesses referred to as
+NorthernPowergrid.BHEalsoownstwodomesticregulatedinterstatenaturalgaspipelinecompanies.Otherenergybusinessesinclude
+aregulatedelectricitytransmission-onlybusinessinAlberta,Canada(“AltaLink,L.P.”)andadiversifiedportfolioofmostlyrenewable
+independent power projects. BHEalso operates the largest residential real estate brokerage firm and one of the largest residential real
+estatebrokeragefranchisenetworksintheUnitedStates.
+The rates our regulated businesses charge customers for energy and services are based in large part on the costs of business
+operations, including income taxes and a return on capital, and are subject to regulatory approval. To the extent these regulated
+operationsarenotallowedtoincludesuchcostsintheapprovedrates,operatingresultswillbeadverselyaffected.TheTCJAreduced
+theU.S.federalstatutoryincometaxratefrom35%to21%.In2018,BHE’sregulatedsubsidiariesbeganpassingthebenefitsoflower
+income tax expense attributable to the TCJA to customers through various regulatory mechanisms, including lower rates, higher
+depreciationandreductionstoratebase.AsummaryofBHE’snetearningsfollows(dollarsinmillions).
+2019 2018 2017
+Revenues:
+Energyoperatingrevenue $ 15,371 $ 15,573 $ 15,171
+Realestateoperatingrevenue 4,473 4,214 3,443
+Otherincome 270 200 240
+Totalrevenue 20,114 19,987 18,854
+Costsandexpense:
+Energycostofsales 4,586 4,769 4,518
+Energyoperatingexpense 6,824 6,969 6,354
+Realestateoperatingcostsandexpense 4,251 4,000 3,229
+Interestexpense 1,835 1,777 2,254
+Totalcostsandexpense 17,496 17,515 16,355
+Pre-taxearnings 2,618 2,472 2,499
+Incometaxexpense(benefit)* (526) (452) 148
+Netearningsafterincometaxes 3,144 2,924 2,351
+Noncontrollinginterests 18 23 40
+NetearningsattributabletoBerkshireHathawayEnergy 3,126 2,901 2,311
+Noncontrollinginterests 286 280 278
+NetearningsattributabletoBerkshireHathawayshareholders $ 2,840 $ 2,621 $ 2,033
+Effectiveincometaxrate (20.1)% (18.3)% 5.9%
+* Includessignificantproductiontaxcreditsfromwind-poweredelectricitygeneration.
+K-42
+Management’sDiscussionandAnalysis(Continued)
+UtilitiesandEnergy(“BerkshireHathawayEnergyCompany”)(Continued)
+The discussion of BHE’s operating results that follows is based on after-tax earnings, reflecting how the energy businesses are
+managedandevaluated.AsummaryofnetearningsattributabletoBHEfollows(inmillions).
+2019 2018 2017
+PacifiCorp $ 773 $ 739 $ 763
+MidAmericanEnergyCompany 781 669 597
+NVEnergy 365 317 365
+NorthernPowergrid 256 239 251
+Naturalgaspipelines 422 387 270
+Otherenergybusinesses 608 489 404
+Realestatebrokerage 160 145 118
+Corporateinterestandother (239) (84) (457)
+$ 3,126 $ 2,901 $ 2,311
+PacifiCorp
+PacifiCorp operates a regulated electric utility in portions of several Western states, including Utah, Oregon and Wyoming. Net
+earningsafterincometaxeswere$773millionin2019,anincreaseof$34million(4.6%)comparedto2018,reflectingslightlyhigher
+utility margin (operating revenue less cost of sales) and higher other income, partly offset by higher depreciation expense from
+additional plant-in-service. Utility margin was $3.3 billion in 2019, an increase of $4 million compared to 2018, as higher retail
+revenue from a 0.4% increase in retail customer volumes, in part due to the favorable impact of weather, was largely offset by lower
+wholesalerevenuemainlyduetolowervolumes.
+Net earnings after income taxes decreased $24 million (3.1%) in 2018 as compared to 2017. The change in after-tax earnings
+reflected the unfavorable utility margin and higher operating expenses, partly offset by higher other income. Utility margin in 2018
+was $3.3 billion, a decrease of $198 million (6%) versus 2017. The decrease was primarily due to a $197 million decline in retail
+revenuesfromtheeffectsofloweraverageratesof$180million(includingtheimpactoftheTCJAof$152million)andareductionin
+volumes(0.2%),largelyattributabletotheimpactsofweather.
+MidAmericanEnergyCompany
+MEC operates a regulated electric and natural gas utility primarily in Iowa and Illinois. Net earnings after income taxes of
+$781millionin2019increased$112million(16.7%)ascomparedto2018,primarilyattributabletoincreasesinelectricutilitymargin,
+incometaxbenefitsfromhigherproductiontaxcreditsandtheeffectsofratemaking,andotherincome.Electricutilitymarginin2019
+increased 2% to $1.8 billion, primarily due to higher wind generation and higher retail customer volumes of 1.4%, as an increase in
+industrial volumes of 4.0% was largely offset by lower residential volumes from the unfavorable impact of weather. These earnings
+increases were partially offset by increased depreciation expense from additional assets placed in-service (net of lower Iowa revenue
+sharing)andhighernetinterestexpense.
+Net earnings after income taxes were $669 million in 2018, an increase of $72 million (12.1%) compared to 2017, reflecting
+higher electric utility margin, higher depreciation and operating expenses and higher income tax benefits, partly due to higher
+productiontaxcredits.Electricutilitymarginwas$1.8billionin2018,anincreaseof$122million(7%)comparedto2017,whichwas
+primarilyduetohigherretailrevenuesof$102million,reflectinghigherrecoveriesthroughbillridersandvolumes,partiallyoffsetby
+lower rates, predominantly from the impact of the TCJA. The increase in depreciation expense included $65 million from additional
+windgenerationandotherplantplacedin-serviceand$44millionfromIowarevenuesharing.
+NVEnergy
+NV Energy operates regulated electric and natural gas utilities in Nevada. Net earnings after income taxes were $365 million in
+2019, an increase of $48 million (15.1%) compared to 2018, as lower operating expenses were partly offset by lower electric utility
+margin. Electric utility margin in 2019 was $1.6 billion, representing a decrease of $58 million (3%) versus 2018. The decrease was
+primarilyduetoa1.4%declineinretailcustomervolumes,largelyattributabletotheimpactsofweather,andratereductionsfromthe
+impactoftheTCJA,partiallyoffsetbyretailcustomergrowth.
+Net earnings after income taxes decreased $48 million (13.2%) in 2018 as compared to 2017, reflecting lower electric utility
+margin andincreaseddepreciation andoperatingexpenses.Electricutilitymargindecreased$52millionin2018ascomparedto2017
+duetotheeffectsoftheTCJA,partiallyoffsetbyhigherretailsalesvolumes.
+K-43
+Management’sDiscussionandAnalysis(Continued)
+UtilitiesandEnergy(“BerkshireHathawayEnergyCompany”)(Continued)
+NorthernPowergrid
+Net earnings after income taxes increased 7.1% in 2019 compared to 2018, reflecting higher distribution revenues and lower
+operating expenses, which were largely from lower pension settlement losses in 2019, partially offset by the unfavorable foreign
+currency translation effects of a strong average U.S. Dollar ($10 million). Distribution revenues increased $18 million, attributable to
+highertariffratespartlyoffsetbylowerdistributedunits.
+Netearningsafterincometaxeswere$239millionin2018,adecreaseof$12million(4.8%)comparedto2017,reflectinghigher
+distribution revenues, increased depreciation and operating expenses, including higher pension settlement losses, and a $9 million
+increasefromtheeffectsofaweakerU.S.Dollar.
+Naturalgaspipelines
+Net earnings after income taxes increased $35 million (9.0%) in 2019 compared to 2018, primarily due to higher transportation
+revenues from generally higher volumes and rates, favorable margins from system balancing activities and a decrease in operating
+expenses,partlyoffsetbyhigherdepreciationexpenseduetoincreasedspendingoncapitalprojects.
+Netearnings after income taxes were$387million in2018,a43.3%increase($117million) comparedto2017,reflecting higher
+transportation revenues from higher volumes and rates due to unique market opportunities and colder average temperatures, lower
+depreciationexpenseandacomparativeincreaseinoperatingexpenses.
+Otherenergybusinesses
+Netearningsafterincometaxesin2019were$608million,anincreaseof$119million(24.3%)comparedto2018.Theincrease
+was primarily due to improved earnings from renewable wind energy projects ($49 million from tax equity investments and
+$25 million from new and existing projects and activities), higher after-tax income from geothermal and natural gas units of
+$53million,largelyduetohighergenerationandfavorablemarginsandloweroperatingexpenses,partlyoffsetbylowerearningsata
+hydroelectricfacilityinthePhilippinesduetolowerrainfall.Theincreaseinearningsalsoreflectedtheeffectsoffavorableregulatory
+decisionsreceivedin2019andtheunfavorableimpactsofaregulatoryrateorderreceivedin2018atAltaLinkL.P.
+Net earnings after income taxes increased $85 million (21.0%) in 2018 compared to 2017, reflecting increased revenues from
+existingrenewableenergyprojectsfromoverallhighergenerationandpricing,increasedearningsfromwindtaxequityinvestmentsof
+$34 million and earnings from additional wind and solar capacity placed in-service, partially offset by higher operating expenses at
+existingprojects.
+Realestatebrokerage
+Net earnings after income taxes increased 10.3% in 2019 compared to 2018. The increase was primarily due to higher after-tax
+earnings at existing mortgage businesses due to increased refinance activity and earnings attributable to recent business acquisitions,
+partiallyoffsetbylowerafter-taxearningsatexistingbrokeragebusinessesprimarilyfromlowerunitsandmargins.
+Net earnings after income taxes were $145 million in 2018, an increase of $27 million (22.9%) compared to 2017. The increase
+reflected earnings from acquired businesses, higher comparative operating expenses and lower margins at existing businesses and
+lowerincometaxexpenseduetotheimpactoftheTCJA.
+Corporateinterestandother
+Net earnings after income taxes decreased $155 million in 2019 compared to 2018, primarily due to income tax benefits
+recognized in 2018 related to the reduction of accrued repatriation taxes on undistributed foreign earnings in connection with the
+TCJA,highercorporateinterestandlowerafter-taxearningsfromnon-regulatedenergyservices.
+Net earnings after income taxes increased $373 million in 2018 compared to 2017, primarily due to an after-tax charge of
+$246 million recognized in 2017 from a tender offer completed in December 2017 to redeem certain long-term debt of BHE and the
+TCJAincometaxbenefitsrecognizedin2018.
+K-44
+Management’sDiscussionandAnalysis(Continued)
+Manufacturing,ServiceandRetailing
+Asummaryofrevenuesandearningsofourmanufacturing,serviceandretailingbusinessesfollows(dollarsinmillions).
+Revenues Earnings*
+2019 2018 2017 2019 2018 2017
+Manufacturing $ 62,730 $ 61,883 $ 57,645 $ 9,522 $ 9,366 $ 8,324
+Serviceandretailing 79,945 78,926 76,994 2,843 2,942 2,603
+$ 142,675 $ 140,809 $ 134,639
+Pre-taxearnings 12,365 12,308 10,927
+Incometaxesandnoncontrollinginterests 2,993 2,944 3,645
+$ 9,372 $ 9,364 $ 7,282
+Effectiveincometaxrate 23.7% 23.4% 32.8%
+* Excludes certain acquisition accounting expenses, which primarily related to the amortization of identified intangible assets
+recorded in connection with our business acquisitions. The after-tax acquisition accounting expenses excluded from earnings
+abovewere$788millionin2019,$932millionin2018and$937millionin2017.Theseexpensesareincludedin“Other”inthe
+summaryofearningsonpageK-32andinthe“Other”earningssectiononpageK-53.
+Manufacturing
+Our manufacturing group includes a variety of industrial, building and consumer products businesses. Industrial products group
+includes specialty chemicals (The Lubrizol Corporation (“Lubrizol”)), complex metal products for aerospace, power and general
+industrial markets (Precision Castparts Corp. (“PCC”)), metal cutting tools/systems (IMC International Metalworking Companies
+(“IMC”)),equipmentandsystemsforthelivestockandagriculturalindustries(CTBInternational(“CTB”)),andavarietyofindustrial
+products for diverse markets (Marmon, Scott Fetzer and LiquidPower Specialty Products (“LSPI”)). Marmon also provides various
+productsandservices(includingequipmentleasing)fortherail,intermodalcontainerandmobilecraneindustries.
+The building products group includes homebuilding and manufactured housing finance (Clayton Homes), flooring (Shaw),
+insulation, roofing and engineered products (Johns Manville), bricks and masonry products (Acme Building Brands), paint and
+coatings (Benjamin Moore), and residential and commercial construction and engineering products and systems (MiTek). The
+consumer products group includes leisure vehicles (Forest River), several apparel and footwear operations (including Fruit of the
+Loom,Garan,H.H.BrownShoeGroupandBrooksSports)andamanufacturerofhigh-performancealkalinebatteries(Duracell).This
+group also includes custom picture framing products (Larson Juhl) and jewelry products (Richline). A summary of revenues and
+pre-taxearningsofourmanufacturingoperationsfollows(dollarsinmillions).
+Revenues Pre-taxearnings
+2019 2018 2017 2019 2018 2017
+Industrialproducts $ 30,594 $ 30,679 $ 28,566 $ 5,635 $ 5,822 $ 5,065
+Buildingproducts 20,327 18,677 16,946 2,636 2,336 2,147
+Consumerproducts 11,809 12,527 12,133 1,251 1,208 1,112
+$ 62,730 $ 61,883 $ 57,645 $ 9,522 $ 9,366 $ 8,324
+K-45
+Management’sDiscussionandAnalysis(Continued)
+Manufacturing,ServiceandRetailing(Continued)
+Industrialproducts
+2019versus2018
+Revenues of the industrial products group were $30.6billion in 2019,a slight decrease from 2018.Pre-tax earnings of the group
+were $5.6 billion in 2019compared to $5.8billion in2018.Pre-tax earnings asapercentage ofrevenues forthegroupwere18.4%in
+2019comparedto19.0%in2018.
+PCC’s revenues were $10.3 billion in 2019, an increase of $74 million (0.7%) compared to 2018. PCC experienced increased
+sales in aerospace markets, which was partially offset by lower sales in the power markets compared to 2018. The increase in
+aerospacesaleswastemperedduetosignificanteffortsfocusedontheramp-uprequirementsforcertainnewaerospaceprograms,such
+asLEAP,thatcreatedmanufacturinginefficienciesandslowedproductioncyclescontributingtodelaysinproductdeliveriesandsales.
+WhileweexpectthatBoeing’sdecisiontosuspendproductionofits737MAXaircraftmayreducedemandforcertainofouraerospace
+products in 2020, we also anticipate a significant portion of this volume reduction will be offset by incremental volume for other
+programs. Wearealsoseeingstabilization indemandforourindustrial gasturbine products withinthepowermarketsaftertwoyears
+ofdeclines.
+PCC’s pre-tax earnings increased 5.1% in 2019 compared to 2018. The earnings increase reflected increased sales of aerospace
+products and higher earnings from various non-recurring items in 2019, which was partially offset by lower earnings from the power
+markets due to the decrease in sales. Temporary unplanned shutdowns of certain metals facilities and metal press outages also
+negatively impacted earnings in 2018. PCC continues to incur incremental costs to meet required deliveries to customers associated
+with the increased aerospace demand, which negatively affected margins and earnings. The production headwinds experienced were
+primarily attributable to shortages of qualified skilled labor and the rapid increase in requirements for newer, complex aerospace
+products. PCC implemented certain measures and intends to implement additional measures to address these issues and improve
+manufacturingefficiencies.
+Lubrizol’s revenues were $6.5billion in 2019,a decrease of $354million (5.2%) compared to 2018.Thedecline reflected lower
+volumesandunfavorableforeigncurrencytranslationeffects,partlyoffsetbyhigheraveragesellingpriceswhichwerenecessitatedby
+raw material cost increases in 2018 and the first quarter of 2019. A fire at Lubrizol’s Rouen, France manufacturing, blending and
+storage facility on September 26, 2019 resulted in the suspension of operations, which contributed significantly to the decline in
+Additivesvolumes.Thoseoperationspartially restarted inDecember2019.Lubrizol’sconsolidatedvolumein2019declined4%from
+2018,primarilyduetovolumedeclineof6%intheAdditivesproductlines.
+Lubrizol’s pre-tax earnings in 2019 for the fourth quarter and year decreased 50.5% and 14.6%, respectively, compared to the
+same periods in 2018. Earnings in 2019 were significantly impacted by costs and lost business associated with the Rouen fire.
+Lubrizol’s operating results in 2019 were also negatively affected by lower sales volumes, higher manufacturing expenses and
+unfavorableforeigncurrencytranslationeffects,partlyoffsetbyimprovedmaterialmargins.
+Marmon’s revenues were $8.3 billion in 2019, an increase of $146 million (1.8%) compared to 2018. The revenue increase
+reflected the effects of business acquisitions over the past year, higher volumes in several business sectors, which were largely offset
+by lower distribution volumes in the Metals Services sector, unfavorable foreign currency translation, and the impact of lower metal
+prices in the Electrical and Plumbing & Refrigeration sectors. Marmon’s business acquisitions included the acquisition of the Colson
+Medical companies on October 31, 2019, resulting in a new Medical sector. Marmon’s Rail & Leasing and Crane Services sectors
+benefittedfromhigherrailcarequipmentsales,railcarfleetutilization,railcarrepairservices,intermodalcontainerleasingrevenueand
+improvedcranerentaldemandintheU.S.andAustralia.
+Marmon’spre-taxearningsin2019increased$12million(1.0%)ascomparedto2018.Theearningsincreasereflectedtheeffects
+of business acquisitions, partly offset by lower gains from business divestitures. Earnings in 2019also reflected increased earnings in
+several sectors that experienced sales volume increases, which were substantially offset by lower earnings in the Metal Services and
+certainothersectors,theunfavorableimpactsofforeigncurrencytranslationandincreasedinterestandotherexpenses.
+IMC’srevenuesin2019declined1.3%in2019ascomparedto2018,reflectingunfavorableforeigncurrencytranslationeffectsof
+astronger U.S.Dollar andlowersales inseveral regions, including AsiaandEurope,mostly offsetbyincreasedrevenuesfromrecent
+business acquisitions. IMC’s pre-tax earnings declined 12.8% in 2019 versus 2018, attributable to unfavorable foreign currency
+translationeffects,changesinbusinessmixtolowermarginitemsandtheeffectsoftheU.S./Chinatradedisputes.
+K-46
+Management’sDiscussionandAnalysis(Continued)
+Manufacturing,ServiceandRetailing(Continued)
+Industrialproducts(Continued)
+CTB’srevenuesdecreased1.5%in2019versus2018.Thecomparativedeclinewasprimarilyduetounfavorableforeigncurrency
+translation effects of a stronger U.S. Dollar and lower revenues from grain and protein equipment, partly offset by higher revenues
+from processing systems. CTB’s pre-tax earnings increased 11.7% in 2019 as compared to 2018. Earnings in 2019 benefitted from a
+combination of favorable changes in business mix, the moderation of cost increases of certain raw materials and better pricing
+efficiency.
+2018versus2017
+Revenuesfromindustrialproductsbusinesseswereapproximately$30.7billionin2018,anincreaseofapproximately$2.1billion
+(7.4%) compared to 2017. Pre-tax earnings of the industrial products group were approximately $5.8 billion in 2018, an increase of
+$757 million (14.9%) compared to 2017. Pre-tax earnings as a percentage of revenues were 19.0% in 2018 and 17.7% in 2017. The
+comparativeearningsincreasewaspartiallyattributabletocertainone-timechargesatPCCandLubrizolin2017.
+PCC’s revenues in 2018 were $10.2 billion, an increase of 7.2% compared to 2017, which reflected increased demand in
+aerospace markets in connection with new aircraft programs, partly offset by lower demand for industrial gas turbine products. In
+addition,PCCexperiencedlowersalesofcertainpipeproductsin2018,primarilyattributabletotheU.Stariffs.
+PCC’spre-tax earnings increased 16.0% in 2018compared to2017.PCC’searnings in2017included certain one-time inventory
+and impairment charges of $272 million. Results in 2018 were negatively affected by costs associated with the temporary unplanned
+shut-down of certain metals facilities, metal press outages and lower earnings from the industrial gas turbine business. The facilities
+that were shut-down gradually resumed production and were approximately 80% operational at the end of 2018. In addition, the new
+aircraftprogramsinvolverelativelycomplexmanufacturingprocesses,negativelyaffectingearnings.
+Lubrizol’srevenuesin2018were$6.8billion,anincreaseof5.9%comparedto2017duetohigheraveragesalesprices,favorable
+changes in product mix and foreign currency translation effects, and a 2% increase in aggregate unit volumes. Lubrizol experienced
+significant increases in average material unit costs during 2018 and 2017, necessitating increases in sales prices. Lubrizol’s
+consolidatedvolumeincludedincreasesintheAdvancedMaterials(5%)andtheAdditives(1%)productlines.
+Lubrizol’s pre-tax earnings in 2018 increased 43.5% compared to 2017, which included pre-tax losses of approximately
+$190 million related to Lubrizol’s disposition of an underperforming bolt-on business and related intangible asset impairments and
+restructuring charges. Before such charges, Lubrizol’s earnings increased 17%, reflecting the previously mentioned increases in sales
+volumesandsellingprices,aswellaslowerotherrestructuringcharges,lowernetinterestexpense,andthefavorableeffectsofforeign
+currencytranslationandongoingexpensecontrolefforts,partlyoffsetbyhigherrawmaterialcosts.
+Marmon’s revenues in 2018 were $8.2 billion, an increase of 5.5% as compared to 2017. The revenue increase was primarily
+attributable to volume increases in the Transportation Products sector, higher average metals prices, and the effects of business
+acquisitions. These increases were partially offset by revenue decreases in the BeverageTechnologies andRailProductsandServices
+sectors.RailProductsandServicessectorrevenuesalsodecreasedduetolowerrailcarleaserevenues,partlyoffsetbyincreasedrailcar
+equipment sales and repair services. Throughout 2018, the railcar leasing business experienced the negative effects of lower lease
+renewalratesforrailcarsversustheratesonexpiringleases.
+Marmon’spre-taxearningsin2018decreased5.6%comparedto2017.Thedecreasewasprimarilyduetolowerpre-taxearnings
+fromtheRailProductsandServicessector($126million)andtheFoodserviceTechnologiesandRetailSolutionssectors($33million),
+partially offset byincreased earnings from theTransportation Productssector andagainin2018from thesaleofcertain assets ofthe
+BeverageTechnologiessectorof$44million.TheRailProductsandServicesearningsdeclinewasattributabletolowerrailcarleasing
+revenuesandhigherleasefleetrepaircosts.
+IMC’s revenues increased 16.1% in 2018 compared to 2017, due to a combination of factors, including higher unit sales, the
+effects of business acquisitions, and foreign currency translation effects from a weaker average U.S. Dollar in the first half of 2018.
+IMC’s pre-tax earnings increased significantly in 2018 compared to 2017, reflecting a combination of higher sales, increased
+manufacturing efficiencies, the effects of business acquisitions and ongoing expense control efforts, partly offset by higher raw
+materialcosts.
+CTB’s revenues increased 4.0% in 2018 versus 2017, due to favorable foreign currency translation effects and modest sales
+growth in protein production and processing systems. CTB’s pre-tax earnings in 2018 were lower than 2017, primarily due to lower
+grosssalesmarginsattributabletorawmaterialcostincreasesandhigherotheroperatingexpenses.
+K-47
+Management’sDiscussionandAnalysis(Continued)
+Manufacturing,ServiceandRetailing(Continued)
+Buildingproducts
+2019versus2018
+Revenues of the building products group were $20.3 billion in 2019, an increase of $1.65 billion (8.8%) compared to 2018.
+Pre-tax earnings of the group were $2.6 billion in 2019, an increase of 12.8% over 2018. Pre-tax earnings as percentages of revenues
+were13.0%and12.5%in2019and2018,respectively.
+Clayton Homes’ revenues were approximately $7.3 billion in 2019, an increase of $1.3 billion (21.5%) over 2018. The
+comparative increase was primarily due to increases in home sales of $1.16 billion (26%), reflecting a net increase in units sold and
+changes in sales mix. Unit sales of site-built homes increased 84% in 2019 over 2018, primarily due to business acquisitions, while
+averagepricesdeclined5%.Manufactured homeunitsalesincreased5%andwholesalesaleswere9%lowerin2019.Interestincome
+from lending activities in 2019 increased 6.7% compared to 2018, attributable to increased originations and average outstanding loan
+balances.Aggregateloanbalancesoutstandingwereapproximately$15.9billionatDecember31,2019comparedto$14.7billionasof
+December31,2018.
+Pre-tax earnings of Clayton Homes were $1.1 billion in 2019, an increase of $182 million (20.0%) compared to 2018. The
+earnings increase in 2019 was attributable to home building activities, which reflected the increases in home sales, and manufactured
+housinglendingactivities. Pre-taxearningsfromlendingandfinanceactivities in2019increased12%,primarilyduetoanincreasein
+interest income attributable to higher average loan balances, increased other financial services earnings and lower credit losses,
+partially offset by higher interest expense, attributable to higher average borrowings and interest rates, and by higher other operating
+costs.
+Aggregate revenues of our other building products businesses were $13.0 billion in 2019, an increase of 2.8% versus 2018.
+Revenues increased for paint and coatings, hard surface flooring and roofing products, attributable to a combination of increased
+volumes, product mix changes and increased average selling prices, while sales of brick products declined, primarily attributable to
+lowervolumes.
+Pre-tax earnings of the other building products businesses were $1.5 billion in 2019, an increase of 8.2% over 2018. Earnings in
+2019benefittedfromacombinationofincreasesinsellingpricesincertainproductcategories,decliningrawmaterialcostsforcertain
+commoditiesandoperatingcostcontrolinitiatives,whichwerepartlyoffsetbytheeffectsofincreasedfacilitiesclosurecosts.
+2018versus2017
+Revenues of the building products group in 2018 were approximately $18.7 billion, an increase of 10.2% compared to 2017.
+Pre-tax earnings of the building products group were approximately $2.3 billion in 2018, an increase of 8.8% versus 2017. Overall,
+pre-taxearningsasapercentageofrevenueswere12.5%in2018and12.7%in2017.
+Clayton Homes’ revenues were $6.0 billion in 2018, an increase of 20.7% over 2017. The increase was driven by an increase in
+revenues from home sales of $971 million (28.2%), primarily due to a 105% increase in unit sales of site-built homes attributable to
+businessesacquiredoverthelasttwoyears.Unitsalesofmanufacturedhomesin2018alsoincreased4.9%comparedto2017.Average
+unit prices of site-built homes are considerably higher than traditional manufactured homes.Inaddition, interest income from lending
+activitiesincreased4%in2018comparedto2017,primarilyduetoincreasedaverageoutstandingloanbalances.
+ClaytonHomes’pre-taxearningswere$911millionin2018,anincreaseof$145million(19.0%)comparedto2017.Theincrease
+was primarily attributable to a significant increase in earnings from home building (manufactured housing and site-built homes)
+activities, which reflected the impact of increased home sales and margins. Pre-tax earnings from lending activities in 2018 declined
+2% compared to 2017, as increased interest expense, attributable to higher average debt balances and interest rates, and higher
+operatingcostsmorethanoffsettheincreaseininterestincome.AtDecember31,2018and2017,aggregateloanbalancesoutstanding
+wereapproximately$14.7billionand$13.7billion,respectively.
+Revenues of our other building products businesses increased 5.8% in2018toapproximately $12.6billion compared to2017.In
+2018, Shaw’s sales increased 7.9% and Johns Manville’s sales increased 7.2% as compared to 2017. The increases reflected higher
+averagesellingprices,productmixchangesandoverallunitvolumeincreases.
+K-48
+Management’sDiscussionandAnalysis(Continued)
+Manufacturing,ServiceandRetailing(Continued)
+Buildingproducts(Continued)
+Rawmaterial andproduction costsin2018ofourbuilding products businesses weregenerally higherthanin2017.Forinstance,
+steel,titanium dioxideandpetrochemicals costsweresubstantiallyhigherin2018thanin2017,aswereproductdeliverycosts,duein
+part to the shortage of truck drivers in the U.S.These cost increases precipitated sales price increases, although such increases lagged
+theincreasesinrawmaterialscosts.
+Consumerproducts
+2019versus2018
+Consumerproductsrevenueswere$11.8billionin2019,adecreaseof$718million(5.7%)versus2018.RevenuesofForestRiver
+declined 12.9% versus 2018, primarily due to lower unit sales. Revenues of Duracell increased 1.3% and apparel and footwear
+revenues declined 1.1% compared to 2018. Despite a comparative revenue increase of 3.5% in 2019, Brooks Sports operating results
+were negatively affected bylostsales associated withproblems encountered atadistribution center thatopenedinthesecondquarter.
+Inaddition,ourotherapparelandotherfootwearbusinessescontinuetoexperiencelowersalesvolumesforcertainproducts,reflecting
+theshiftbymajorretailerstowardsprivatelabelproducts.
+Consumer products pre-tax earnings were $1.25 billion in 2019, an increase of 3.6% compared to 2018. Pre-tax earnings as a
+percentageofrevenueswere10.6%in2019and9.6%in2018.Theincreaseinpre-taxearningswasprimarilyattributabletocontinuing
+costcontainmenteffortsacrossseveralofthebusinessesandtheeffectsofanewDuracellproductlaunch,partiallyoffsetbytheimpact
+oflowerrecreationalvehiclesalesatForestRiver.
+2018versus2017
+Consumer products revenues were approximately $12.5 billion in 2018, an increase of 3.2% compared to 2017, which was
+primarilyduetorevenueincreasesatForestRiverandatourapparelandfootwearbusinesses.ForestRiver’srevenuesincreased2.6%
+in2018,reflectingrelativelyunchangedunitsalesversus2017.However,overthesecondhalfoftheyear,comparativesalesatForest
+Riverdeclined5%,reflectinga7%declineinunitssold.Apparelandfootwearrevenuesincreased4.6%toapproximately$4.3billion,
+primarilyduetoincreasedsalesvolumeatBrooksSportsandGaran.
+Pre-tax earnings were $1.2 billion in 2018, an increase of 8.6% compared to 2017. Pre-tax earnings as a percentage of revenues
+were 9.6% in 2018 and 9.2% in 2017. The increase in earnings reflected increases from Duracell and the apparel and footwear
+businesses,partlyoffsetbylowerearningsfromForestRiverandLarsonJuhl.
+Forest River’s pre-tax earnings declined 9.0% compared to 2017. Operating results were adversely affected over the second half
+of 2018, and in the fourth quarter in particular, by higher material costs, which, together with the effects of lower sales volumes,
+contributedtoa28%reductioninfourthquarterpre-taxearnings.
+Pre-tax earnings of the apparel and footwear businesses increased 6.4% in 2018 compared to 2017, primarily attributable to the
+overall increase in revenues and sales mix changes. Duracell’s pre-tax earnings increased in 2018 compared to 2017, reflecting the
+favorableeffectsofongoingoperationalimprovementeffortsandacomparativedeclineinrestructuringcharges.
+Serviceandretailing
+Asummaryofrevenuesandpre-taxearningsofourserviceandretailingbusinessesfollows(dollarsinmillions).
+Revenues Pre-taxearnings
+2019 2018 2017 2019 2018 2017
+Service $ 13,496 $ 13,333 $ 12,155 $ 1,681 $ 1,836 $ 1,519
+Retailing 15,991 15,606 15,064 874 860 785
+McLaneCompany 50,458 49,987 49,775 288 246 299
+$ 79,945 $ 78,926 $ 76,994 $ 2,843 $ 2,942 $ 2,603
+K-49
+Management’sDiscussionandAnalysis(Continued)
+Manufacturing,ServiceandRetailing(Continued)
+Service
+Our service business group offers fractional ownership programs for general aviation aircraft (NetJets) and high technology
+trainingproductsandservicestooperatorsofaircraft(FlightSafety).Wealsodistributeelectroniccomponents(TTI)andfranchiseand
+service a network of quick service restaurants (Dairy Queen). Other service businesses include transportation equipment leasing
+(XTRA)andfurnitureleasing(CORT),electronicnewsdistribution,multimediaandregulatoryfilings(BusinessWire),publicationof
+newspapers and other publications (Buffalo News and the BH Media Group) and operation of a television station in Miami, Florida
+(WPLG).Wealsoofferthirdpartylogisticsservicesthatprimarilyservethepetroleumandchemicalindustries(CharterBrokerage).
+2019versus2018
+Service group revenues were $13.5 billion in 2019, an increase of 1.2% compared to 2018. Sales of TTI increased 2% in 2019
+comparedtotheexceptionallyhighsaleslevelsin2018.Excludingtheeffectsofacquisitionsandforeigncurrency,TTI’ssalesin2019
+wererelatively unchangedfrom2018.TTI’ssalesbegantoslowinthefourthquarterof2018andcontinuedtoslowthroughout2019,
+attributabletosofteningcustomerdemand,lowersalespricesandtheeffectsofU.S.tradetariffs.
+Service group revenues in 2019 also reflected increases in aviation-related services (NetJets and to a lesser extent FlightSafety)
+and the leasing businesses, and decreases from the media businesses and Charter Brokerage, which divested a high revenue, low
+margin business in mid-2019. The increase in NetJets revenues in 2019 reflected increased lease revenue, primarily attributable to an
+increaseinaircraftonleaseandincreasedflighthours,partlyoffsetbylowerrevenuefromprepaidflightcards.
+Pre-tax earnings of the service group were $1.7 billion in 2019, a decrease of $155 million (8.4%) compared to 2018. Pre-tax
+earnings of the group as a percentage of revenues were 12.5% in 2019 compared to 13.8% in 2018. The comparative declines in
+earningsin2019wereprimarilyduetolowerearningsfromTTIandFlightSafety,partlyoffsetbyhigherearningsfromNetJets.TTI’s
+earnings decline was attributable to lower gross margin, unfavorable foreign currency translation effects and higher operating
+expenses, partly offset by earnings from businesses acquired. FlightSafety’s earnings decline was attributable to significant losses
+related to an existing government contract that were recorded in the fourth quarter, partly offset by lower training equipment
+impairment charges. Earnings from NetJets increased in 2019, primarily attributable to increased revenues and improved fleet and
+operatingefficiencies,whichimprovedoperatingmargins.
+2018versus2017
+Revenues of the service group were approximately $13.3 billion in 2018, an increase of approximately 9.7% compared to 2017.
+TTI’s revenues increased approximately 33.7% compared to 2017, reflecting industry-wide increases in demand for electronic
+components in many geographic markets around the world, the effects of recent business acquisitions and favorable foreign currency
+translation effects. While TTI’s revenue increase in 2018 was significant, revenue growth began to moderate in the fourth quarter, in
+partattributable totheimpact ofU.S.trade tariffs. WPLGgenerated arevenueincrease of20.8%in2018over2017,primarily dueto
+increased political advertising revenue. Revenues of Charter Brokerage increased 53.3%, reflecting increased fees earned and product
+mix changes. Revenues of the CORT and XTRA leasing businesses increased 8.4% in 2018 compared to 2017 due to increased
+over-theroadtrailerunitsonleaseandincreasedfurniturerentalincome.
+Pre-tax earnings of the service group in 2018 were approximately $1.8 billion, an increase of 20.9% compared to 2017. The
+comparativeearningsincreasewasprimarilyduetoTTI,whichaccountedforalmost84%oftheincrease.TheearningsincreaseofTTI
+was primarily due to the effects of the sales volume increases. In addition, XTRA, Charter Brokerage and NetJets each generated
+increased earnings in 2018 compared to 2017. The increases in earnings of these businesses were partly offset by lower earnings at
+FlightSafety,primarilyduetoreducedmarginsfromsalesofflightsimulatorsandtrainingequipmentimpairmentcharges.
+Retailing
+Our retailers include Berkshire Hathaway Automotive (“BHA”). BHA includes over 80 auto dealerships that sell new and
+pre-ownedautomobiles andofferrepairservicesandrelatedproducts.BHAalsooperatestwoinsurancebusinesses,twoautoauctions
+and an automotive fluid maintenance products distributor. Our retailing businesses also include four home furnishings retailing
+businesses (Nebraska Furniture Mart, R.C. Willey, Star Furniture and Jordan’s), which sell furniture, appliances, flooring and
+electronics.
+K-50
+Management’sDiscussionandAnalysis(Continued)
+Manufacturing,ServiceandRetailing(Continued)
+Retailing(Continued)
+Other retailing businesses include three jewelry retailing businesses (Borsheims, Helzberg and Ben Bridge), See’s Candies
+(confectionary products), Pampered Chef (high quality kitchen tools), Oriental Trading Company (party supplies, school supplies and
+toysandnovelties)andDetlevLouisMotorrad(“Louis”),aGermany-basedretailerofmotorcycleaccessories.
+2019versus2018
+Retailing group revenues were $16.0 billion in 2019, an increase of 2.5% compared to 2018. BHA’s revenues in 2019, which
+represented approximately 64% of our retailing revenues, increased 4.1% over 2018. BHA’s revenue increase reflected an 11.5%
+increase in pre-owned vehicle sales, vehicle pricing increases, improvement in vehicle finance and service contract activities and
+vehiclerepairworkascomparedto2018.Newvehiclesalesin2019wererelativelyunchangedfrom2018.
+Homefurnishingsgrouprevenues,whichrepresentedabout20%oftheaggregateretailinggrouprevenues,declined1.3%in2019
+comparedto2018.Salesin2019wererelativelyunchangedorlowerineachofourhomefurnishingsoperations.
+Retail group pre-tax earnings were $874 million in 2019, an increase of 1.6% over 2018. BHA’s pre-tax earnings increased
+22.7%,primarily duetotheincreasesinearningsfromfinanceandservicecontractactivities,partlyoffsetbyhigherfloorplaninterest
+expense.Homefurnishingsgrouppre-taxearningsdeclined14.7%versus2018,reflectingthedeclineinrevenuesandgenerallyhigher
+operatingexpenses.Aggregatepre-taxearningsfortheremainderofourretailinggroupdeclined7.9%comparedto2018.
+2018versus2017
+Revenues of the retailing group were approximately $15.6 billion in 2018, an increase of 3.6% compared to 2017. BHA’s
+revenues,whichrepresentedapproximately63%oftheaggregateretailingrevenues,increased4.0%ascomparedto2017.Theincrease
+derived primarily from increased pre-owned vehicle sales and service contract revenues. Revenues from new vehicle sales were
+relativelyunchanged.Louisrevenuesincreased7.8%in2018versus2017,primarilyduetothetranslationeffectsofaweakeraverage
+U.S. Dollar. Home furnishings revenues increased 4.7% in 2018 over 2017, reflecting increased sales in certain geographic markets
+andtheeffectofanewstore.
+Pre-taxearningsoftheretailinggroupwere$860millionin2018,anincreaseof9.6%over2017.Theearningsincreaseincluded
+higher earnings from BHA and Louis, partly offset by lower earnings from the home furnishings retailers. The earnings increase of
+BHA was primarily from finance and service contract activities, partly offset by higher floorplan interest expense. The earnings
+increase at Louis reflected the revenue increase and an increase in its operating margin rate. Earnings of the home furnishings
+businessesdeclined2.4%in2018comparedto2017,partlyduetoincreasedinventoryliquidation,deliveryandoccupancycostsatStar
+Furniture.
+McLaneCompany
+McLane operates a wholesale distribution business that provides grocery and non-food consumer products to retailers and
+convenience stores (“grocery”) and to restaurants (“foodservice”). McLane also operates businesses that are wholesale distributors of
+distilled spirits, wine and beer (“beverage”). Thegrocery and foodservice businesses generate high sales and very lowprofit margins.
+Thesebusinesses haveseveral significant customers, includingWalmart, 7-Eleven,Yum!Brandsandothers.Grocerysalescomprised
+approximately 66% of McLane’s consolidated sales in 2019 with food service comprising most of the remainder. A curtailment of
+purchasingbyanyofitssignificantcustomerscouldhaveanadverseimpactonperiodicrevenuesandearnings.
+Revenues were $50.5 billion in 2019, an increase of 0.9% compared to 2018. McLane operates on 52/53-week fiscal year and
+2019 included an extra week compared to 2018. Otherwise, revenues in 2019 decreased roughly 3% in the grocery business and
+increased 3% in the foodservice business as compared to 2018. Pre-tax earnings increased $42 million (17.1%) as compared to 2018.
+The earnings increase in 2019 reflected an increase in average gross margin rates and changes in business mix, partly offset by
+increased operating expenses, the largest portion of which were employee costs. McLane continues to operate in an intensely
+competitivebusinessenvironment,whichisnegativelyaffectingitscurrentoperatingresults.Weexpecttheseoperatingconditionswill
+continue.
+K-51
+Management’sDiscussionandAnalysis(Continued)
+Manufacturing,ServiceandRetailing(Continued)
+McLaneCompany(Continued)
+Revenues were approximately $50.0 billion in 2018, slightly higher than 2017, reflecting a slight increase in grocery sales (1%)
+and a slight decrease in foodservice sales (1%). The decline in foodservice revenues was primarily due to a net loss of customers.
+Pre-tax earnings were $246million, adecline of17.7%,compared to2017.McLane’s grocery andfoodservice businesses continue to
+operateinahighlycompetitive businessenvironment, whichnegativelyaffectedoperatingresults.Whilegrossmarginratesincreased
+slightly over 2018, increases in fuel, depreciation and certain other operating expenses more than offset the increase, producing a
+declineinpre-taxearningscomparedto2017.
+InvestmentandDerivativeGains(Losses)
+Asummaryofinvestmentandderivativegainsandlossesfollows(dollarsinmillions).
+2019 2018 2017
+Investmentgains(losses) $ 71,123 $ (22,155) $ 1,410
+Derivativegains(losses) 1,484 (300) 718
+Gains(losses)beforeincometaxesandnoncontrollinginterests 72,607 (22,455) 2,128
+Incometaxesandnoncontrollinginterests 15,162 (4,718) 751
+Netgains(losses) $ 57,445 $ (17,737) $ 1,377
+Effectiveincometaxrate 20.9% 20.8% 34.9%
+Investmentgains(losses)
+Due to a new accounting pronouncement adopted as of January 1, 2018, pre-tax investment gains/losses reported in earnings
+includeunrealizedgainsandlossesarisingfromchangesinmarketpricesoninvestmentsinequitysecurities.Priorto2018,investment
+gains/losses related to equity securities were generally recorded as the securities were sold, redeemed or exchanged based onthe cost
+ofthedisposedsecuritiesandtheunrealizedgainsandlosseswererecordedinothercomprehensiveincome.Whilethenewaccounting
+pronouncement doesnotaffect ourconsolidated shareholders’ equityortotalcomprehensive income,ithassignificantly increasedthe
+volatility of our periodic net earnings due to the magnitude of our equity securities portfolio and the inherent volatility of equity
+securities prices. Investment gains and losses from periodic changes in securities prices will continue to cause significant volatility in
+ourconsolidatedearnings.
+Pre-tax investment gainsincludednetunrealized gainsofapproximately $69.6billionin2019attributable toequitysecurities we
+heldatDecember31,2019.Bycomparison,werecordedpre-taxinvestmentlossesofapproximately$22.7billionin2018attributable
+to unrealized losses with respect to the equity securities we held at December 31, 2018. Pre-tax net unrealized gains on equity
+securitiesofapproximately$29billionin2017wasrecordedinothercomprehensiveincome.
+Prior to 2018, investment gains/losses on equity securities were recorded when securities were sold based on the cost of the
+disposedsecurities.Taxableinvestmentgainsonequitysecuritiessoldduringtheyear,whichisthedifferencebetweensalesproceeds
+andtheoriginalcostbasisofthesecuritiessold,were$3.2billionin2019and$3.3billionin2018.
+We believe that investment gains/losses, whether realized from sales or unrealized from changes in market prices, are often
+meaningless in terms of understanding our reported consolidated earnings or evaluating our periodic economic performance. We
+continuetobelievetheinvestmentgains/lossesrecordedinearnings,includingthechangesinmarketpricesforequitysecurities,inany
+givenperiodhaslittleanalyticalorpredictivevalue.
+Derivativegains(losses)
+Derivativecontractgains/lossesincludethechangesinfairvalueofourequityindexputoptioncontractliabilities,whichrelateto
+contracts that were originated prior to March 2008. Substantially all remaining contracts will expire by February 2023. The periodic
+changes in the fair values of these liabilities are recorded in earnings and can be significant, primarily due to the volatility of
+underlyingequitymarkets.
+AsofDecember31,2019,theintrinsicvalueofourequityindexputoptioncontractswas$397millionandourrecordedliability
+at fair value was $968 million. Our ultimate payment obligations, if any, under our contracts will be determined as of the contract
+expirationdatesbasedontheintrinsicvalueasdefinedunderthecontracts.Contractswithanaggregatenotionalvalueof$12.3billion
+expiredin2019.
+K-52
+Management’sDiscussionandAnalysis(Continued)
+InvestmentandDerivativeGains(Losses)(Continued)
+Derivativegains(losses)(Continued)
+Pre-taxgainsfromequityindexputoptioncontractswere$1.5billionin2019comparedtopre-taxlossesof$300millionin2018
+and gains of $718 million in 2017. The gains in 2019 and 2017 reflected increases in the equity index values and shorter remaining
+contractdurationswhilethelossesin2018wereprimarilyduetolowerequityindexvalues.
+Other
+Asummaryofafter-taxotherearnings(losses)follows(inmillions).
+2019 2018 2017
+Equitymethodearnings(losses) $ 1,023 $ (1,419) $ 1,111
+Acquisitionaccountingexpenses (884) (1,111) (936)
+Corporateinterestexpense,beforeforeigncurrencyeffects (280) (311) (266)
+Foreigncurrencyexchangerategains(losses)onBerkshireandBHFCnon-U.S.
+Dollarseniornotes 58 289 (655)
+Incometaxexpenseadjustment (377) — —
+Other,principallycorporateinvestmentincome 884 986 261
+Netearnings(losses)attributabletoBerkshireHathawayshareholders $ 424 $ (1,566) $ (485)
+After-tax equity method earnings include Berkshire’s share of earnings attributable to Kraft Heinz, Pilot, Berkadia and Electric
+TransmissionofTexas.After-taxequitymethodearningsrelatedtoourKraftHeinzinvestmentwereearningsof$488millionin2019,
+losses of $1,859 million in 2018 and earnings of $972 million in 2017. The after-tax equity method losses in 2018 included
+approximately$2.7billionforourshareofintangibleassetimpairmentchargesrecordedbyKraftHeinz.
+After-tax acquisition accounting expenses include charges arising from the application of the acquisition method in connection
+with certain of Berkshire’s past business acquisitions. Such charges arise primarily from the amortization or impairment of intangible
+assetsrecordedinconnectionwiththosebusinessacquisitions.
+ForeigncurrencyexchangerategainsandlossespertaintoBerkshire’soutstandingEurodenominateddebt(€6.85billionpar)and
+Japanese Yen denominated debt (¥430 billion par), issued in September 2019, and BHFC’s Great Britain Pound denominated debt
+(£1.75 billion par), issued in June 2019. Changes in foreign currency exchange rates produced non-cash unrealized gains and losses
+fromtheperiodicrevaluationoftheseliabilitiesintoU.S.Dollars.Thegainsandlossesrecordedinanygivenperiodcanbesignificant
+duethemagnitudeoftheborrowingsandtheinherentvolatilityinforeigncurrencyexchangerates.
+Theincometaxexpenseadjustmentrelatestoinvestmentsthatweremadebetween2015and2018incertaintaxequityinvestment
+funds.Ourinvestmentsinthesefundsaggregatedapproximately$340million.InDecember2018andduringthefirstquarterof2019,
+welearnedofallegationsbyfederalauthoritiesoffraudulentconductbythesponsorofthesefundsandinJanuary2020theprincipals
+involved in creating the investment funds plead guilty to criminal charges related to the sale of the investments. As a result, we now
+believethatitismorelikelythannotthattheincometaxbenefitsthatwerecognizedinprioryearsarenotvalid.
+FinancialCondition
+Our consolidated balance sheet continues to reflect significant liquidity and a strong capital base. Consolidated shareholders’
+equity at December 31, 2019 was $424.8 billion, an increase of $76.1 billion since December 31, 2018. Net earnings attributable to
+Berkshire shareholders in 2019 were $81.4 billion and included after-tax gains on our investments of approximately $56.3 billion,
+whichwereprimarilyfromincreasesinmarketpricesoftheequitysecuritiesweownedatDecember31,2019.
+AtDecember 31,2019,our insurance and other businesses heldcash,cashequivalents andU.S.Treasury Billsof$125.0billion,
+which included $101 billion in U.S. Treasury Bills. Investments in equity and fixed maturity securities (excluding our investment in
+KraftHeinz)were$266.7billion.InAugust2019,wepaid$10billiontoacquirepreferredstockandwarrantsofOccidentalPetroleum
+Corporation,asdiscussedinNote4totheaccompanyingConsolidatedFinancialStatements.
+K-53
+Management’sDiscussionandAnalysis(Continued)
+FinancialCondition(Continued)
+Berkshire parent company debt outstanding at December 31, 2019 was $19.9 billion, an increase of $3.0 billion since
+December 31, 2018. In 2019, Berkshire repaid maturing senior notes of $750 million and issued ¥430 billion of senior notes
+(approximately $4.0 billion), which has a weighted average interest rate of 0.49% and maturity dates ranging from 2024 to 2049. In
+March2020,BerkshireEurodebtof€1.0billionwillmature.
+Berkshire’s insurance and other subsidiary outstanding borrowings were $17.7 billion at December 31, 2019, which included
+senior note borrowings of BHFC,a wholly-owned financing subsidiary, of approximately $11.0 billion. BHFC’s borrowings are used
+to fund a portion of loans originated and acquired by Clayton Homes and equipment held for lease by our UTLX railcar leasing
+business. In 2019, BHFC repaid $3.95 billion of maturing senior notes and issued $2.0 billion of 4.25% senior notes due in 2049,
+£1.0billionof2.375%seniornotesduein2039and£750millionof2.625%seniornotesduein2059.Berkshireguaranteesthefulland
+timelypaymentofprincipalandinterestwithrespecttoBHFC’sseniornotes.In2020,BHFCdebtof$900millionmatures,including
+$350millionthatmaturedinJanuary.
+Our railroad, utilities and energy businesses (conducted by BNSF and BHE) maintain very large investments in capital assets
+(property, plant and equipment) and will regularly make significant capital expenditures in the normal course of business. Capital
+expenditures of these two operations in 2019 were $11.0 billion and we forecast additional capital expenditures of approximately
+$10.6billionin2020.
+BNSF’s outstanding debt was $23.2 billion as of December 31, 2019, relatively unchanged since December 31, 2018. In 2019,
+BNSF issued $825 million of 3.55% senior unsecured debentures due in 2050 and repaid $750 million of maturing debentures.
+Outstanding borrowings of BHE and its subsidiaries were $42.6 billion at December 31, 2019, an increase of $3.3 billion since
+December 31, 2018. In 2019, BHE and its subsidiaries issued debt aggregating $4.6 billion with maturity dates ranging from 2029 to
+2059andrepaidapproximately$1.8billionofmaturingtermdebt.Theproceedsfromthesefinancingswereusedtorepayborrowings,
+fund capital expenditures and for other general corporate purposes. In January 2020, a BHE subsidiary issued $725 million of term
+debtconsistingof$425millionof2.4%notesduein2030and$300millionof3.125%notesduein2050.Berkshiredoesnotguarantee
+the repayment of debt issued by BNSF, BHE or any of their subsidiaries and is not committed to provide capital to support BNSF,
+BHEoranyoftheirsubsidiaries.
+Berkshire’scommonstockrepurchaseprogramwasamendedonJuly17,2018,permittingBerkshiretorepurchaseitsClassAand
+Class B shares at prices below Berkshire’s intrinsic value, as conservatively determined by Warren Buffett, Berkshire’s Chairman of
+theBoardandChiefExecutiveOfficer,andCharlieMunger,ViceChairmanoftheBoard.Theprogramallowssharerepurchasesinthe
+open market or through privately negotiated transactions and does not specify a maximum number of shares to be repurchased. The
+program is expected to continue indefinitely. We will not repurchase our stock if it reduces the total amount of Berkshire’s
+consolidated cash, cash equivalents and U.S.Treasury Billholdingsbelow$20billion. Financial strength andredundant liquidity will
+always be of paramount importance at Berkshire. In 2019, Berkshire repurchased shares of Class A and B common stock for an
+aggregatecostof$5.0billion.
+ContractualObligations
+We are party to contracts associated with ongoing business and financing activities, which will result in cash payments to
+counterparties in future periods. Certain obligations are included in our Consolidated Balance Sheets, such as notes payable, which
+require future payments on contractually specified dates and in fixed and determinable amounts. Other obligations pertaining to the
+acquisition of goods or services in the future, such as certain purchase obligations, are not currently reflected in the financial
+statements,willberecognizedinfutureperiodsasthegoodsaredeliveredorservicesareprovided.Beginningin2019,operatinglease
+obligationsareincludedintheConsolidatedBalanceSheetasaresultoftheadoptionofanewaccountingpronouncement.Thetiming
+and amount of the payments under certain contracts, such as insurance and reinsurance contracts, are contingent uponthe outcome of
+future events. Actual payments will likely vary, perhaps materially, from the estimated liabilities currently recorded in our
+ConsolidatedBalanceSheet.
+K-54
+Management’sDiscussionandAnalysis(Continued)
+ContractualObligations(Continued)
+A summary of our contractual obligations as of December 31, 2019 follows (in millions). Actual payments will likely vary,
+perhapssignificantly,fromestimatesreflectedinthetable.
+Estimatedpaymentsduebyperiod
+Total 2020 2021-2022 2023-2024 After2024
+Notespayableandotherborrowings,includinginterest $ 164,116 $ 14,174 $ 17,358 $ 20,602 $ 111,982
+Operatingleases 6,879 1,374 2,133 1,384 1,988
+Purchaseobligations(1) 50,092 15,669 9,290 5,430 19,703
+Unpaidlossesandlossadjustmentexpenses(2) 115,460 26,381 27,818 15,246 46,015
+Life,annuityandhealthinsurancebenefits(3) 35,891 1,903 114 392 33,482
+Other 23,285 2,034 3,159 6,466 11,626
+Total $ 395,723 $ 61,535 $ 59,872 $ 49,520 $ 224,796
+(1) Primarily related to fuel, capacity, transmission and maintenance contracts and capital expenditure commitments of BHE and
+BNSFandaircraftpurchasecommitmentsofNetJets.
+(2) Includesunpaidlossesandlossadjustmentexpensesunderretroactivereinsurancecontracts.
+(3) Amountsrepresentestimatedundiscountedbenefits,netofestimatedfuturepremiums,asapplicable.
+CriticalAccountingPolicies
+CertainaccountingpoliciesrequireustomakeestimatesandjudgmentsindeterminingtheamountsreflectedintheConsolidated
+Financial Statements. Such estimates and judgments necessarily involve varying, and possibly significant, degrees of uncertainty.
+Accordingly,certainamountscurrentlyrecordedinthefinancialstatementswilllikelybeadjustedinthefuturebasedonnewavailable
+information and changes in other facts and circumstances. A discussion of our principal accounting policies that required the
+applicationofsignificantjudgmentsasofDecember31,2019follows.
+Propertyandcasualtylosses
+We record liabilities for unpaid losses and loss adjustment expenses (also referred to as “gross unpaid losses” or “claim
+liabilities”) baseduponestimates oftheultimate amountspayableforlossesoccurringonorbeforethebalancesheetdate.Thetiming
+andamountofultimatelosspaymentsarecontingentupon,amongotherthings,thetimingofclaimreportingfrominsuredsandceding
+companies and the final determination of the loss amount through the loss adjustment process. We use a variety of techniques in
+establishingclaimliabilitiesandalltechniquesrequiresignificantjudgmentsandassumptions.
+As of the balance sheet date, recorded claim liabilities include provisions for reported claims, as well as claims not yet reported
+and the development of reported claims. The period between the loss occurrence date and loss settlement date is the “claim-tail.”
+Propertyclaimsusuallyhaverelativelyshortclaim-tails,absentlitigation.Casualtyclaimsusuallyhavelongerclaim-tails,occasionally
+extending for decades. Casualty claims may be more susceptible to litigation and the impact of changing contract interpretations. The
+legalenvironmentandjudicialprocessfurthercontributetoextendingclaim-tails.
+Our consolidated claim liabilities as of December 31, 2019 were approximately $115.5 billion (including liabilities from
+retroactive reinsurance), of which 84% related to GEICO and the Berkshire Hathaway Reinsurance Group. Additional information
+regardingsignificantuncertaintiesinherentintheprocessesandtechniquesofthesebusinessesfollows.
+GEICO
+GEICO predominantly writes private passenger auto insurance. As of December 31, 2019, GEICO’s gross unpaid losses were
+$22.0billion.Claimliabilities,netofreinsurancerecoverablewere$20.9billion.
+GEICO’s claim reserving methodologies produce liability estimates based upon the individual claims. The key assumptions
+affectingourliabilityestimatesincludeprojectionsofultimateclaimcounts(“frequency”)andaveragelossperclaim(“severity”).We
+utilizeacombinationofseveralactuarialestimationmethods,includingBornhuetter-Fergusonandchain-laddermethodologies.
+Claimliabilityestimatesforautomobileliabilitycoverages(suchasbodilyinjury(“BI”),uninsuredmotorists,andpersonalinjury
+protection) are more uncertain due to the longer claim-tails, so we establish additional case development estimates. As of
+December31,2019,casedevelopmentliabilitiesaveragedapproximately30%ofthecasereserves.Weselectcasedevelopmentfactors
+throughanalysisoftheoveralladequacyofhistoricalcaseliabilities.
+K-55
+Management’sDiscussionandAnalysis(Continued)
+Propertyandcasualtylosses(Continued)
+GEICO(Continued)
+Incurred-but-not-reported (“IBNR”) claims liabilities are based on projections of the ultimate number of claims expected
+(reported and unreported) for each significant coverage. We use historical claim count data to develop age-to-age projections of the
+ultimate counts by quarterly accident period, from which we deduct reported claims to produce the number of unreported claims. We
+estimate the average costs per unreported claim and apply such estimates to theunreported claim counts,producing anIBNRliability
+estimate.WemayrecordadditionalIBNRestimateswhenactuarialtechniquesaredifficulttoapply.
+Wetesttheadequacyoftheaggregateclaimliabilitiesusingoneormoreactuarialprojectionsbasedonclaimclosuremodelsand
+paid and incurred loss triangles. Each type of projection analyzes loss occurrence data for claims occurring in a given period and
+projectstheultimatecost.
+Our claim liability estimates recorded at the end of 2018 increased $42 million during 2019, which produced a corresponding
+decrease to pre-tax earnings. The assumptions used to estimate liabilities at December 31,2019reflect the most recent frequency and
+severityresults.Futuredevelopmentofrecordedliabilities willdependonwhetheractualfrequencyandseverityaremoreorlessthan
+anticipated.
+With respect to liabilities for BI claims, we believe it is reasonably possible that average severities will change by at least one
+percentage point from the severities used in establishing the recorded liabilities at December 31, 2019. We estimate that a one
+percentagepointincreaseordecreaseinBIseveritieswouldproducea$295millionincreaseordecreaseinrecordedliabilities, witha
+correspondingdecreaseorincreaseinpre-taxearnings.ManyoftheeconomicforcesthatwouldlikelycauseBIseveritytodifferfrom
+expectationswouldlikelyalsocauseseveritiesforotherinjurycoveragestodifferinthesamedirection.
+BerkshireHathawayReinsuranceGroup
+BHRG’s liabilities for unpaid losses and loss adjustment expenses derive primarily from reinsurance contracts issued through
+NICO and General Re. A summary of BHRG’s property and casualty unpaid losses and loss adjustment expenses, other than
+retroactivereinsurancelossesandlossadjustmentexpenses,asofDecember31,2019follows(inmillions).
+Property Casualty Total
+Reportedcaseliabilities $ 5,063 $ 9,665 $ 14,728
+IBNRliabilities 4,631 12,825 17,456
+Grossunpaidlossesandlossadjustmentexpenses 9,694 22,490 32,184
+Reinsurancerecoverable 268 852 1,120
+Netunpaidlossesandlossadjustmentexpenses $ 9,426 $ 21,638 $ 31,064
+Gross unpaid losses and loss adjustment expenses in the table above consist primarily of traditional property and casualty
+coverageswrittenprimarilyunderexcess-of-lossandquota-sharetreaties.Undercertaincontracts,coveragecanapplytomultiplelines
+of business written and the ceding company may not report loss data by such lines consistently, if at all. In those instances, we
+allocatedlossestopropertyandcasualtycoveragesbasedoninternalestimates.
+In connection with reinsurance contracts, the nature, extent, timing and perceived reliability of premium and loss information
+receivedfromcedingcompaniesvarieswidelydependingonthetypeofcoverageandthecontractualreportingterms.Contractterms,
+conditionsandcoveragesalsotendtolackstandardizationandmayevolvemorerapidlythanprimaryinsurancepolicies.
+The nature and extent of loss information provided under many facultative (individual risk) or per occurrence excess contracts
+maynotdiffersignificantly fromtheinformation receivedunderaprimaryinsurancecontract.However,lossinformationisoftenless
+detailedwithrespecttoaggregateexcess-of-lossandquota-sharecontracts.Additionally,lossinformationwereceivethroughperiodic
+reports is often in a summary format rather than on an individual claim basis. Loss data includes recoverable paid losses, as well as
+caselossestimates.CedingcompaniesinfrequentlyprovidereliableIBNRestimatestoreinsurers.
+K-56
+Management’sDiscussionandAnalysis(Continued)
+Propertyandcasualtylosses(Continued)
+BerkshireHathawayReinsuranceGroup(Continued)
+Lossreportingtoreinsurersistypicallyslowerincomparisontoprimaryinsurers.IntheU.S.,suchreportingisgenerallyrequired
+atquarterly intervals rangingfrom 30to90daysafter theendofthequarterly period,whileoutside oftheU.S.,reinsurance reporting
+practices may vary further. In certain countries, clients report annually from 90 to 180 days after the end of the annual period.
+Reinsurersmayassumeandcedeunderlyingrisksfromotherreinsurers, whichmayfurtherdelaythereportingofclaims.Therelative
+impactofreportingdelaysonthereinsurermayvarydependingonthetypeofcoverage,contractualreportingterms,themagnitudeof
+theclaimrelativetotheattachmentpointofthereinsurancecoverage,andforotherreasons.
+Asreinsurers, thepremiumandlossdatawereceiveisatleastonelevelremovedfromtheunderlyingclaimant,sothereisarisk
+thatthelossdatareportedisincomplete,inaccurateortheclaimisoutsidethecoverageterms.Wemaintaincertaininternalprocedures
+inorder todetermine that theinformation iscomplete andincompliance withthecontractterms.Generally,ourreinsurance contracts
+permitustoaccessthecedingcompany’sbooksandrecordswithrespecttothesubjectbusiness,thusprovidingtheabilitytoauditthe
+reported information. In the normal course of business, disputes occasionally arise concerning whether claims are covered by our
+reinsurance policies. We resolve most coverage disputes through negotiation with the client. If disputes cannot be resolved, our
+contractsgenerallyprovidearbitrationoralternativedisputeresolutionprocesses.Therearenocoveragedisputesatthistimeforwhich
+anadverseresolutionwouldlikelyhaveamaterialimpactonourconsolidatedresultsofoperationsorfinancialcondition.
+Establishing claim liability estimates for reinsurance requires evaluation of loss information received from our clients. We
+generally rely on the ceding companies reported case loss estimates. We independently evaluate certain reported case losses and if
+appropriate, we use our own case liability estimate. For instance, as of December 31, 2019, our case loss estimates exceeded ceding
+company estimates by approximately $2.0 billion for certain legacy workers’ compensation claims occurring over 10 years ago. We
+alsoperiodicallyconductdetailedreviewsofindividualclientclaims,whichmaycauseustoadjustourcaseestimates.
+Although liabilities for losses are initially determined based on pricing and underwriting analysis, BHRG uses a variety of
+actuarial methodologies that place reliance ontheextrapolation ofactual historical data,lossdevelopment patterns, industry data,and
+otherbenchmarksasappropriate.TheestimateoftherequiredIBNRliabilitiesalsorequiresjudgmentbyactuariesandmanagementto
+reflect the impact of additional factors like change in business mix, volume, claim reporting and handling practices, inflation, social
+and legal environment and the terms and conditions of the contracts. The methodologies generally fall into one of the following
+categoriesorarehybridsofoneormoreofthefollowingcategories:
+Paid and incurred loss development methods – these methods consider expected case loss emergence and development patterns,
+together with expected loss ratios by year. Factors affecting our loss development analysis include, but are not limited to, changes in
+the following: client claims reporting and settlement practices; the frequency of client company claim reviews; policy terms and
+coverage (such as loss retention levels and occurrence and aggregate policy limits); loss trends; and legal trends that result in
+unanticipatedlosses.Collectively,thesefactorsinfluenceourselectionsofexpectedcaselossemergencepatterns.
+Incurred and paid loss Bornhuetter-Ferguson methods – these methods consider actual paid and incurred losses and expected
+patterns of paid and incurred losses, taking the initial expected ultimate losses into account to determine an estimate of the expected
+unpaidorunreportedlosses.
+Frequency and severity methods – these methods commonly focus on a review of the number of anticipated claims and the
+anticipatedclaimsseverityandmayalsorelyondevelopmentpatternstoderivesuchestimates.However,ourprocessesandtechniques
+for estimating liabilities in such analyses generally rely more on a per-policy assessment of the ultimate cost associated with the
+individuallossratherthanwithananalysisofhistoricaldevelopmentpatternsofpastlosses.
+Additional Analysis – in some cases wehave established reinsurance claim liabilities ona contract-by-contract basis, determined
+from caselossestimates reported bythecedingcompanyandIBNRliabilities thatareprimarily afunctionofananticipated lossratio
+for the contract and the reported case loss estimate. Liabilities are adjusted upward or downward over time to reflect case losses
+reportedversusexpectedcaselosses,whichweusetoformrevisedjudgementontheadequacyoftheexpectedlossratioandthelevel
+of IBNR liabilities required for unreported claims. Anticipated loss ratios are also revised to include estimates of known major
+catastropheevents.
+K-57
+Management’sDiscussionandAnalysis(Continued)
+Propertyandcasualtylosses(Continued)
+BerkshireHathawayReinsuranceGroup(Continued)
+Our claim liability estimation process for short-tail lines, primarily property exposures, utilizes a combination of the paid and
+incurred lossdevelopment methodsandtheincurredandpaidlossBornhuetter-Ferguson methods.Certaincatastrophe, individualrisk
+andaviation excess-of-loss contracts tendtogeneratelowfrequency/high severitylosses.Ourprocessesandtechniquesforestimating
+liabilitiesundersuchcontractsgenerallyrelymoreonapercontractassessmentoftheultimatecostassociatedwiththeindividualloss
+eventratherthanwithananalysisofthehistoricaldevelopmentpatternsofpastlosses.
+Forourlong-taillines,primarilycasualtyexposures,wemayrelyondifferentmethodsdependingonthematurityofthebusiness,
+withestimates forthemostrecentyearsbeingbasedonpricedlossexpectationsandmorematureyearsreflectingthepaidorincurred
+developmentpatternindications.
+In2019,certainworkers’compensationclaimsreportedlosseswerelessthanexpected.Asaresult,wereducedestimatedultimate
+lossesforprioryears’losseventsby$150million.Weestimatethatincreasesoftenpercentinthetailoftheexpectedlossemergence
+pattern and in the expected loss ratios would produce a net increase of approximately $1.1 billion in IBNR liabilities, producing a
+correspondingdecreaseinpre-taxearnings.Webelieveitisreasonablypossiblefortheseassumptionstoincreaseattheserates.
+Wealsoreducedestimatedultimatelossesforprioryears’eventsforothercasualtylosses,excludingasbestos,environmental,and
+other latent injury claims, by $23 million, reflecting lower than expected reported losses. For certain significant casualty and general
+liability portfolios, we estimate that increases of five percent in the claim-tails of the expected loss emergence patterns and in the
+expectedlossratioswouldproduceanetincreaseinournominalIBNRliabilitiesandacorrespondingreductioninpre-taxearningsof
+approximately $850 million, although outcomes of less than $850 million are quite possible given the diversification in worldwide
+business.
+Estimated ultimate liabilities for asbestos, environmental and other latent injury claims were increased approximately
+$150millionin2019,whichproducedacorrespondingreductioninpre-taxearnings.Netliabilitiesforsuchclaims,excludingamounts
+assumed under retroactive reinsurance contracts, were approximately $1.7 billion at December 31, 2019. Loss estimations for these
+exposures are difficult to determine due to the changing legal environment and increases may be required in the future if new
+exposuresorclaimantsareidentified,newclaimsarereportedornewtheoriesofliabilityemerge.
+Retroactivereinsurance
+Our retroactive reinsurance contracts cover loss events occurring before the contract inception dates. Claim liabilities relating to
+our retroactive reinsurance contracts are predominately related to casualty or liability exposures. We expect the claim-tails to be very
+long.Ourgrossunpaidlosses,deferredchargeassets,andnetliabilitiesatDecember31,2019wereasfollows(inmillions).
+Grossunpaid Deferred Liabilities,netof
+losses charges deferredcharges
+$42,441 $(13,747) $28,694
+Our contracts are generally subject to maximum limits of indemnifications and, as such, we currently expect that maximum
+remaining gross losses payable under our retroactive policies will not exceed $56 billion. Absent significant judicial or legislative
+changes affecting asbestos, environmental or latent injury exposures, we also currently believe it unlikely that losses will develop
+upwardtothemaximumlossespayableordownwardbymorethan15%ofour$42.4billionestimatedliability.
+Weestablish liability estimates byindividual contract, considering exposure anddevelopmenttrends.Inestablishing ourliability
+estimates, we often analyze historical aggregate loss payment patterns and project expected ultimate losses under various scenarios.
+Weassignjudgmental probability factorstothesescenariosandanexpectedoutcomeisdetermined.Wethenmonitorsubsequentloss
+paymentactivityandreviewcedingcompanyreportsandotheravailableinformationconcerningtheunderlyinglosses.Were-estimate
+theexpectedultimatelosseswhensignificanteventsorsignificantdeviationsfromexpectedresultsarerevealed.
+K-58
+Management’sDiscussionandAnalysis(Continued)
+Propertyandcasualtylosses(Continued)
+Retroactivereinsurance(Continued)
+Certain of our retroactive reinsurance contracts include asbestos, environmental and other latent injury claims. Our estimated
+liabilitiesforsuchclaimswereapproximately$12.9billionatDecember31,2019.Wedonotconsistentlyreceivereliabledetaileddata
+regarding asbestos, environmental and latent injury claims from all ceding companies, particularly with respect to multi-line or
+aggregate excess-of-loss policies. When possible, we conduct a detailed analysis of the underlying loss data to make an estimate of
+ultimate reinsured losses. When detailed loss information is unavailable, wedevelop estimates byapplying recent industry trends and
+projectionstoaggregateclientdata.Judgmentsintheseareasnecessarilyconsiderthestabilityofthelegalandregulatoryenvironment
+under which we expect these claims will be adjudicated. Legal reform and legislation could also have a significant impact on our
+ultimateliabilities.
+We increased estimated ultimate liabilities forprior years’ retroactive reinsurance contracts by$378million in2019,whichafter
+the changes in related deferred charge assets, resulted in pre-tax losses of $125 million. In 2019, we paid losses and loss adjustment
+expensesof$909millionwithrespecttothesecontracts.
+In connection with our retroactive reinsurance contracts, we also record deferred charge assets, which at contract inception
+represents the excess, if any, of the estimated ultimate liability for unpaid losses over premiums. We amortize deferred charge assets,
+which produces charges to pre-tax earnings in future periods based on the expected timing and amount of loss payments. We also
+adjust deferred charge balances duetochangesintheexpected timing andultimate amountofclaim payments. Significant changesin
+suchestimates mayhaveasignificant effectonunamortized deferredchargebalancesandtheamountofperiodicamortization. Based
+on the contracts in effect as of December 31, 2019, we currently estimate that amortization expense in 2020 will approximate
+$1.2billion.
+OtherCriticalAccountingPolicies
+Our Consolidated Balance Sheet at December 31, 2019 included goodwill of acquired businesses of $81.9 billion and other
+indefinite-livedintangibleassetsof$19.0billion.Weevaluatetheseassetsforimpairmentatleastannuallyandweconductedourmost
+recent annual review during the fourth quarter of 2019. Our review of goodwill includes determining the estimated fair values of our
+reportingunits.Ourreviewofotherindefinite-livedintangibleassetsincludesdetermininganestimatedfairvalueoftheasset.
+Weprimarilyusediscountedprojectedfutureearningsorcashflowmethodsindeterminingfairvalues.Thekeyassumptionsand
+inputs used in such methods may include forecasting revenues and expenses, cash flows and capital expenditures, as well as an
+appropriatediscountrateandotherinputs.Asignificantamountofjudgmentisrequiredinestimatingthefairvalueofareportingunit
+andinperforminggoodwillimpairmenttests.
+Duetotheinherentuncertaintyinforecastingcashflowsandearnings,actualresultsmayvarysignificantly fromtheforecasts.If
+thecarryingvalueoftheindefinite-livedintangibleassetexceedsfairvalue,theexcessischargedtoearningsasanimpairmentloss.If
+the carrying value of a reporting unit exceeds the estimated fair value of the reporting unit, then, as required by GAAP, the excess,
+limitedtothecarryingamountofgoodwill,willbechargedtoearningsasanimpairmentloss.
+MarketRiskDisclosures
+Our Consolidated Balance Sheets include substantial amounts of assets and liabilities whose fair values are subject to market
+risks. Our significant market risks are primarily associated with equity prices, interest rates, foreign currency exchange rates and
+commodity prices. The fair values of our investment portfolios and equity index put option contracts remain subject to considerable
+volatility.Thefollowingsectionsaddressthesignificantmarketrisksassociatedwithourbusinessactivities.
+K-59
+Management’sDiscussionandAnalysis(Continued)
+EquityPriceRisk
+Equity securities represent a significant portion of our investment portfolio. Strategically, we strive to invest in businesses that
+possess excellent economics and able and honest management, and we prefer to invest a meaningful amount in each investee.
+Consequently, equity investments are concentrated in relatively few issuers. At December 31, 2019, approximately 67% of the total
+fairvalueofequitysecuritieswasconcentratedinfiveissuers.
+Weoftenholdourequityinvestmentsforlongperiodsandshort-termpricevolatilityhasoccurredinthepastandwilloccurinthe
+future. We also strive to maintain significant levels of shareholder capital and ample liquidity to provide a margin of safety against
+short-termpricevolatility.
+We are also subject to equity price risk with respect to our equity index put option contracts. While our ultimate liability with
+respect to these contracts is determined from the movement of the underlying stock index between the contract inception date and
+expirationdate,fairvaluesofthesecontractsarealsoaffectedbychangesinotherfactorssuchasinterestrates,expecteddividendrates
+andtheremainingdurationofthecontracts.
+The following table summarizes our equity securities and derivative contract liabilities with significant equity price risk as of
+December31,2019and2018andtheestimatedeffectsofahypothetical30%increaseanda30%decreaseinmarketpricesasofthose
+dates. The selected 30% hypothetical increase and decrease does not reflect the best or worst case scenario. Indeed, results from
+declines could be far worse due both to the nature of equity markets and the aforementioned concentrations existing in our equity
+investmentportfolio.Dollaramountsareinmillions.
+Hypothetical
+Estimated Percentage
+FairValueafter Increase(Decrease)
+Hypothetical Hypothetical inShareholders’
+FairValue PriceChange ChangeinPrices Equity(1)
+December31,2019
+Investmentsinequitysecurities $ 248,027 30% increase $ 319,445 13.3%
+30%decrease 176,749 (13.3)
+Equityindexputoptioncontractliabilities 968 30% increase 267 0.1
+30%decrease 2,776 (0.3)
+December31,2018
+Investmentsinequitysecurities $ 172,757 30% increase $ 224,584 11.7%
+30%decrease 120,930 (11.7)
+Equityindexputoptioncontractliabilities 2,452 30% increase 1,131 0.3
+30%decrease 5,362 (0.7)
+(1) Thehypotheticalpercentageincrease(decrease)isafterincometaxesatthestatutoryrateineffectasofthebalancesheetdate.
+InterestRateRisk
+We may also invest in bonds, loans or other interest rate sensitive instruments. Our strategy is to acquire or originate such
+instruments atpricesconsideredappropriate relative totheperceivedcreditrisk.Wealsoissuedebtintheordinarycourseofbusiness
+to fund business operations, business acquisitions and for other general purposes. We attempt to maintain high credit ratings, in order
+tominimizethecostofourdebt.Weinfrequentlyutilizederivativeproducts,suchasinterestrateswaps,tomanageinterestraterisks.
+The fair values of our fixed maturity investments, loans and finance receivables, and notes payable and other borrowings will
+fluctuate inresponse tochangesinmarket interest rates. Inaddition, changesininterest rate assumptions usedinourequityindexput
+option contract models cause changes in reported liabilities with respect to those contracts. Increases and decreases in interest rates
+generally translate into decreases and increases in fair values of these instruments. Additionally, fair values of interest rate sensitive
+instruments may be affected by the creditworthiness of the issuer, prepayment options, relative values of alternative investments, the
+liquidityoftheinstrumentandothergeneralmarketconditions.
+K-60
+Management’sDiscussionandAnalysis(Continued)
+InterestRateRisk(Continued)
+The following table summarizes the estimated effects of hypothetical changes in interest rates on our significant assets and
+liabilities that are subject to significant interest rate risk at December 31, 2019 and 2018. We assumed that the interest rate changes
+occur immediately and uniformly to each category of instrument and that there were no significant changes to other factors used to
+determinethevalueoftheinstrument.Thehypotheticalchangesininterestratesdonotreflectthebestorworstcasescenarios.Actual
+resultsmaydifferfromthosereflectedinthetable.Dollarsareinmillions.
+EstimatedFairValueafterHypotheticalChangein
+InterestRates
+(bp=basispoints)
+Fair 100bp 100bp 200bp 300bp
+Value decrease increase increase increase
+December31,2019
+Assets:
+Investmentsinfixedmaturitysecurities $18,685 $19,008 $18,375 $18,075 $17,787
+Investmentsinequitysecurities* 10,314 11,016 9,671 9,081 8,539
+Loansandfinancereceivables 17,861 18,527 17,240 16,660 16,116
+Liabilities:
+Notespayableandotherborrowings:
+Insuranceandother 40,589 44,334 37,454 34,799 32,534
+Railroad,utilitiesandenergy 76,237 84,758 69,160 63,218 58,193
+Equityindexputoptioncontracts 968 1,065 877 792 713
+December31,2018
+Assets:
+Investmentsinfixedmaturitysecurities $19,898 $20,260 $19,549 $19,214 $18,891
+Loansandfinancereceivables 16,377 17,006 15,844 15,318 14,823
+Liabilities:
+Notespayableandotherborrowings:
+Insuranceandother 35,361 37,559 33,380 31,691 30,208
+Railroad,utilitiesandenergy 66,422 73,063 60,840 56,107 52,063
+Equityindexputoptioncontracts 2,452 2,669 2,249 2,057 1,877
+(*) OccidentalPetroleumCumulativePerpetualPreferredStock
+ForeignCurrencyRisk
+Certain of our subsidiaries operate in foreign jurisdictions and we transact business in foreign currencies. In addition, we hold
+investments in common stocks of major multinational companies, such as The Coca-Cola Company, who have significant foreign
+businessandforeigncurrencyriskoftheirown.Wegenerallydonotattempttomatchassetsandliabilitiesbycurrencyanddonotuse
+derivativecontractstomanageforeigncurrencyrisksinanymeaningfulway.
+Our net assets subject to financial statement translation into U.S. Dollars are primarily in our insurance, utilities and energy and
+certainmanufacturingandservicessubsidiaries.Aportionofourfinancialstatementtranslation-relatedimpactfromchangesinforeign
+currency rates is recorded in other comprehensive income. In addition, we include gains or losses in net earnings related to certain
+liabilitiesofBerkshireandU.S.insurancesubsidiariesthataredenominatedinforeigncurrencies,duetochangesinexchangerates.A
+summaryofthesegains(losses),after-tax,foreachoftheyearsendingDecember31,2019and2018follows(inmillions).
+2019 2018
+Non-U.S.denominateddebtincludedinnetearnings $ 58 $ 289
+Netliabilitiesundercertainreinsurancecontractsincludedinnetearnings (92) 207
+Foreigncurrencytranslationincludedinothercomprehensiveincome 257 (1,424)
+K-61
