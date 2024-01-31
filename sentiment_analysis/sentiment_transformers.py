@@ -3,7 +3,6 @@ from transformers import pipeline, AutoTokenizer
 import re
 
 def chunk_text(text, tokenizer, max_tokens=500):
-    # Tokenize the text, keeping special tokens
     tokens = tokenizer.encode(text, add_special_tokens=True)
     max_chunk_size = max_tokens - 2
 
@@ -34,8 +33,6 @@ if __name__ == '__main__':
     model_name = "distilbert-base-uncased-finetuned-sst-2-english"
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     sentiment_analysis = pipeline("sentiment-analysis", model=model_name)
-
-    # Directory containing the discussion text files
     discussion_dir = os.path.join(os.path.dirname(os.getcwd()), 'discussion')
 
     # List of company PDFs to check

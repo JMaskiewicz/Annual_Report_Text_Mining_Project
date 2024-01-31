@@ -98,19 +98,12 @@ def make_word_cloud(text, title=None):
     plt.show()
 
 def make_map(text, positive, negative):
-    # Display word cloud for all words
     print("All Words Word Cloud:")
     make_word_cloud(text, "All Words")
-
-    # Display positive word cloud
     print("Positive Word Cloud:")
-    # Filter the text for positive words and create a word cloud
     positive_text = ' '.join([word for word in text.lower().split() if word in positive])
     make_word_cloud(positive_text, "Positive Words")
-
-    # Display negative word cloud
     print("Negative Word Cloud:")
-    # Filter the text for negative words and create a word cloud
     negative_text = ' '.join([word for word in text.lower().split() if word in negative])
     make_word_cloud(negative_text, "Negative Words")
 

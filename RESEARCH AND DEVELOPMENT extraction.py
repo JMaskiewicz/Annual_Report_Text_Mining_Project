@@ -74,8 +74,7 @@ def extract_section_pages(toc_text, section_keywords):
     for i, line in enumerate(lines):
         for keyword in section_keywords:
             if keyword.lower() in line.lower():
-                # Match page number at the end of the line
-                page_number_pattern = r'(\d+)$'  # Matches numbers at the end of a line
+                page_number_pattern = r'(\d+)$'
                 page_match = re.search(page_number_pattern, line)
 
                 if page_match:
@@ -99,19 +98,18 @@ def extract_section_pages(toc_text, section_keywords):
 
 
 def find_pdf_page_number(page):
-    # Extract text and find the last number which might be the actual page number
     text = page.extract_text()
     if text:
         numbers = re.findall(r'\d+', text)
         if numbers:
-            return int(numbers[-1])  # Return the last number found as the potential page number
+            return int(numbers[-1])
     return None
 
 
 def extract_pages_from_pdf(filepath, page_ranges):
     extracted_text = {}
     with pdfplumber.open(filepath) as pdf:
-        # Create a mapping of actual PDF page numbers to their indices
+
         pdf_page_map = {find_pdf_page_number(page): i for i, page in enumerate(pdf.pages)}
 
         for section, (toc_start, toc_end) in page_ranges.items():

@@ -28,7 +28,7 @@ def download_annual_report(company, year, filepath):
 
 
 def download_annual_reports_parallel(companies, years, reports_dir):
-    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor: # Adjust max_workers as needed
+    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
         futures = []
         for company in companies:
             for year in years:

@@ -19,7 +19,7 @@ def chunk_text(text, max_length):
         yield text[i:i + max_length]
 
 def analyze_sentiment(text):
-    chunks = chunk_text(text, 512)  # 512 tokens, adjust if needed
+    chunks = chunk_text(text, 512)
     total_score = 0
     num_chunks = 0
 
@@ -32,7 +32,6 @@ def analyze_sentiment(text):
     return total_score / num_chunks if num_chunks > 0 else 0
 
 if __name__ == '__main__':
-    # Directory containing the discussion text files
     parent_dir = os.path.join(os.getcwd(), os.pardir)
     discussion_dir = os.path.join(parent_dir, 'discussion')
 
